@@ -1,0 +1,4 @@
+# Article 407 bis
+Lorsque le débiteur a réalisé des impenses immobilières sur un terrain dont il n’est pas propriétaire mais qui lui a été affecté par décision administrative, le créancier peut aussi être autorisé à saisir conservatoirement ces immeubles en vertu d’une ordonnance rendue par le président du tribunal régional ou du tribunal départemental de la situation de ceux-ci, comme il est dit à l’article 401.
+La signification de l’ordonnance, par un même exploit, à l’autorité administrative ayant accordé l’affectation du terrain et au débiteur saisi rend d’office les impenses et le titre administratif temporairement indisponibles pour la constitution ou le transfert d’un droit quelconque.
+Mention est portée par l’autorité administrative, en marge de la décision d’affectation précisant la désignation du créancier, la date de l’ordonnance, le capital de la créance éventuelle dont le montant a été fixé par ladite ordonnance, et ses accessoires.

@@ -1,0 +1,6 @@
+# Article 492 bis
+Dès le visa du commandement le créancier saisissant présente requête au président du tribunal régional où l’expropriation est poursuivie pour entendre fixer par celui-ci le montant de la mise à prix ainsi que le taux des enchères.
+La requête doit contenir l’indication donnée par le requérant de la valeur approximative du bien saisi telle qu’elle résulte des éléments fournis par les décrets prévus par l’article 572 du Code des Obligations civiles et commerciales.
+La mise à prix fixée par le président du tribunal régional est égale au quart de la valeur approximative qu’il estime devoir retenir, en même temps qu’il détermine le montant des enchères. Cette fixation est souverainement faite par le président du tribunal régional sans recours, en aucun cas, à expertise ou évaluation.
+L’ordonnance fixant la valeur de l’immeuble, la mise à prix et le taux des enchères est immédiatement exécutoire. Elle n’est susceptible d’aucune voie de recours, ordinaire ou extraordinaire exercée par quiconque.
+Les dispositions de l’article 492 bis du Code de procédure civile sont immédiatement applicables dans les procédures de saisie immobilière en cours lorsque le dépôt du cahier des charges n’a pas encore été effectué à la date d’entrée en vigueur du présent décret.

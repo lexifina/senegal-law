@@ -1,0 +1,3 @@
+# Code de procédure civile
+
+Décret n° 64-572 du 30 juillet 1964 portant Code de procédure civile. Texte consolidé, daté du jour de sa dernière modification mentionnée (Décret n° 92-1745 du 22 décembre 1992) ; l'historique de ce code commence à cette consolidation (le texte tel qu'adopté et les versions intermédiaires ne sont pas disponibles sous forme de texte). Source (consolidated copy (vie-publique.sn)) : <https://www.vie-publique.sn/documents/439/code-procedure-civile-senegal> ; fichier : <https://www.vie-publique.sn/docs/2bccc155-d639-4011-80ca-d261023b3a7a/code-procedure-civile-senegal.pdf>. Les numéros d'articles absents de la copie source n'y figurent pas.
