@@ -1,0 +1,2 @@
+Article Premier. - Est autorisée la création d'une association étrangère dénommée :Génération Recherche Action Formation pour l'Environnement-Sénégal (GRAFE), dont le siège social se trouve établi à Rolle (canton de Vaud) Génève Suisse et au Sénégal à Dakar, Sicap Baobab, villa n° 689/D.
+Art. 2. - Cette association devra être gérée et administrée conformément aux statuts déposés au Ministère de l'Intérieur.
