@@ -1,0 +1,3 @@
+# Par arrêté présidentiel n° 2613 en date du 25 avril 2003
+
+Publié au JO n° 6132 du 2003-11-01. Texte tel que publié; source: <https://web.archive.org/web/20150610011957/http://www.jo.gouv.sn/spip.php?article764>
