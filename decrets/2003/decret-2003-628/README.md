@@ -1,0 +1,3 @@
+# DECRET n° 2003-628 en date du 18 juillet 2003 portant nomination du Directeur des Brigades de Surveillance et de Vérification de l'Occupation
+
+Publié au JO n° 6141 du 2004-01-03. Texte tel que publié; source: <https://web.archive.org/web/20150610011024/http://www.jo.gouv.sn/spip.php?article629>
