@@ -1,0 +1,2 @@
+Article Premier. - Abdoulaye Ba, Mle de solde 029.514/A, Président. de Chambre à la Cour d'Appel de Dakar avant 5 ans, groupe A1, indice 836, est placé en position de détachement auprès de la Médiature de la République, pour une période de quatre ans.
+Art 2. - Le Garde des Sceaux, Ministre de la Justice et le Ministre de l'Economie et des Finances sont chargés, chacun en ce qui concerne, de l'exécution du présent décret.
