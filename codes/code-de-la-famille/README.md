@@ -1,0 +1,3 @@
+# Code de la famille
+
+Loi n° 72-61 du 12 juin 1972 portant Code de la famille. Texte consolidé, daté du jour de sa dernière modification mentionnée (Loi n° 99-82 du 3 septembre 1999) ; l'historique de ce code commence à cette consolidation (le texte tel qu'adopté et les versions intermédiaires ne sont pas disponibles sous forme de texte). Source (consolidated copy (vie-publique.sn)) : <https://www.vie-publique.sn/documents/434/code-famille-senegal> ; fichier : <https://www.vie-publique.sn/docs/7f39d071-c466-43bd-89f1-5eea50285d23/code-famille-senegal.pdf>. Les numéros d'articles absents de la copie source n'y figurent pas.
