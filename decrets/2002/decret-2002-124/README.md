@@ -1,0 +1,3 @@
+# Décret n° 2002-124 mettant fin à un détachement et portant nomination d'un conseiller à la Cour de Cassation
+
+Publié au JO n° 6050 du 2002-06-08. Texte tel que publié; source: <https://web.archive.org/web/20150610020734/http://www.jo.gouv.sn/spip.php?article1947>
