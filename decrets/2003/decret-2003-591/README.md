@@ -1,0 +1,3 @@
+# DECRET n° 2003-591 du 16 juillet 2003 fixant les Programmes et Horaires des Enseignements et les Modalités de Contrôle des Aptitudes et des Connaissances du diplôme d'études universitaires générales de mathématiques appliquées et sciences sociales (DEUG MASS) organise conjointement par l'Unité de Formation et de Recherche (UFR) de Sciences appliquées et de technologie et l'Unité de Formation et de Recherche de Sciences économiques et de gestion.
+
+Publié au JO n° 6143 du 2004-01-17. Texte tel que publié; source: <https://web.archive.org/web/20150610010927/http://www.jo.gouv.sn/spip.php?article609>
