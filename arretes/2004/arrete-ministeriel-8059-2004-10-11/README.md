@@ -1,0 +1,3 @@
+# Arrêté Ministériel n° 8059 MEF-DGID-DEDT en date du 11 octobre 2004 portant résiliation de baux consentis par l'Etat du Sénégal à la coopération militaire de construction (COMICO) par actes administratifs approuvés les 20 décembre 1990 et 30 juillet 1998, respectivement sur une parcelle de terrain sise à Ouakam, d'une superficie de 12ha 33a 08ca, objet du titre foncier n° 26.810/DG (1ère tranche) et sur un autre terrain sis à Mermoz pyrotechnie, d'une superficie de 2ha 96a 00ca, à distraire des titres fonciers n° 1.306 et 4.334/DG (2ème tranche).
+
+Publié au JO n° 6193 du 2004-11-27. Texte tel que publié; source: <https://web.archive.org/web/20150610002239/http://www.jo.gouv.sn/spip.php?article2580>
