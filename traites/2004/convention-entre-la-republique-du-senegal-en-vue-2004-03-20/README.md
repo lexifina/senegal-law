@@ -1,0 +1,3 @@
+# CONVENTION ENTRE LA REPUBLIQUE DU SENEGAL EN VUE D'EVITER LES DOUBLES IMPOSITIONS ET DE PREVENIR L'EVASION FISCALE EN MATIERE D'IMPOTS SUR LE REVENU
+
+Publié au JO n° 6153 du 2004-03-20. Texte tel que publié; source: <https://web.archive.org/web/20150610010247/http://www.jo.gouv.sn/spip.php?article468>
