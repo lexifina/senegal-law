@@ -1,0 +1,3 @@
+# Décret n° 2003-944 en date du 26 novembre 2003 déclarant d'utilité publique le projet de réalisation d'ouvrages de franchissement supérieur aux carrefours Malick Sy angle Autoroute, Cyrnos, Colobane, Place Bakou et Capa désignant et déclarant cessibles les immeubles immatriculés nécessaires à sa réalisation et prononçant le retrait des droits réels immobiliers incrits sur les titres fonciers appartenant à l'Etat du Sénégal, situés dans l'emprise dudit projet.
+
+Publié au JO n° 6157 du 2004-04-17. Texte tel que publié; source: <https://web.archive.org/web/20150610005923/http://www.jo.gouv.sn/spip.php?article405>
