@@ -1,0 +1,5 @@
+# Article 482 ter
+Le demandeur à la défense à exécution provisoire présente selon le cas requête au Premier Président de la Cour d'Appel, ou au président du tribunal régional accompagnée de toutes les pièces justificatives du bien fondé de sa demande.
+Le magistrat saisi apprécie souverainement s'il y a lieu d'autoriser le demandeur à assigner la partie civile à une audience d'une chambre de la Cour ou du Tribunal régional, dont il fixe la date.
+L'assignation doit être notifiée au Procureur de la République, à son délégué, ou le cas échéant au président du tribunal départemental investi des pouvoirs du Procureur de la République près le tribunal qui a rendu le jugement. Ce dernier transmet le dossier selon le cas soit au Procureur général près la Cour d'Appel, soit au Procureur du tribunal régional pour qu'il soit statué sur les défenses.
+A l'audience fixée, l'affaire doit être retenue séance tenante pour être plaidée, à moins que le demandeur dépose des conclusions. Dans ce dernier cas, la juridiction compétente, donne à l'autre partie et au ministère public un délai de quinze jours pour répondre aux arguments du demandeur.
