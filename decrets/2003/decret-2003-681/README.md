@@ -1,0 +1,3 @@
+# DECRET n° 2003-681 en date du 3 septembre 2003, déclarant d'utilité publique et urgent le projet de réalisation d'un Musée des Civilisations noires, d'un Grand Théâtre national, d'une Ecole des Beaux Arts et d'un Parc ; déclarant cessible l'immeuble immatriculé, objet du T.F. n° 1.671/DK, nécessaire à la réalisation du projet et prononçant le retrait des droits immobiliers inscrits sur les titres fonciers de l'Etat du Sénégal situés dans l'emprise dudit projet.
+
+Publié au JO n° 6146 du 2004-02-07. Texte tel que publié; source: <https://web.archive.org/web/20150610010733/http://www.jo.gouv.sn/spip.php?article581>
