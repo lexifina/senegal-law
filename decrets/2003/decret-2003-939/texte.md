@@ -1,0 +1,3 @@
+Article Premier. - il est mis fin au détachement auprès de la Médiature de la République de M. Malick Diop, Mle de solde 365.116/D, conseiller référendaire de première classe, avant 5 ans, groupe A1 indice 836.
+Art. 2 .- M. Malick Diop est placé en position de détachement auprès du Ministre de l'Intérieur et des Collectivités locales, pour une période de quatre ans.
+Art. 3 .- le Ministre d'Etat, Ministre de l'Intérieur et des Collectivités locales, le Garde des Sceaux, Ministre de la Justice et le Ministre de l'Economie et des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
