@@ -1,5 +1,3 @@
-# Code de la Sécurité Sociale
+# Code de la sécurité sociale
 
-LOI N° 73-37 du 31 Juillet 1993 portant Code de la Sécurité Sociale.. Texte tel qu'adopté; source: <https://web.archive.org/web/20100827075725/http://www.jo.gouv.sn:80/spip.php?article7711>
-
-Correction : la page du Journal officiel imprime « 31 Juillet 1993 » ; la loi n° 73-37 est du 31 juillet 1973.
+Loi n° 73-37 du 31 juillet 1973 portant Code de la sécurité sociale. Texte consolidé, daté du jour de sa dernière modification mentionnée (Loi n° 97-05 du 10 mars 1997) ; l'historique de ce code commence à cette consolidation (le texte tel qu'adopté et les versions intermédiaires ne sont pas disponibles sous forme de texte). Source (consolidated copy (vie-publique.sn)) : <https://www.vie-publique.sn/documents/435/code-securite-social-senegal> ; fichier : <https://www.vie-publique.sn/docs/9404d49a-5a8d-4d46-9446-890348bcd002/code-securite-social-senegal.pdf>. Les numéros d'articles absents de la copie source n'y figurent pas.
