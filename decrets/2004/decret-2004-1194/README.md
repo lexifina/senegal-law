@@ -1,0 +1,3 @@
+# DECRET n° 2004-1194 en date du 3 septembre 2004 prescrivant l'immatriculation, au nom de l'Etat, d'un terrain du domaine national sis dans la zone de Malika, d'une superficie de 30 hectares environ, en vue de l'aménagement global du site, par l'extension du village de Malika sur 22 hectares et d'une attribution, par voie d'échange, au profit de la Société Immobilière de la Presqu'île (SIPRES) sur 8 hectares et prononçant sa désaffectation.
+
+Publié au JO n° 6189 du 2004-10-30. Texte tel que publié; source: <https://web.archive.org/web/20150610002523/http://www.jo.gouv.sn/spip.php?article4406>
