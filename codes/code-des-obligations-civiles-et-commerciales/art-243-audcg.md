@@ -1,0 +1,2 @@
+# Article 243 AU/DCG
+La partie qui est tenue de prendre des mesures pour assurer la conservation des marchandises peut les déposer dans les magasins d'un tiers aux frais de l'autre partie, à condition que les frais qui en résultent ne soient pas déraisonnables.

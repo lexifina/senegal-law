@@ -1,0 +1,4 @@
+# Article 146 AU/DCG
+L'étendue du mandat de l'intermédiaire est déterminée par la nature de l'affaire à laquelle il se rapporte, si un contrat ne l'a pas expressément fixée.
+En particulier, le mandat comprend le pouvoir de faire les actes juridiques nécessités par son exécution.
+Toutefois, l'intermédiaire ne peut, sans un pouvoir spécial, engager une procédure judiciaire, transiger, compromettre, souscrire des engagements de change, aliéner ou grever des immeubles, ni faire de donation.

@@ -1,0 +1,3 @@
+# Code des obligations civiles et commerciales
+
+Loi n° 63-62 du 10 juillet 1963 portant Code des obligations civiles et commerciales. Texte consolidé, daté du jour de sa dernière modification mentionnée (Loi n° 98-33 du 17 avril 1998) ; l'historique de ce code commence à cette consolidation (le texte tel qu'adopté et les versions intermédiaires ne sont pas disponibles sous forme de texte). Source (consolidated copy (vie-publique.sn)) : <https://www.vie-publique.sn/documents/445/code-des-obligations-civiles-et-commerciales> ; fichier : <https://www.vie-publique.sn/docs/869cc7c4-a0cb-4087-bd60-05b59abb7462/code-des-obligations-civiles-et-commerciales.pdf>. Les numéros d'articles absents de la copie source n'y figurent pas.

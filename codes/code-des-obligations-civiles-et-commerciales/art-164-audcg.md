@@ -1,0 +1,2 @@
+# Article 164 AU/DCG
+Le commettant est tenu de verser au commissionnaire une rémunération ou commission, qui est due dès lors que le mandat est exécuté, et ce, que l'opération soit bénéficiaire ou non.

@@ -1,0 +1,2 @@
+# Article 71 AU/DCG
+Est réputée bail commercial toute convention, même non écrite, existant entre le propriétaire d'un immeuble ou d'une partie d'un immeuble compris dans le champ d'application de l'article 69, et toute personne physique ou morale, permettant à cette dernière, d'exploiter dans les lieux avec l'accord du propriétaire, toute activité commerciale, industrielle, artisanale ou professionnelle.

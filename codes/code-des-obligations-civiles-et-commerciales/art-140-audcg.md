@@ -1,0 +1,2 @@
+# Article 140 AU/DCG
+Les dispositions du présent s'appliquent même si le représenté, ou le tiers, ont leurs établissements dans les Etats différents de ceux signataires du présent Acte Uniforme dès lors : a) Que l'intermédiaire est inscrit au Registre du commerce et du Crédit Mobilier de l'un des Etats parties, ou encore ; b) Que l'intermédiaire agit sur le territoire de l'un des États parties, ou encore ; c) Que les règles du Droit International Privé conduisent à l'application de cet Acte Uniforme.

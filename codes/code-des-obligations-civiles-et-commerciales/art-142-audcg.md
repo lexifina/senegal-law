@@ -1,0 +1,3 @@
+# Article 142 AU/DCG
+Le gérant, l'administrateur ou l'associé d'une société, d'une association ou de toute autre entité juridique, dotée ou non de la personnalité morale, n'est pas considéré comme l'intermédiaire de celle-ci, dans la mesure où, dans l'exercice de ses fonctions, il agit en vertu de pouvoirs conférés par la loi ou par les actes sociaux de cette entité.
+CONSTITUTION ET ETENDUE DU POUVOIR DE L'INTERMEDIAIRE

@@ -1,0 +1,2 @@
+# Article 141 AU/DCG
+Les dispositions du présent Livre ne s'appliquent pas : a) A la représentation résultant d'une habilitation légale ou judiciaire à agir pour des personnes qui n'ont pas la capacité juridique ; b) A la représentation par toute personne effectuant une vente aux enchères, ou par autorité administrative ou de justice ; c) A la représentation légale dans le Droit de la Famille, des régimes matrimoniaux et des successions.

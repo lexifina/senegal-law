@@ -1,0 +1,2 @@
+# Article 148 AU/DCG
+Lorsque l'intermédiaire agit pour le compte du représenté dans les limites de son pouvoir et que les tiers connaissaient ou devaient connaître sa qualité d'intermédiaire, ses actes tient directement le représenté au tiers, à moins qu'il ne résulte des circonstances de l'espèce, notamment par la référence à un contrat de commission ou de courtage, que l'intermédiaire n'a entendu engager que luimême.

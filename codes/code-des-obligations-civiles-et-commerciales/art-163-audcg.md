@@ -1,0 +1,2 @@
+# Article 163 AU/DCG
+Le commissionnaire doit donner au commettant tout renseignement utile relatif à l'opération, objet de la commission, le tenir informé de ses actes, et lui rendre compte loyalement une fois l'opération effectuée.

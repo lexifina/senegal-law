@@ -1,0 +1,3 @@
+# Article 90 AU/DCG
+Lorsque le loyer de la sous-location totale ou partielle est supérieur au prix du bail principal, le bailleur a la faculté d'exiger une augmentation correspondante du prix du bail principal, augmentation qui à défaut d'accord entre les parties, est fixée par la juridiction compétente, en tenant compte des éléments visés à l'article 85 ci-dessus.
+CONDITIONS ET FORMES DU RENOUVELLEMENT

@@ -1,0 +1,2 @@
+# Article 158 AU/DCG
+La cessation du mandat donné à l'intermédiaire est sans effet à l'égard du tiers, sauf s'il connaissait ou devait connaître cette cessation.

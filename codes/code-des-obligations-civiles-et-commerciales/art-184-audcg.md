@@ -1,0 +1,2 @@
+# Article 184 AU/DCG
+L'agent commercial est un mandataire, qui à titre de profession indépendante, est chargé de façon permanente de négocier, et éventuel lement, de conclure, des contrats de vente, d'achat, de location ou de prestation de services, au nom et pour le compte de producteurs, d'industriels, de commerçants, ou d'autres agents commerciaux, sans être lié envers eux par un contrat de travail.

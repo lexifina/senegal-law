@@ -1,0 +1,3 @@
+# Article 78 AU/DCG
+Le bail ne prend pas fin par la vente des locaux donnés à bail.
+En cas de mutation du droit de propriété sur l'immeuble dans lequel se trouvent les locaux donnés à bail, l'acquéreur est de plein droit substitué dans les obligations du bailleur, et doit poursuivre l'exécution du bail.
