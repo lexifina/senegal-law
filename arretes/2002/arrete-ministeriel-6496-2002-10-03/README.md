@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 6496 en date du 3 octobre 2002 abrogeant l'arrêté n° 10978 MEF-DGID-DEDT du 10 octobre 1990 autorisant la dame Denise Suzanne Andrée Guillore épouse carrière à occuper à titre précaire et révocable, la parcelle de terrain formant le lot n° 9 d'une superficie de deux cent six mètres carrés du Domaine public maritime sise à Hann plage et autorisant Mme Sarah Laure Marie Carrère à occuper à titre précaire et révocable ladite parcelle.
+
+Publié au JO n° 6096 du 2003-04-12. Texte tel que publié; source: <https://web.archive.org/web/20150610014122/http://www.jo.gouv.sn/spip.php?article1202>
