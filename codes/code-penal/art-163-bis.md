@@ -1,0 +1,8 @@
+# Article 163 bis
+(Loi n° 81-53 du 10 juillet 1981)
+L'enrichissement illicite de tout titulaire d'un mandant public électif ou d'une fonction gouvernementale, de tout magistrat, agent civil ou militaire de l'Etat, ou d'une collectivité publique, d'une personne revêtue d'un mandat public, d'un dépositaire public ou d'un officier public ou ministériel, d'un dirigeant ou d'un agent de toute nature des établissements publics, des sociétés nationales, des sociétés d'économie mixte soumises de plein droit au contrôle de l'Etat, des personnes morales de droit privé bénéficiant du concours financier de la puissance publique, des ordres professionnels, des organismes privés chargés de l'exécution d'un service public, des associations ou fondations reconnues d'utilité publique, est puni d'un emprisonnement de cinq à dix ans et d'une amende au moins égale au montant de l'enrichissement et pouvant être portée au double de ce montant.
+Le délit d'enrichissement illicite est constitué lorsque, sur simple mise en demeure, une des personnes désignées ci-dessus, se trouve dans l'impossibilité de justifier de l'origine licite des ressources qui lui permettent d'être en possession d'un patrimoine ou de mener un train de vie sans rapport avec ses revenusl égaux.
+L'origine licite des éléments du patrimoine peut être prouvée par tout moyen.
+Toutefois la seule preuve d'une libéralité ne suffit pas à justifier de cette origine licite.
+Dans le cas où l'enrichissement illicite est réalisé par l'intermédiaire d'un tiers ou d'une personne physique dirigeant la personne morale seront poursuivis comme complices de l'auteur principal.
+Première classe Des abus d'autorité contre les particuliers

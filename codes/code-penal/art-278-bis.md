@@ -1,0 +1,6 @@
+# Article 278 bis
+(Loi n° 80-48 du 24 décembre 1980)
+En cas de condamnation prononcée en application des articles 250, 251, 254, 255, 256 bis, 257 bis, 259 à 261, 265 et 266, la juridiction ordonne à titre de peine complémentaire la publication aux frais du condamné, par extrait, de sa décision dans un ou plusieurs journaux qu'elle désigne.
+Lorsque l'infraction a été commise par le moyen d'organe de presse, la juridiction ordonne en outre au directeur de publication, responsable de cet organe de presse, d'y insérer à la même place et dans les mêmes caractères, un extrait contenant les motifs et le dispositif de la décision judiciaire intervenue.
+La publication prévue aux alinéas précédents doit être exécutée dans le mois suivant le jour où la condamnation est devenue définitive.
+Le condamné qui ne fera pas publier ou qui ne publiera pas l'extrait prévu aux deux premiers alinéas du présent article sera puni d'une amende de 20.000 à 500.000 francs. Si dans le délai d'un mois après que la condamnation à l'amende est devenu définitive, le condamné n'a pas fait publier ou n'a pas publié cet extrait, il sera, en outre, puni d'une amende portée au double et d'un emprisonnement de deux à six mois.
