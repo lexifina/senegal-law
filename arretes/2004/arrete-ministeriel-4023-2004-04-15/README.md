@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 4023 MEF-DGID-DEDT du 15 avril 2004 abrogeant partiellement l'arrêté n° 11717/MEFP/DGID/DEDT en date du 25 septembre 1989 en ce qu'il autorise M. Papa Samba Mbodj à occuper à titre précaire et révocable un terrain du Domaine public maritime, d'une superficie de 200 mètres carrés, situé à Hann, formant le lot n° 7/B dudit lotissement et autorisant M. Maktar Diongue à occuper à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6173 du 2004-07-31. Texte tel que publié; source: <https://web.archive.org/web/20150610003841/http://www.jo.gouv.sn/spip.php?article6850>
