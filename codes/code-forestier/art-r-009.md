@@ -1,0 +1,3 @@
+# Article R.9
+Les forêts d'intérêt régional sont des forêts situées en dehors du domaine forestier de l'Etat et comprises dans les limites administratives de la région. Elles comprennent les forêts communales et les forêts communautaires. Les forêts communales sont des forêts situées en dehors du domaine forestier de l'Etat et comprises dans les limites administratives de la commune qui en est le gestionnaire.
+Les forêts communautaires sont des forêts situées en dehors du domaine forestier de l'Etat et comprises dans les limites administratives de la communauté rurale qui en est le gestionnaire.

@@ -1,0 +1,4 @@
+# Article R.55
+En cas de non-respect des clauses techniques accompagnant l'autorisation de défrichement, le service chargé des Eaux et Forêts est habilité à suspendre les opérations en cours et à exiger la mise en conformité.
+Le service chargé des Eaux et Forêts doit prévenir dans les quarante huit heures le président du conseil régional de la suspension. Si le contrevenant s'engage à reprendre les travaux selon les prescriptions initiales, le président du conseil régional peut l'autoriser à continuer, après avis du service chargé des Eaux et Forêts.
+Dans le cas contraire ou si le contrevenant persiste dans son attitude, il est alors dressé procès-verbal et copie en est adressée au président du conseil régional qui statue sur le retrait définitif de l'autorisation et ce, indépendamment des poursuites judiciaires encourues par le titulaire du permis de défricher pour exploitation illégale de produits forestiers.
