@@ -1,0 +1,4 @@
+# Article R.41
+Les limites des forêts du domaine forestier de l'Etat sont matérialisées sur le terrain par tout moyen à la convenance du service chargé des Eaux et Forêts et permettant d'identifier clairement leur périmètre.
+Un bornage de chaque forêt est réalisé et un levé qui en constitue le plan de bornage est fait. A ce plan est annexé un procès-verbal de bornage établi contradictoirement avec tous les riverains de la forêt. Chaque changement de direction de la limite doit être matérialisé par une borne sur le terrain. La borne ainsi utilisée doit être caractéristique des limites des forêts du domaine forestier de l'Etat et ne peut être utilisée qu'à cet usage.
+Les limites des forêts autres que celles du domaine forestier de l'Etat sont matérialisées sur le terrain par tout moyen à la convenance des collectivités locales ou du propriétaire du boisement. Un plan topographique de ces forêts est annexé au plan d'aménagement.

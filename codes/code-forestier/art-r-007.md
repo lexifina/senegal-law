@@ -1,0 +1,2 @@
+# Article R.7
+Les réserves spéciales sont des zones où pour des raisons scientifiques, touristiques ou écologiques, certaines restrictions, temporaires ou définitives, relatives à la chasse, à la pêche, à la capture des animaux, l'exploitation des végétaux, des produits du sol et du sous-sol, à la réalisation d'infrastructures, sont nécessaires à des fins scientifiques, touristiques ou écologiques.
