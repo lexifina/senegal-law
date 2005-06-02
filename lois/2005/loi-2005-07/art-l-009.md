@@ -1,0 +1,4 @@
+# Article L.9
+Pour les besoins de la supervision et du contrôle de la gestion du fichier électoral par la C.E.N.A., l'Administration est tenue d'assurer le processus de révision de tous les enregistrements du fichier électoral.
+L'organisation du traitement du fichier doit garantir toutes les possibilités de contrôle visant la reconstitution de tout enregistrement vers son origine et vice-versa. L'Administration est tenue, pour ce faire, d'assurer la conservation séquentielle et chronologique par lieu, date et numéro d'ordre de tous les documents électoraux, en particulier des carnets d'inscription, de modification et de radiation sur les listes électorales et des registres de distribution des cartes d'électeurs.
+Toute inscription sur le fichier électoral doit porter les date et lieu de présentation de l'électeur devant la commission d'inscription ou de révision, ainsi que les références de la commission.
