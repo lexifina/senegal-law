@@ -1,0 +1,3 @@
+# DECRET n° 2005-913 du 12 octobre 2005 portant application des normes codex pour les graisses et les huiles comestibles non visées par des normes individuelles (CODEX STAN 19-1981), pour les huiles d'olive vierges et raffinées et pour l'huile de grignons d'olive raffinée (CODEX Stan 33-1981), pour l'étiquetage des denrées alimentaires préemballées (CODEX STAN 1-1985) et pour les huiles végétales portant un nom spécifique (CODEX STAN 210-1999).
+
+Publié au JO n° 6247 du 2005-10-22. Texte tel que publié; source: <https://web.archive.org/web/20150609234826/http://www.jo.gouv.sn/spip.php?article2662>
