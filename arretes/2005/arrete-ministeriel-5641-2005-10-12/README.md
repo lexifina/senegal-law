@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 5641 en date du 12 octobre 2005 abrogeant l'arrêté n° 14 441 MEF/DGID/DEDT du 9 avril 2002 autorisant la Société sénégalaise de l'Immobilier et du Tourisme (S.I.T.-S.A) à occuper, à titre précaire et révocable, une parcelle du domaine public sise à Dakar, corniche ouest, au lieudit Fenêtre Mermoz, d'une superficie de 1 ha 70 a 00 ca et autorisant la société Water Front Dakar à occuper, à titre précaire et révocable, ladite parcelle, en vue d'y réaliser un complexe hôtelier, un port de pêche sportive et un centre de thalassothérapie et de cure thermale.
+
+Publié au JO n° 6257 du 2005-12-31. Texte tel que publié; source: <https://web.archive.org/web/20150609233720/http://www.jo.gouv.sn/spip.php?article3050>
