@@ -1,0 +1,3 @@
+# DECRET n° 2005-973 du 20 octobre 2005 modifiant les dispositions de l'article 2 du décret n° 2004-1234 du 15 septembre 2004 déclarant d'utilité publique le projet de réalisation d'une route reliant le Rond-Point de l'Avenue Malick Sy à la Place de Gare de Dakar, déclarant cessibles les immeubles immatriculés situés dans l'emprise du projet, désignant les immeubles domaniaux nécessaires à la réalisation du projet, retirant l'acte administratif portant bail par l'Etat au profit de la société « MATFORCE » et autorisant l'Etat à prendre possession de l'assiette foncière nécessaire à la réalisation du projet.
+
+Publié au JO n° 6257 du 2005-12-31. Texte tel que publié; source: <https://web.archive.org/web/20150609233710/http://www.jo.gouv.sn/spip.php?article3045>
