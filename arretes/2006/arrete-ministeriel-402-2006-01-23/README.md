@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 402 MEF-DGID-DEDT en date du 23 janvier 2006 abrogeant partiellement l'arrêté n° 11717 MEF-DGID-DEDT en date du 25 septembre 1989 en ce qu'il autorise M. Amadou Lamine Ndiaye à occuper, à titre précaire et recevable, un terrain du domaine public maritime, situé à Hann Marinas, formant le lot n° 2/A dudit lotissement, d'une superficie de 210 mètres carrés environ, et autorisant M. Abdoul Aziz Guèye à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6276 du 2006-04-29. Texte tel que publié; source: <https://web.archive.org/web/20150609231015/http://www.jo.gouv.sn/spip.php?article4675>
