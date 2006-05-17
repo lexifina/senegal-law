@@ -1,0 +1,3 @@
+# DEcret n° 2006-103 en date du 3 février 2006 déclarant d'utilité publique le maintien des villages situés sur l'assiette du titre foncier n° 1975-R, ainsi que de leurs dépendances et de l'espace nécessaire à leur survie et à leur extension et désignant et déclarant cessible l'immeuble immatriculé objet du titre foncier n° 1975-R, d'une superficie de 2.276 ha 13 a 48 ca, sis dans la banlieue de Rufisque, appartenant aux héritiers de feu Emile Maurice Chevance Bertin.
+
+Publié au JO n° 6278 du 2006-05-13. Texte tel que publié; source: <https://web.archive.org/web/20150609230717/http://www.jo.gouv.sn/spip.php?article4732>
