@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 911 MEF-DGID-DEDT en date du 31 janvier 2006 abrogeant partiellement l'arrêté n° 9133/MEFP/DGID/DEDT en date du 23 octobre 1997 en ce qu'il autorise M. Mamadou Seck à occuper un terrain du Domaine public maritime situé à l'île de Ngor, formant le lot n° 103 du lotissement balnéaire de la localité, d'une superficie de 335 mètres carrés environ, et autorisant M. Salif Alassane Diao à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6279 du 2006-05-20. Texte tel que publié; source: <https://web.archive.org/web/20150609230624/http://www.jo.gouv.sn/spip.php?article4771>
