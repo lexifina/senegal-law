@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 912 MEF-DGID-DEDT en date du 31 janvier 2006 abrogeant partiellement l'arrêté n° 9133 MEFP-DGID-DEDT en date du 23 octobre 1997 en ce qu'il autorise Mme Fatimata Sow Bâ à occuper un terrain du Domaine public maritime situé à l'île de Ngor, formant le lot n° 93 du lotissement balnéaire de la localité, d'une superficie de 648 mètres carrés environ, et autorisant Melle Fatimata Ndiaye à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6279 du 2006-05-20. Texte tel que publié; source: <https://web.archive.org/web/20150609230626/http://www.jo.gouv.sn/spip.php?article4772>
