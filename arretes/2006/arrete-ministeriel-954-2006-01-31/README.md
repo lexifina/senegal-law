@@ -1,0 +1,3 @@
+# Arrêté ministEriel n° 954 MEF-DGID-DEDT en date du 31 janvier 2006 abrogeant l'arrêté n° 8376 MEF-DGID-DEDT en date du 1er décembre 2003 autorisant M. Ibrahima Bakhoum à occuper à titre précaire et révocable un terrain du domaine public maritime situé à Warang, Département de Mbour, d'une superficie de 1.000 mètres carrés et autorisant M. Ibrahima Bakhoum à occuper à titre précaire et révocable un terrain du domaine public maritime situé à Warang, Département de Mbour, d'une superficie de 3.705 mètres carrés.
+
+Publié au JO n° 6281 du 2006-06-03. Texte tel que publié; source: <https://web.archive.org/web/20150609230446/http://www.jo.gouv.sn/spip.php?article4812>
