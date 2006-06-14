@@ -1,0 +1,3 @@
+# DECRET n° 2006-144 en date du 27 février 2006 prononçant le déclassement d'une dépendance du Domaine public maritime située au nord de la Cité Diamalaye, d'une superficie de 26.200 mètres carrés, déclarant d'utilité publique le projet de réalisation d'un programme de logements sur ledit immeuble ainsi que sur le terrain contigu, d'une superficie de 10.500 mètres carrés, dépendant du Domaine national, l'entier terrain couvrant une superficie totale de 36.700 mètres carrés et prescrivant l'immatriculation dudit terrain au nom de l'Etat du Sénégal en vue de son attribution par voie de bail.
+
+Publié au JO n° 6282 du 2006-06-10. Texte tel que publié; source: <https://web.archive.org/web/20150609230404/http://www.jo.gouv.sn/spip.php?article4831>
