@@ -1,0 +1,3 @@
+# DECRET n° 2006-395 en date du 28 avril 2006 déclarant d'utilité publique et urgent le projet d'élargissement de la Corniche Ouest de Dakar sur le tronçon « Bloc des Madeleines - Cabinet ATEPA - Mosquée de la Divinité, désignant et déclarant cessibles les immeubles immatriculés compris dans l'assiette du projet, désignant les immeubles domaniaux nécessaires à la réalisation du projet, retirant les titres d'occupation consentis sur les immeubles domaniaux nécessaires à la réalisation du projet et autorisant l'Etat à prendre possession de l'assiette foncière nécessaire à la réalisation du projet.
+
+Publié au JO n° 6298 du 2006-09-23. Texte tel que publié; source: <https://web.archive.org/web/20150609224859/http://www.jo.gouv.sn/spip.php?article4565>
