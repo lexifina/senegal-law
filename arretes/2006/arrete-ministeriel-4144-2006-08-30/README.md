@@ -1,0 +1,3 @@
+# Arrêté Ministériel n° 4144 MEF-DGID-DEDT en date du 30 août 2006 abrogeant l'arrêté n° 16118 MTPHU en date du 30 août 1962 autorisant la Société africaine d'Expansion chimique « SAEC » SA à occuper un terrain du domaine public maritime situé à Hann Plage, formant les lots n° 12 et 29 du lotissement balnéaire de la localité, d'une superficie de 450 mètres carrés environ, et autorisant M. Oumar Sow à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6304 du 2006-11-04. Texte tel que publié; source: <https://web.archive.org/web/20150609224705/http://www.jo.gouv.sn/spip.php?article5532>
