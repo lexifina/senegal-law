@@ -1,0 +1,3 @@
+# Arrêté ministériel n° 4168 en date du 18 juillet 2006 MEF-DGID-DEDT abrogeant partiellement l'arrêté n° 13631 MEF-DGID-DEDT en date du 16 novembre 1985 en ce qu'il autorise M. Madieyna Diouf à occuper un terrain du domaine public maritime situé à Hann Marinas, formant le lot n° Z/1 du lotissement balnéaire de la localité, d'une superficie de 235 mètres carrés environ, et autorisant M. Mamadou Diop à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6309 du 2006-11-25. Texte tel que publié; source: <https://web.archive.org/web/20150609224518/http://www.jo.gouv.sn/spip.php?article5099>
