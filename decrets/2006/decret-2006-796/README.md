@@ -1,0 +1,3 @@
+# Décret n° 2006-796 en date du 12 septembre 2006 prononçant l'incorporation au domaine national d'un immeuble du Code civil situé à Saint-Louis, au quartier Nord, d'une superficie de 67 mètres carrés, du plan de lotissement dudit quartier, ayant fait l'objet d'une transcription à la Conservation des hypothèques de Saint-Louis le 13 janvier 1860. Prescrivant l'immatriculation au nom de l'Etat dudit terrain et prescrivant la désaffectation du terrain en cause.
+
+Publié au JO n° 6322 du 2007-01-27. Texte tel que publié; source: <https://web.archive.org/web/20150609223648/http://www.jo.gouv.sn/spip.php?article5347>
