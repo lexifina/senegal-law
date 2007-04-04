@@ -1,0 +1,3 @@
+# Arrêté ministériel n° 6925 mefP-dgid-dedt en date du 13 octobre 2006 abrogeant l'arrêté n° 59 mefP-dgid-dedt en date du 3 janvier 1992 autorisant M. Mahécor Diouf à occuper, à titre précaire et révocable, un terrain du domaine public maritime situé à Ngaparou, dans le département de Mbour, d'une superficie de 1.198 mètres carrés environ, et autorisant Maître Bineta Thiam à occuper, à titre précaire et révocable ledit terrain à usage de Cabanon.
+
+Publié au JO n° 6337 du 2007-03-31. Texte tel que publié; source: <https://web.archive.org/web/20150609223244/http://www.jo.gouv.sn/spip.php?article5784>
