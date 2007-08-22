@@ -1,0 +1,3 @@
+# DECRET n° 2007-429 en date du 23 mars 2007 déclarant d'utilité publique le projet de réalisation, par la société Water Front Dakar, d'un ensemble immobilier, sur une parcelle du domaine public maritime de la corniche ouest à Dakar, au lieudit Fenêtre-Mermoz, d'une superficie de 3 ha 00 a 00 ca prononçant le déclassement de cette dépendance du domaine public maritime, et son incorporation au domaine national, prescrivant l'immatriculation au nom de l'Etat, de ladite parcelle et prononçant sa désaffectation, en vue de son attribution par voie de bail à la société Water Front Dakar.
+
+Publié au JO n° 6361 du 2007-08-18. Texte tel que publié; source: <https://web.archive.org/web/20150609221602/http://www.jo.gouv.sn/spip.php?article6086>
