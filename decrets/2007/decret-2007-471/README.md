@@ -1,0 +1,3 @@
+# DECRET n° 2007-471 en date du 29 mars 2007 modifiant les dispositions de l'article 1er du décret n° 2005-1115 du 21 novembre 2005, lui-même modifiant le décret n° 2004-1278 du 28 septembre 2004 fixant le montant des indemnités dues aux titulaires de baux consentis sur l'assiette du projet de la Gare routière de Dalifort, ordonnant leur paiement aux ayants droit ou leur consignation, et autorisant la prise de possession, par l'Etat, de l'assiette dudit projet.
+
+Publié au JO n° 6362 du 2007-08-25. Texte tel que publié; source: <https://web.archive.org/web/20150609221504/http://www.jo.gouv.sn/spip.php?article6127>
