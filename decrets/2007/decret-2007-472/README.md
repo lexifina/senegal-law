@@ -1,0 +1,3 @@
+# DECRET n° 2007-472 en date du 29 mars 2007 prononçant la désaffectation d'un terrain du domaine national dont l'immatriculation est prescrite, situé dans la zone de Keur Massar, à l'Est de Mbeubeuss, entre l'assiette foncière de la VDN et la localité précitée, d'une superficie de 350 hectares, destiné essentiellement à accueillir des populations déplacées pour cause d'inondations ou en raison de divers projets d'Etat, fixant le montant des indemnités dues aux occupants et ordonnant le paiement ou la consignation et autorisant l'Etat à prendre possession du terrain en cause.
+
+Publié au JO n° 6362 du 2007-08-25. Texte tel que publié; source: <https://web.archive.org/web/20150609221506/http://www.jo.gouv.sn/spip.php?article6128>
