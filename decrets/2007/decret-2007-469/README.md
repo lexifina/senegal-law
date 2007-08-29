@@ -1,0 +1,3 @@
+# DECRET n° 2007-469 en date du 29 mars 2007 prescrivant l'immatriculation, au nom de l'Etat, des dépendances du domaine national, d'une contenance globale de 10.000 hectares environ, comprises dans le périmètre de la Zone économique spéciale intégrée dont l'assiette foncière est située entre la Plateforme du Millénaire de Diamniadio, la Route nationale n° 1, l'Aéroport « Blaise Diagne » la route et le Village de Popenguine, l'Océan atlantique et la Route de Yenne Todd-Ndoukhoura Ouoloff.
+
+Publié au JO n° 6362 du 2007-08-25. Texte tel que publié; source: <https://web.archive.org/web/20150609221500/http://www.jo.gouv.sn/spip.php?article6125>
