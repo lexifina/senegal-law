@@ -1,0 +1,3 @@
+# DECRET n° 2007-566 en date du 30 avril 2007 prescrivant l'immatriculation au nom de l'Etat d'une parcelle de terrain du domaine national sise à Tivaouane Peulh, d'une superficie de cinquante (50) hectares, en vue de son attribution par voie de bail au profit de la société « Groupe NABI » pour la construction d'un programme de logements du « Plan JAXAAY », prononçant sa désaffectation, fixant le montant des indemnités dues aux occupants et ordonnant le paiement ou la consignation, autorisant l'Etat à prendre possession du terrain en cause.
+
+Publié au JO n° 6368 du 2007-09-29. Texte tel que publié; source: <https://web.archive.org/web/20150609221113/http://www.jo.gouv.sn/spip.php?article6199>
