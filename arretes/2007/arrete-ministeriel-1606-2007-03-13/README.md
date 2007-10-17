@@ -1,0 +1,3 @@
+# Arrêté ministériel n° 1606 MEF-DGID-DEDT en date du 13 mars 2007 abrogeant partiellement l'arrêté n° 4379-Ta en date du 18 mars 1965 en ce qu'il autorise Mme Ravarit à occuper un terrain du Domaine public maritime situé à Ngor, formant le lot n° 56 du lotissement balnéaire de la localité (ex lot n° 45 bis), d'une superficie de 285 mètres carrés environ, et autorisant M. Jean Frédéric Tourot à occuper, à titre précaire et révocable ledit terrain.
+
+Publié au JO n° 6370 du 2007-10-13. Texte tel que publié; source: <https://web.archive.org/web/20150609221013/http://www.jo.gouv.sn/spip.php?article6222>
