@@ -1,0 +1,3 @@
+# DECRET n° 2007-1029 en date du 7 septembre 2007 prononçant la désaffectation d'un terrain du Domaine national situé dans la Zone de Dalla Peulh, département de Mbacké, d'une superficie de 20 hectares, en vue de son attribution par voie de bail à la Société civile immobilière « Darou Salam », fixant le montant des indemnités dues aux occupants et ordonnant leur paiement ou leur consignation, autorisant l'Etat à prendre possession du terrain en cause.
+
+Publié au JO n° 6376 du 2007-11-24. Texte tel que publié; source: <https://web.archive.org/web/20150609220500/http://www.jo.gouv.sn/spip.php?article6337>
