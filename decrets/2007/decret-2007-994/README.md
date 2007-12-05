@@ -1,0 +1,3 @@
+# Décret n° 2007-994 du 7 septembre 2007 relatif aux attributions du Ministre de L'Artisanat et du Tourisme.
+
+Publié au JO n° 6377 du 2007-12-01. Texte tel que publié; source: <https://web.archive.org/web/20150609220339/http://www.jo.gouv.sn/spip.php?article6361>
