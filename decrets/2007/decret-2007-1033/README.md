@@ -1,0 +1,3 @@
+# DECRET n° 2007-1033 en date du 7 septembre 2007 abrogeant les dispositions de l'article 3 du décret n° 2005-711 du 9 août 2005 déclarant d'utilité publique le projet de construction de soixante dix mille (70.000) logements à Diamniadio dans le département de Rufisque, prescrivant l'immatriculation des dépendances du domaine national constituant l'assiette du projet d'une contenance de 228 hectares environ, déclarant cessible l'immeuble immatriculé objet du titre foncier
+
+Publié au JO n° 6379 du 2007-12-15. Texte tel que publié; source: <https://web.archive.org/web/20150609220219/http://www.jo.gouv.sn/spip.php?article6393>
