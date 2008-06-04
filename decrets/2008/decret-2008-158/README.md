@@ -1,0 +1,3 @@
+# DECRET n° 2008-158 en date du 27 février 2008 prescrivant l'immatriculation, au nom de l'Etat, d'une parcelle de terrain du domaine national située à Tivaouane Peulh, d'une superficie de 164 ha 85 a 53 ca, devant servir de site de recasement pour les familles à déplacer dans le cadre de la réalisation du projet de l'autoroute à péage « Dakar-Thiès » ainsi que pour les personnes installées dans les emprises des voies à dégager pour la restructuration des quartiers traversés.
+
+Publié au JO n° 6410 du 2008-05-31. Texte tel que publié; source: <https://web.archive.org/web/20150609214643/http://www.jo.gouv.sn/spip.php?article6697>
