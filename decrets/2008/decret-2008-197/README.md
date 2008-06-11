@@ -1,0 +1,3 @@
+# DECRET n° 2008-197 en date du 4 mars 2008 modifiant le décret n° 2005-1114 du 21 novembre 2005 prescrivant l'immatriculation, au nom de l'Etat du Sénégal, d'un terrain du domaine national situé à Mbao Gare, d'une superficie de 97 hectares, destiné essentiellement à l'extension de la Zone d'Aménagement concerté (Z.A.C.) de Mbao, en exécution d'une directive présidentielle issue du rapport de l'Inspection générale d'Etat relatif à la Zone franche industrielle de Dakar, portant règlement des problèmes domaniaux de ce site.
+
+Publié au JO n° 6411 du 2008-06-07. Texte tel que publié; source: <https://web.archive.org/web/20150609214548/http://www.jo.gouv.sn/spip.php?article6767>
