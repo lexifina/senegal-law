@@ -1,0 +1,3 @@
+# Décret n° 2008-945 en date du 11 août 2008 portant constatation de la déclaration d'utilité publique de projet d'application du plan d'aménagement de Hann-Dalifort, du fait d'avoir été approuvé et rendu exécutoires par le décret n° 89-1155 du 26 septembre 1989, portant retrait, pour cause d'utilité publique, des baux consentis à diverses personnes sur les parcelles du titre foncier n° 50-DP issues du « lotissement maraîcher » de Hann-Dalifort, nécessaires à la réalisation du projet d'application du plan d'aménagement approuvé de ladite localité.
+
+Publié au JO n° 6433 du 2008-10-25. Texte tel que publié; source: <https://web.archive.org/web/20150609212210/http://www.jo.gouv.sn/spip.php?article7152>
