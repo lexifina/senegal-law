@@ -1,0 +1,3 @@
+# Décret n° 2008-1100 en date du 2 octobre 2008 déclarant cessible, dans sa partie disponible, soit pour une superficie de 3 ha 66 a 88 ca, l'immeuble immatriculé, en nature de terrain urbain nu, faisant l'objet du titre foncier n° 283-DP, sis à Guinaw rail, nécessaire à la réalisation du projet de bassin de rétention des eaux de pluies sur le site dénommé « Mare de Guinaw rail », prononçant la désaffectation des terrains du Domaine national compris dans l'assiette dudit projet, d'une superfice de globale de 2 ha 81 a 11 ca.
+
+Publié au JO n° 6450 du 2009-01-17. Texte tel que publié; source: <https://web.archive.org/web/20150609211604/http://www.jo.gouv.sn/spip.php?article7244>
