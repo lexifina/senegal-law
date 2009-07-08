@@ -1,0 +1,2 @@
+# Article L.90
+Lorsqu'une société ou une coopérative mentionnée respectivement aux articles L 66 et L 77 ne poursuit pas simultanément la construction de l'ensemble des logements répondant à son objet, ses statuts peuvent prévoir que les appels de fonds supplémentaires nécessaires pour la réalisation de chaque programme, y compris la participation à toutes dépenses d'intérêt commun, seront répartis entre les seuls associés ou membres ayant vocation aux logements construits dans le cadre de chacun desdits programmes.

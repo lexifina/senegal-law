@@ -1,0 +1,2 @@
+# Article L.94
+Lorsque les projets d'aménagement des ensembles d'habitations entrepris ou réalisés par la société ou coopérative d’habitat et de construction comportent des ouvrages d'intérêt commun à plusieurs des sociétés ou coopératives nouvelles, la société ou la coopérative anciennes ne peuvent être dissoutes qu'après qu'une association de copropriétaires eut été établie par un règlement de copropriété ou qu'une association ait été constituée pour assurer l'entretien et, le cas échéant, l'exécution desdits ouvrages.

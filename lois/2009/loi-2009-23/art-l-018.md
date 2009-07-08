@@ -1,0 +1,2 @@
+# Article L.18
+Toute clause d’un contrat qui a pour objet soit d’exclure ou de limiter la responsabilité prévue aux articles L 13, L 14, et L 15, soit d’exclure les garanties prévues aux articles L 16 et L 29 ou d’en limiter la portée soit d’écarter ou de limiter la solidarité prévue à l'article L 17 est nulle et non avenue, sauf en cas de force majeure ou de la faute d’un tiers dont la preuve devra être rapportée par le constructeur.

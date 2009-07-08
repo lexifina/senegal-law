@@ -1,0 +1,2 @@
+# Article L.37
+Tout contrat d'assurance souscrit par une personne assujettie à l'obligation d'assurance en vertu de la présente section est, nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses types fixées par Le Ministre chargé des Assurances.

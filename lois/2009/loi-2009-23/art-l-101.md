@@ -1,0 +1,4 @@
+# Article L.101
+Les dispositions du premier alinéa de l'article L 92 ne sont pas obligatoires lorsque la personne qui s'oblige envers le maître de l'ouvrage n’accomplit que les opérations administratives prévues à l'article L 92.
+Les sociétés visées aux chapitres Ier, II et III du titre précédent qui, lors de l'achat d'une fraction de terrain sur lequel elles construiront, s'obligent à l'égard du vendeur, lequel conserve le surplus du terrain, à faire édifier pour son compte les immeubles correspondant audit surplus et à assumer la charge de leur coût ne sont pas tenues de passer un contrat de promotion avec ledit vendeur.
+Dans le cas prévu à l'alinéa précédent, les obligations contractées par la société à l'égard du vendeur sont garanties par la personne avec laquelle la société a conclu un contrat de promotion ou, s'il y a lieu, par son représentant légal ou statutaire assumant les obligations du promoteur.

@@ -1,0 +1,4 @@
+# Article L.22
+Les architectes, techniciens, entrepreneurs, tâcherons, artisans ou autres personnes responsables de l'exécution de constructions ayant donné lieu postérieurement à la promulgation de la présente loi à une condamnation réprimant les infractions aux règles applicables en matière d'urbanisme et de construction ne sont plus admis, temporairement ou définitivement, à prêter leurs services à l’Etat, aux collectivités locales, ainsi qu'aux établissements publics et organismes relevant de ces collectivités. L'exclusion temporaire ou définitive est prononcée, après avis d'une commission.
+Toutes les sociétés de construction de bâtiments, suivant contrat d’entreprise, sont soumises aux dispositions juridiques relatives aux qualifications et classifications des entreprises, entrepreneurs et artisans de bâtiments et des travaux publics.
+SOUS SECTION 2 : - L’ASSISTANCE ARCHITECTURALE.

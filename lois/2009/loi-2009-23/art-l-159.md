@@ -1,0 +1,5 @@
+# Article L.159
+Est puni de six mos à deux ans d’emprisonnement et d’un million à cinq millions d’amende le fait :
+a) De se livrer ou prêter son concours, d’une manière habituelle, même à titre accessoire, des opérations visées à l’article L 155 sans être titulaire de la carte professionnelle ou après l’avoir restituée ou en ayant omis de la restituer après injonction de l’autorité administrative compétente ;
+b) Pour toute personne qui assume la direction d’un établissement, d’une entreprise, d’une succursale, d’une agence ou d’un bureau, de n’avoir pas effectué la déclaration préalable d’activité prévue pour obtenir la carte professionnelle ;
+c) Pour toute personne qui exerce les fonctions de représentant légal ou statutaire d’une personne morale, de se livrer ou de prêter son concours, même à titre accessoire, d’une manière habituelle à l’activité de syndic à titre professionnel visée à l’article L 156, sans remplir ou en ayant cessé de remplir les conditions prévues à cet article pour exercer cette activité.

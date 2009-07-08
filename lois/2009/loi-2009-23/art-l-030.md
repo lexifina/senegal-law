@@ -1,0 +1,9 @@
+# Article L.30
+Toute personne physique ou morale, qui agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les constructeurs au sens de l'article L14, les fabricants et importateurs ou le contrôleur technique sur le fondement de l'article L 13.
+Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article L 19. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
+- avant la réception, après mise en demeure restée infructueuse, le contrat de louage d’ouvrage conclu avec l'entrepreneur est résilié pour inexécution par celui-ci de ses obligations ;
+- après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
+L’assurance tous risques chantier valable pendant la phase de chantier et pendant les opérations de maintenance, garantit, en cours des travaux, les dommages matériels occasionnés accidentellement à l’ouvrage en construction et les biens se trouvant sur le chantier appartenant au maître de l’ouvrage ou qui lui sont confiés. Cette assurance garantit aussi, dans un délai de douze mois après réception provisoire, les dommages accidentels affectant tout ou partie de l’ouvrage consécutif à une négligence, maladresse ou fausse imputables aux intervenants assurés durant leurs visites de maintenance.
+Toute entreprise d'assurance agréée conformément au Code des
+Assurances pour les risques de la construction est habilitée à prendre en charge les risques prévus au présent article.
+Cette obligation ne s’applique pas à l’Etat lorsqu’il construit pour son propre compte.
