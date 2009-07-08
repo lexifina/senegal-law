@@ -1,0 +1,2 @@
+# Article L.50
+Lorsque la présence d'une construction, qu'elle soit ou non à usage d'habitation, apporte une gêne à la réception de la radiodiffusion ou de la télévision pour les occupants des bâtiments voisins, son propriétaire ou les locataires, preneurs ou occupants de bonne foi ne peuvent s'opposer, sous le contrôle de l’Autorité administrative dont relève la Communication, à l'installation de dispositifs de réception ou de réémission propres à établir des conditions de réception satisfaisantes.

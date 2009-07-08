@@ -1,0 +1,4 @@
+# Article L.143
+L’inspection générale des bâtiments peut à tout moment réclamer dans un chantier l’ensemble des documents y afférents notamment autorisation de construire, étude du sol, plans architecturaux, plans de béton armé, contrat de bureau de contrôle, police d’assurance etc…pour l’absence de l’un quelconque de ces documents elle se réserve le droit d’empêcher la poursuite des travaux d’un chantier.
+Au cours de ces contrôle, si l’inspection générale constate des bâtiments ou édifices quelconques menaçant ruine ou qui pourraient, par leur effondrement compromettre la sécurité ou n’offrent pas les garanties de solidité nécessaires a maintien de la sécurité publique, elle établit un rapport transmis au représentant de l’Etat qui sera tenu, dans ce cas, de faire prendre par la collectivité locale visée les dispositions qui s’imposent conformément à l’article L
+139.

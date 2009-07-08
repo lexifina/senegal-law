@@ -1,0 +1,3 @@
+# Article L.100
+Tout contrat par lequel une personne s'oblige envers le maître de l'ouvrage à faire procéder à la construction d'un immeuble d'habitation ou d'un immeuble à usage professionnel et d'habitation, en une qualité autre que celle de vendeur, est soumis aux règles des articles L 92 à L 99, ainsi qu'à celles du présent chapitre.
+Les dispositions du premier alinéa du présent article ne sont pas obligatoires lorsque le maître d'ouvrage est une personne qui construit un ou plusieurs immeubles en vue de la vente ou une société autre que celles mentionnées aux chapitres II et III du titre Ier du présent livre faisant construire plus de deux locaux à usage professionnel ou d'habitation.

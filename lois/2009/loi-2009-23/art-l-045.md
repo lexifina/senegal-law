@@ -1,0 +1,4 @@
+# Article L.45
+Lorsque, par suite de travaux ou d'un fait quelconque, des monuments, des ruines, substructions, mosaïques, éléments de canalisation antique, vestiges d'habitation ou de sépulture anciennes, des inscriptions ou généralement des objets pouvant intéresser la préhistoire, l'histoire, l'art, l'archéologie ou la numismatique sont mis à jour, le découvreur de ces vestiges ou objets et le propriétaire de l'immeuble où ils ont été découverts sont tenus d'en faire la déclaration immédiate, avant le déplacement desdits objets, au représentant de l’Etat au niveau de la circonscription administrative concernée.
+Celui-ci avise le Ministre chargé du Patrimoine historique ou son représentant.
+Le propriétaire de l'immeuble est responsable de la conservation provisoire des monuments, substructions ou vestiges de caractère immobilier découverts sur ses terrains. Le dépositaire des objets assume à leur égard la même responsabilité.

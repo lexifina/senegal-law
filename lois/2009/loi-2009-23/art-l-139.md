@@ -1,0 +1,5 @@
+# Article L.139
+Les collectivités locales doivent prescrire la réparation ou la démolition des murs, bâtiments ou édifices quelconques lorsqu’ils menacent ruine et qu’ils pourraient, par leur effondrement, compromettre la sécurité ou lorsque, d’une façon générale, ils n’offrent pas les garanties de solidité nécessaire au maintien de la sécurité publique.
+A cet effet, un arrêté de péril est pris et notifié aux propriétaires et aux titulaires de droits réels immobiliers sur les locaux, tels qu’ils figurent à la conservation foncière. Cet arrêté est pris par la maire ou le président du conseil rural.
+Lorsque les travaux prescrits ne concernent que les parties communes d’un immeuble en copropriété, la notification aux copropriétés est valablement faite au seul syndicat de la copropriété.
+L’arrêté prescrivant la réparation ou la démolition de l’immeuble menaçant de ruine est publié à la conservation des hypothèques ou au livre foncier dont dépend l’immeuble pour chacun des locaux aux frais du propriétaire.

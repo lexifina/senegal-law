@@ -1,0 +1,2 @@
+# Article L.144
+Les infractions aux dispositions des articles L 2, L 5, L 6, L 9, et L 57 sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des Collectivités Locales assermentés et commissionnés à cet effet par le Ministre chargé de la Construction. Les procèsverbaux dressés par ces agents sont transmis sans délai au Ministère Public.

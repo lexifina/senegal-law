@@ -1,0 +1,3 @@
+# Article L.110
+Le maître de l'ouvrage peut, par lettre dans les huit jours qui suivent la remise des clefs consécutive à la réception, dénoncer les vices apparents qu'il n'avait pas signalés lors de la réception afin qu'il y soit remédié dans le cadre de l'exécution du contrat.
+La disposition prévue à l'alinéa précédent ne s'applique pas quand le maître de l'ouvrage se fait assister, lors de la réception, par un professionnel habilité en application des articles L 21 et suivants ou par tout autre professionnel de la construction titulaire d'un contrat d'assurance couvrant les responsabilités pour ce type de mission.

@@ -1,0 +1,2 @@
+# Article L.88
+Dans le cas visé à l'article L 86, tout membre peut se retirer de la coopérative et obtenir l'attribution en propriété de son lot, lorsque l'assemblée générale ordinaire a constaté l'achèvement de l'opération de construction ainsi que la conformité du ou des immeubles au programme et qu'elle a statué sur les comptes définitifs. A défaut, tout membre peut demander au tribunal compétent, après médiation infructueuse de l’Autorité de contrôle, de constater cet achèvement et de statuer sur lesdits comptes.

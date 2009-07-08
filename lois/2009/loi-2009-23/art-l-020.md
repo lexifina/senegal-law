@@ -1,0 +1,2 @@
+# Article L.20
+Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles L 13 à L 16, est déchargée des responsabilités et garanties décennales pesant sur elle en application du présent code, après dix ans à compter de la réception provisoire des travaux ou, en application de l'article L 16, à l'expiration du délai de garantie de bon fonctionnement ou encore à l’expiration du délai de parfait achèvement visé à l’article L 19.
