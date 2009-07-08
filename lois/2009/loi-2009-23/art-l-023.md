@@ -1,0 +1,4 @@
+# Article L.23
+Les constructions ou modifications de constructions dispensées de l’obligation de recours à un architecte sont déterminées par décret.
+L’assistance architecturale peut être accordée sur sa demande à toute personne physique pour les constructions ou modifications de construction à usage d’habitation de faible importance. L’importance de ces constructions est fixée par décret. Quelle que soit la forme juridique sous laquelle il exerce, l’architecte est responsable des missions qui lui sont confiées.
+L’architecte dont la responsabilité est engagée sur le fondement de la présomption établie par les articles 449 à 452 du Code des obligations civiles et commerciales, est tenu, quelle que soit la forme juridique sous laquelle il exerce, d’être couvert par une assurance souscrite à titre personnel, par luimême ou par un tiers, employeur ou client, auprès d’une société d’assurance de son choix.

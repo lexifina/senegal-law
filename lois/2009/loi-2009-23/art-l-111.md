@@ -1,0 +1,3 @@
+# Article L.111
+Aucun prêteur ne peut émettre une offre de prêt sans avoir vérifié que le contrat comporte celles des énonciations mentionnées à l'article L 108 qui doivent y figurer au moment où l'acte lui est transmis et ne peut débloquer les fonds s'il n'a pas communication de l'attestation de garantie de livraison.
+Dans le cas de défaillance du constructeur, le prêteur est responsable des conséquences préjudiciables d'un versement excédant le pourcentage maximum du prix total exigible aux différents stades de la construction d'après l'état d'avancement des travaux dès lors que ce versement résulte de l'exécution d'une clause irrégulière du contrat.
