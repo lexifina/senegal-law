@@ -1,0 +1,3 @@
+# DECRET n° 2009-221 MEF-DGID-DEDT en date du 23 mars 2009 déclarant d'utilité publique le projet d'acquisition par l'Etat de l'immeuble abritant l'établissement hôtelier dénommé « Hôtel du Plateau », en vue de minimiser les risques encourus par la sécurité nationale, du fait de la proximité de cette structure hôtelière avec des services sensibles du Ministère de l'Intérieur, déclarant cessible l'immeuble objet du titre foncier n° 5351-DK abritant ledit établissement hôtelier.
+
+Publié au JO n° 6481 du 2009-07-25. Texte tel que publié; source: <https://web.archive.org/web/20150609205859/http://www.jo.gouv.sn/spip.php?article7589>
