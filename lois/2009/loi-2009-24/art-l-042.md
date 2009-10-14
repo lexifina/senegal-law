@@ -1,0 +1,2 @@
+# Article L.42
+Dans les cas où il n'existe pas de conduite fermée ou à ciel ouvert à moins de trente mètres de distance des limites accessibles du lieu concerné, l'eau pluviale doit obligatoirement s'écouler vers les sols perméables les plus proches, sous réserve des dispositions restrictives des articles L 40, L 72 et L 74 de la présente loi et des obligations de respect de la propriété d'autrui.

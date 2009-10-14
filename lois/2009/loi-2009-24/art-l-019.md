@@ -1,0 +1,2 @@
+# Article L.19
+Lorsque le propriétaire d'un lieu produisant des effluents pollués d'origine domestique, ne pouvant prétendre à l'application de l'article L 18 alinéa 2 de la présente loi, ne s'est pas conformé à l'obligation de raccordement de son dispositif d'évacuation d'eaux usées à l'égout public, il est astreint au paiement des taxes et redevances appliquées aux utilisateurs des égouts publics, nonobstant les contraintes pouvant être exercées contre lui au titre de dispositions pénales de la présente loi.
