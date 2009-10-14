@@ -1,0 +1,2 @@
+# Article L.66
+Des prélèvements d'échantillons d'eaux et des contrôles peuvent être effectués par le Service chargé de l'assainissement à tout moment et partout où c'est nécessaire, afin de vérifier la conformité de la qualité des rejets par rapport aux prescriptions de la convention spéciale. Les analyses sont faites par le laboratoire du Service chargé de l'assainissement ou tout autre laboratoire agréé par ce dernier.

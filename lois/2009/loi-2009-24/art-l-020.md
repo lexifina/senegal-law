@@ -1,0 +1,2 @@
+# Article L.20
+Lorsque aucun égout public n'est disponible à moins de soixante mètres du lieu de production des eaux usées domestiques ou lorsque le lieu n'est pas raccordable par gravité sur le réseau d'égout public car se heurtant à des obstacles techniques importants dûment justifiés, une dispense de raccordement peut être accordée dès lors que la propriété peut être équipée d'une installation d'assainissement autonome recevant l'ensemble des eaux usées domestiques, conforme aux dispositions des règlements et normes en vigueur au Sénégal.
