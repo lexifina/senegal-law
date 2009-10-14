@@ -1,0 +1,3 @@
+# Article L.2
+Le domaine d'application de l'assainissement liquide, eaux usées, excrétas et eaux pluviales, est régi par les dispositions du présent Code qui énonce les dispositions relatives à l'élaboration, à l'adoption et à l'approbation des plans directeurs assainissement des eaux usées et eaux pluviales pour les communes et des plans locaux d'hydraulique et d'assainissement pour les communautés rurales.
+Il définit également les dispositions relatives aux déversements, écoulements dépôts, jets, enfouissements et immersions directs ou indirects de déchets liquides, d'origines domestique, hospitalière et industrielle, soumis aux dispositions de la présente loi sur toute l'étendue du territoire terrestre, fluvial et côtier de la République du Sénégal.

@@ -1,0 +1,3 @@
+# Article L.18
+Lorsqu'un égout public est accessible à moins de soixante mètres d'un lieu produisant des effluents d'origine domestique, le dispositif d'évacuation de ce lieu doit être raccordé à l'égout public dans les conditions fixées par le Code de l'urbanisme.
+Toutefois, le Ministre chargé de l'Assainissement peut, en accord avec le Ministre chargé de l'Urbanisme, surseoir à l'obligation de raccordement lorsqu'une installation d'épuration des eaux en parfait état de fonctionnement existe depuis moins de cinq ans et qu'elle produit un effluent épuré dont les caractéristiques sont conformes aux normes en vigueur.
