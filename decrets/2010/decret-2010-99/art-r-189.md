@@ -1,0 +1,2 @@
+# Article R.189
+Le vendeur et le garant ont la faculté, au cours de l'exécution du contrat de vente, de substituer la garantie d'achèvement à la garantie de remboursement ou inversement, à la condition que cette faculté ait été prévue au contrat de vente. Cette substitution doit être notifiée à l'acquéreur.

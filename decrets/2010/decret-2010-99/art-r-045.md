@@ -1,0 +1,4 @@
+# Article R.45
+La construction ou la modification de bâtiment dont la surface de plancher hors œuvre n’excède pas 200 m² est dispensée de l’obligation de recours à un architecte, à l’exception des établissements recevant du Public, des bâtiments situés dans le périmètre d’une zone de rénovation, de restauration immobilière ou d’un secteur sauvegardé.
+L’assistance architecturale est accordée à toute personne physique qui en fait la demande pour les constructions ou modifications de construction à usage d’habitation dont la superficie hors œuvre n’excède pas 150 m².
+Les collectivités locales peuvent bénéficier de l’assistance architecturale pour toute construction ou toute modification de bâtiments dont elles assurent la maitrise d’ouvrage et dont la superficie du plancher hors œuvre n’excède pas 500m² ».

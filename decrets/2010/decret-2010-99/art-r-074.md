@@ -1,0 +1,2 @@
+# Article R.74
+Par dérogation aux dispositions du Code de l’Urbanisme dans sa partie législative, le permis de construire tant pour la construction d’un immeuble de grande hauteur que pour tous travaux à exécuter dans ces immeubles, et normalement subordonnés à la délivrance de ce permis, est délivré dans les formes habituelles, après avis de la Commission Supérieure de la Protection Civile, par le Maire ou le Président du Conseil Rural.

@@ -1,0 +1,2 @@
+# Article R.56
+Si le maître de l'ouvrage ou son mandataire fait appel à plusieurs contrôleurs techniques, il désigne l'un d'eux pour coordonner l'ensemble des missions de contrôle.

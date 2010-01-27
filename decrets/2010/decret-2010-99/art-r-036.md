@@ -1,0 +1,4 @@
+# Article R.36
+Les bâtiments et parties de bâtiments auxquels s'appliquent les dispositions de la présente section doivent être construits et aménagés de telle sorte que les consommations d'énergie pour la climatisation et l’éclairage puissent être aussi réduites que possible.
+Les installations éléctriques intérieures de toute nouvelle construction doivent désormais être conformes aux réglements et normes de sécurités édictés.
+A cet effet, des arrêtés conjoints du Ministre chargé de la Construction, du Ministre chargé de l’Energie, du Ministre chargé de l’Environnement et du Ministre chargé de la Santé et, le cas échéant, des autres Ministres intéressés précisent les caractéristiques requises en matière de compacité de batiment, d'isolation thermique, d’orientation, d’éclairage, de régulation, de ventilation naturelle et de climatisation passive.
