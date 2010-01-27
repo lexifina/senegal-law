@@ -1,0 +1,5 @@
+# Article R.1
+Les bâtiments d’habitation sont soumis, en complément aux dispositions du Code de l’Urbanisme (partie réglementaire), à celles du présent chapitre.
+Les dispositions du présent chapitre sont applicables, dans toutes les communes et communautés rurales, à la construction des bâtiments d’habitation nouveaux ou de bureaux ainsi qu’aux surélévations de bâtiments d’habitation anciens ou de bureux et aux additions à de tels bâtiments.
+Constituent des bâtiments d’habitation au sens du présent chapitre les bâtiments ou parties de bâtiment abritant un ou plusieurs logements, à l’exclusion des locaux destinés à la vie professionnelle lorsque celle-ci ne s’exerce pas au moins partiellement dans le même ensemble de pièces que la vie familiale et des locaux auxquels s’appliquent l'article R.2.
+Un logement ou habitation comprend, d’une part, des pièces principales destinées au séjour ou au sommeil, éventuellement des chambres isolées et, d’autre part, des pièces de service, telles que cuisines, salles d’eau, cabinets d’aisance, buanderies, débarras, séchoirs, ainsi que, le cas échéant, des dégagements et des dépendances.
