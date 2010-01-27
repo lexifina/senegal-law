@@ -1,0 +1,4 @@
+# Article R.145
+Lorsqu'il existe un contrat particulier dont l'objet est limité aux études préliminaires prévues au troisième alinéa de l'article L. 102, ce contrat n'est pas soumis aux règles du contrat de promotion immobilière.
+Lorsqu'un contrat de promotion immobilière fait suite à un contrat particulier d'études préliminaires, les dispositions du contrat particulier ne sont pas obligatoirement reprises dans le contrat de promotion immobilière.
+Les deux contrats sont alors passés, exécutés et réglés selon leurs règles propres indépendamment l'un de l'autre.

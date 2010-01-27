@@ -1,0 +1,2 @@
+# Article R.205
+Lorsqu’il est constaté un état des murs, bâtiments ou édifices susceptibles de justifier le recours à la procédure prévue à l’article L 139, la collectivité locale concernée est tenue d’informer, en joignant tous éléments utiles en sa possession, le propriétaire et les titulaires de droits réels immobiliers et les inviter à présenter leurs observations dans un délai qu’il fixe et qui ne peut être inférieur à un mois.

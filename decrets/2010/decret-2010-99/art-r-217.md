@@ -1,0 +1,6 @@
+# Article R.217
+Le syndic ne peut agir en justice au nom du syndicat sans y avoir été autorisé par une décision de l’assemblée générale. Une telle autorisation n’est pas nécessaire pour les actions en recouvrement de créance, la mise en œuvre des voies d’exécution forcée à l’exception de la saisie en vue de la vente d’un lot, les mesures conservatoires et les demandes qui relèvent des pouvoirs du juge de référés, ainsi que pour défendre aux actions intentées contre le syndicat.
+Dans tous les cas, le syndic rend compte à la prochaine assemblée générale des actions introduites.
+La rémunération des administrateurs provisoires et syndics judicaires de copropriété désignés en vertu de la loi du 16 juin 1988 est fixée par le président du Tribunal qui les a désignés, sans toutefois pouvoir excéder mensuellement la rémunération mensuelle qui était versée au syndic de copropriété.
+Tout appel de charge effectué par l’administrateur provisoire ou syndic judicaire de copropriété relèvera de la seule compétence de l’assemblée Générale des Copropriétaires.
+A l’issue de leur mission, ils auront la possibilité de présenter leur candidature aux fonctions de syndics dans le cadre de l’assemblée générale des copropriétaires qui doit statuer sur la désignation du syndic.

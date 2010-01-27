@@ -1,0 +1,2 @@
+# Article R.140
+Le retrait prévu par l'article L. 88 est constaté par acte authentique signé par le membre qui se retire et le représentant légal ou statutaire de la coopérative ou, en cas de refus de ce dernier, par jugement de la juridiction compétente. Les retraits entraînent de plein droit l'annulation des parts ou actions correspondant aux locaux attribués en propriété et la réduction corrélative du capital social. Le représentant légal ou statutaire de la coopérative constate la réduction du capital et apporte aux statuts les modifications nécessaires.

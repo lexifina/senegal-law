@@ -1,0 +1,4 @@
+# Article R.146
+Les plans prévus à l'article L.102 doivent être à la même échelle que ceux fournis dans le dossier de demande de permis de construire.
+Ces documents font ressortir les surfaces de chacune des pièces, de chacun des locaux, de chacun des annexes ou dégagements dont la construction est prévue en faisant mention des éléments d'équipement qui seront réalisés.
+S'il s'agit d'immeubles collectifs ou d'ensembles immobiliers comportant des locaux ou des logements semblables, les indications détaillées peuvent se limiter aux types de locaux, dès lors que sont fournies des indications suffisantes pour qu'il soit possible de connaître non seulement le nombre de locaux ou d'appartements qui seront réalisés conformément au type proposé, mais aussi la situation et la disposition de chacun de ces locaux et de ces appartements ainsi que des parties communes permettant d'y accéder.

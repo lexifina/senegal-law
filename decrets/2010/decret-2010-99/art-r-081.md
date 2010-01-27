@@ -1,0 +1,2 @@
+# Article R.81
+Les constructeurs, propriétaires et exploitants des établissements recevant du public sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes ; ces mesures sont déterminées compte tenu de la nature de l'exploitation, des dimensions des locaux, du mode de construction et du nombre de personnes pouvant être admises dans l'établissement.

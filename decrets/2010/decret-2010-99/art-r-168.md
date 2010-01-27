@@ -1,0 +1,2 @@
+# Article R.168
+Sauf stipulations contraires des parties, le revenu servant à la détermination du coefficient de révision du loyer est le revenu moyen au mètre carré. Il est obtenu en divisant le revenu brut global par la surface utile, exprimée en mètres carrés, des locaux, aménagments ou installations ayant produit des revenus locatifs au cours de l'année civile de référence. Pour les locaux à usage d'habitation, la surface utile est la surface habilitable telle qu'elle est définie par l'article R.2.
