@@ -1,0 +1,3 @@
+# ARRETE MINISTERIEL n° 118 MIN-DGPN-BEM en date du 8 janvier 2010 portant autorisation d'ouverture et d'exploitation d'une agence de surveillance, de gardiennage et d'escorte de biens privés.
+
+Publié au JO n° 6519 du 2010-04-03. Texte tel que publié; source: <https://web.archive.org/web/20220812143849/http://www.jo.gouv.sn/spip.php?article7940>
