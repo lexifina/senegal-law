@@ -1,0 +1,2 @@
+# Article R.28
+Pour toute construction, le représentant de l'Etat dans la région peut, après avis de la Commission régionale de la protection civile, demander aux constructeurs de faire procéder à la vérification, par l'un des organismes agrées par le Ministre de l'Intérieur, du degré d'inflammabilité des matériaux ou, s'il y a lieu, du degré de résistance au feu des éléments de construction employés et l'établissement du procès-verbal de ces contrôles.

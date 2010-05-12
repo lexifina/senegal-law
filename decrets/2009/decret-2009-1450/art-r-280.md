@@ -1,0 +1,2 @@
+# Article R.280
+Les tuyaux des cheminées de boulangerie auront au moins en section horizontale, une surface de 30 dm². Ils s'élèveront à 2 mètres au moins au dessus du faîte le plus élevé compris dans le périmètre de 10 mètres de rayon. Ils seront munis dans la partie inférieure d'une soupape ou d'un registre en tôle destiné à intercepter le passage de l'air en cas d'incendie. Ils seront isolés au minimum de 0,15 m de toute paroi des immeubles voisins. En cas de nuisance pour le voisinage imposer toute mesure de nature à la faire cesser.

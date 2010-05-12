@@ -1,0 +1,2 @@
+# Article R.191
+Conformément à l'article 67 d la loi n° 2008-43 du 20 août 2008 portant partie législative du présent Code, la durée de validité du certificat d'urbanisme est de six mois. Toutefois, ce délai peut être prorogé pour une durée de trois mois sur la demande de l'intéressé présenté un mois avant l'expiration du délai de validité, si les prescriptions administratives de tous les ordres applicables au terrain n'ont pas évolué. La propagation prend effet à la date de décision de prorogation.

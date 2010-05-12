@@ -1,0 +1,7 @@
+# Article R.195
+Nul ne peut entreprendre, sans autorisation administrative, une construction de quelque nature que ce soit ou apporter des modifications à des constructions existantes sur le territoire des communes, ainsi que dans les agglomérations désignées par arrêté du Ministre chargé de l'Urbanisme.
+Cette obligation s'impose aux services publics et concessionnaires de services publics de l'Etat, des départements et communes comme aux personnes privées.
+Toutefois, pour les services publics et concessionnaires de services publics de l'Etat, cette autorisation administrative obligatoire est accordée par le Ministre chargé de l'Urbanisme.
+Sur tout le Territoire national, les établissements recevant du public, les établissements industriels ou ateliers d'artisanat, les établissements classés ainsi que les constructions à édifier dans un site classé, sont soumis à l'autorisation de construire. En outre, les établissements recevant du public doivent obtenir, après constatation de la conformité des installations et
+aménagement aux prescriptions relatives à la sécurité, une autorisation d'ouverture au public, cette autorisation peut être retirée si les prescriptions sus mentionnées cessent d'être observées.
+La même autorisation est accordée pour les modifications apportées aux constructions existantes, les reprises de gros œuvre, les surélévations, ainsi que les travaux entraînant une modification importante de la distribution intérieure des bâtiments existants.

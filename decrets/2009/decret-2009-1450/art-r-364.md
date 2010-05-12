@@ -1,0 +1,3 @@
+# Article R.364
+L'autorisation de construire est délivrée dans les formes prescrites par le présent décret, après avis des services chargés de l'industrie, de l'environnement, de l'aménagement du territoire et de la protection civile.
+Les documents joints à la demande doivent comporter en outre un descriptif détaillé des travaux, l'indication de toutes les dispositions relatives à la sécurité en ce qui concerne notamment le mode de construction du gros œuvre et des toitures, les moyens particuliers de défense et de secours contre l'incendie, les réponses aux spécifications des Codes du Travail et de l'Hygiène et de leurs textes d'application en matière de sécurité et d'hygiène.

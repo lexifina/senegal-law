@@ -1,0 +1,2 @@
+# Article R.131
+Le locataire d'une parcelle atteinte par le remembrement a le choix d'obtenir les effets du bail sur la parcelle attribuée au bailleur ou la résiliation du bail sans indemnité. Il doit notifier ce choix au bailleur et, le cas échéant, au Conservateur de la Propriété foncière, sur simple réquisition dans le mois suivant le transfert de propriété, faute de quoi le bail est réputé se poursuivre sur la nouvelle parcelle.
