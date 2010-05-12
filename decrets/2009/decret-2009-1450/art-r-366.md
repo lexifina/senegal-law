@@ -1,0 +1,2 @@
+# Article R.366
+Les dispositions du présent chapitre s'appliquent aux établissements classés prévus par le Code de l'Environnement notamment : les usines, ateliers, dépôts, chantiers et d'une manière générale les installations qui présentent ou peuvent présenter des dangers soit pour la santé, la sécurité, la salubrité publique, l'agriculture, la nature et l'environnement en général, soit des inconvénients pour la commodité du voisinage.

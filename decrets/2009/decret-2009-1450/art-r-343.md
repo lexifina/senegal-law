@@ -1,0 +1,2 @@
+# Article R.343
+Conformément aux dispositions du Code de l'Urbanisme, dans la partie législative, le permis de construire, tant pour la construction d'un immeuble de grande hauteur que pour tous les travaux à exécuter dans ces immeubles et qui nécessitent la délivrance de ce permis, est délivré conformément aux dispositions du Titre II du présent décret, après avis des services compétents en matière de protection civile, par le maire ou le président de la communauté rurale.

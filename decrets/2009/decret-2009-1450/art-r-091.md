@@ -1,0 +1,2 @@
+# Article R.91
+Un contrat de participation est passé après la prise de l'arrêté visé à l'article R 86 par l'Etat, la commune ou l'organisme chargé de la rénovation avec les propriétaires intéressés. Le contrat précise si les propriétaires décident de réaliser eux-mêmes sur leurs immeubles, les travaux décrits par ledit arrêté, ou d'en confier la réalisation à la collectivité concernée ou à l'organisme chargé de la rénovation.

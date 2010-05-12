@@ -1,0 +1,2 @@
+# Article R.142
+L'achèvement d'une zone d'aménagement concerté doit être constaté lorsque les travaux d'aménagement ont été réalisés. A cet effet, des procès-verbaux de réception des réseaux divers et équipements sont établis par les collectivités ou les organismes concessionnaires qui en ont la charge de gestion. L'établissement des procès-verbaux de réception doit avoir lieu à la fin de chaque tranche de travaux.

@@ -1,0 +1,2 @@
+# Article R.273
+Dans le cas où les salles de bain, salles d'eau, W.C n'ont pas un éclairage direct ni de ventilation directe, ces locaux peuvent être ventilés par des gaines de ventilation. Ces dernières auront une section minimum de 0,80 m x 1,00 m, elles seront visitables et revêtues intérieurement en matériaux lavables, en outre, elles comporteront obligatoirement un appel d'air frais dans leur point bas.

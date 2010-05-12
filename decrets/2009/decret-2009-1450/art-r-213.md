@@ -1,0 +1,6 @@
+# Article R.213
+En cas de construction d'immeubles à usage d'habitation groupés ou non, dont l'implantation suppose soit des aménagements, des réserves d'emplacements public ou des servitudes particulières d'utilisation, soit une division parcellaire ainsi qu'en cas de construction de bâtiments ou d'installations industriels, l'autorité qui délivre l'autorisation de construire peut subordonner la validité de celle-ci.
+1) à la réalisation par le constructeur, des travaux de viabilisation notamment la voirie, l'alimentation en eau et en électricité, l'évacuation des eaux usées, la réalisation d'aires de stationnement, d'espaces verts ;
+2) à la construction, selon un programme approuvé par l'administration, de locaux spécialement destinés à l'équipement commercial et artisanal nécessaire aux besoins des occupants des immeubles projetés ;
+3) à la constitution d'une association chargée de la gestion et de l'entretien des ouvrages et aménagements d'intérêt collectif.
+Ces diverses obligations sont stipulées dans l'autorisation de construire qui fixe, en outre, les délais de réalisation des conditions mentionnées ci-dessus et, si besoin est, les règles et servitudes d'intérêt général instituées.

@@ -1,0 +1,3 @@
+# Article R.338
+La construction d'un immeuble de grande hauteur n'est permise qu'à des emplacements situés à 5 km au plus d'un centre principal des services publics des secours, de lutte contre l'incendie.
+Cependant, le représentant de l'Etat dans la région peut autoriser la construction d'un immeuble de grande hauteur à une distance supérieure, après avis de la commission régionale de la protection civile, par un arrêté motivé, compte tenu notamment de la classe de l'immeuble, de la densité d'occupation, des facilités d'accès et circulation, du type de centre de secours, du service de sécurité propre à l'immeuble et des ressources et eau du secteur.

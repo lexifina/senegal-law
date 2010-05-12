@@ -1,0 +1,4 @@
+# Article R.368
+La demande et les documents joints à la demande d'autorisation de construire doivent indiquer en outre la nature de l'établissement et la classe dans laquelle il doit être rangé, une étude d'impact pour les
+établissements de la première classe visée par le Code de l'Environnement, un descriptif détaillé des travaux, une notice de sécurité, le mode et les conditions d'évacuation, d'utilisation et de traitement des eaux résiduaires ainsi que les déchets, le tracé des égouts existants, la hauteur des cheminées, les moyens de secours contre les effets d'un éventuel sinistre, et toutes dispositions prises pour satisfaire les mesures prévues par la réglementation en vigueur, visée au articles R 198 à R 205 concernant la demande d'autorisation de construire et son instruction.
+Un dossier d'exécution doit être présenté à l'autorité chargée de délivrer l'autorisation de construire avant le début des travaux.

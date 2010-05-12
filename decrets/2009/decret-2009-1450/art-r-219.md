@@ -1,0 +1,2 @@
+# Article R.219
+L'autorisation de construire est refusée sur des terrains qui ne seraient pas desservis par des voies publiques ou privées ou situés à proximité de places ou parkings dans des conditions répondant à l'importance et à la destination de l'immeuble ou de l'ensemble d'immeubles qui y sont édifiés, notamment en ce qui concerne la commodité de la circulation des accès et des moyens d'approche permettant une lutte efficace contre l'incendie.

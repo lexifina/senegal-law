@@ -1,0 +1,2 @@
+# Article R.375
+Le service chargé du contrôle et de la surveillance de l'occupation du sol peut procéder à l'interruption des travaux de lotissement ou de construction jusqu'à la présentation par le propriétaire ou son mandataire de l'autorisation de lotir ou de construire. Une sommation d'arrêt des travaux et notifiée à ce dernier. Le service peut prendre toutes mesures de coercition nécessaires pour assurer l'application immédiate de l'interruption des travaux en procédant notamment à la saisie des matériaux approvisionnés et du matériel de chantier.

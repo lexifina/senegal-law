@@ -1,0 +1,2 @@
+# Article R.332
+Les dispositions relatives notamment à la sécurité, l'emplacement, la hauteur, le classement des immeubles de grande hauteur sont fixées par le présent Code, l'arrêté n° 3222 du 30 mars 1976 portant règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique et le décret n° 72-611 du 23 mai 1972 instituant les règles de sécurité contre les risques d'incendie et de panique dans les immeubles de grande hauteur.

@@ -1,0 +1,2 @@
+# Article R.337
+Un arrêté portant règlement de sécurité est établi conjointement par le Ministre de l'Intérieur et les ministres chargés de l'Urbanisme et de l'Industrie, pris après avis de la Commission technique interministérielle prévue à l'article R7. Cet arrêté fixe pour les diverses classes d'immeubles de grande hauteur les mesures d'application du présent décret qui pourraient être communes à ces diverses classes ou à certaines d'entre elles et les dispositions propres à chacune d'elles.

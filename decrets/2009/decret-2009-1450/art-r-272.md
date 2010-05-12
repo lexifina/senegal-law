@@ -1,0 +1,6 @@
+# Article R.272
+Sous réserve des dispositions de l'article R 273, tout cabinet d'aisance doit être installé dans un local aéré et éclairé directement par une ouverture d'au moins 10 dm² en contact direct avec l'air extérieur.
+La porte d'entrée ne peut s'ouvrir ni dans une cuisine ni dans aucune pièce d'habitation. Les cuvettes des water-closets et urinoirs doivent être en parfait état d'imperméabilité et raccordées au tuyau de descente par un siphon hydraulique formant une occlusion permanente.
+Les conduites des W.C doit être muni d'un tuyau de ventilation étanche de 5 cm au moins de diamètre intérieur, prolongé jusqu'à un mètre au dessus du point le plus élevé du bâtiment et des bâtiments voisins, et éloigné des réservoirs d'eau potable d'au moins 1,00 mètre.
+Le tuyau de ventilation sera recouvert à son orifice supérieur d'un grillage métallique inoxydable, à mailles assez fines pour interdire le passage aux mouches et aux moustiques. Les chutes desservant des cabinets d'aisance seront entièrement distinctes des descentes pour les eaux ménagères.
+Dans les appartements constitués par une seule pièce, dits studios ou garçonnières, ainsi que dans les hôtels, le W.C pourra être installé dans la salle d'eau, à la condition que cette dernière soit éclairée en jour directs.

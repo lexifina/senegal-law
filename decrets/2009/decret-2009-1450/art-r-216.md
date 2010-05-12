@@ -1,0 +1,2 @@
+# Article R.216
+Sont également exemptés sur tout le territoire national ou dans certaines zones seulement, par arrêtés conjoints du Ministre chargé de l'Urbanisme et des autres Ministres intéressés, certains types de constructions ou de travaux déterminés en raison notamment de leur caractère militaire ou sécuritaire, ou de leur faible importance à condition qu'ils ne soient pas soumis par ailleurs à des dispositions législatives ou règlementaires spéciales.

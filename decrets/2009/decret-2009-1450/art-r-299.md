@@ -1,0 +1,4 @@
+# Article R.299
+Il est interdit d'introduire dans les égouts des corps solides, ordures, d'y écouler des eaux chaudes dont la température sera supérieure à 45 à leur arrivée dans les collecteurs ou des eaux avides, résidus de fabrication ; d'y déverser des matières, qu'elles soient susceptibles de causer des dégradations quelconques ou collecteur et aux ouvrages accessoires ou d'y donner naissance à des gaz incommodes, dangereux, inflammables.
+Les propriétaires seront directement responsables envers l'administration ou la société concessionnaire et envers les tiers de tous les dommages auxquels pourraient donner lieu soit les appareils de vidange, soit l'écoulement des liquides en provenant.
+Ils seront responsables des obstructions qui pourraient se produire dans les égouts du fait des occupants de leur immeuble.

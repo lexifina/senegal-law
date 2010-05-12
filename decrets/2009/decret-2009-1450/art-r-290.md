@@ -1,0 +1,5 @@
+# Article R.290
+Il doit y avoir au moins deux cabinets d'aisance par immeuble ou villa, sauf en ce qui concerne les habitations économiques.
+Si l'immeuble contient plusieurs studios ou logements distincts, chaque studio ou logement doit avoir un cabinet d'aisance. En outre, il doit y avoir un W.C pour le personnel par groupe de six (06) logements maximum.
+Dans le cas des pièces habitables louées isolément ou par groupe de deux (02), il doit y avoir un cabinet d'aisance par six (06) pièces habitables. Les locaux à usage de magasins ou de bureaux, situés au rez-de-chaussée, doivent avoir des W.C dans leurs annexes ou dans les cours où ils ont accès directement à raison de deux (02) W.C pour 150 m².
+Les locaux où se réunissent un grand nombre de personnes (cafés, brasseries, restaurants) seront pourvus de W.C et urinoirs remplissant les conditions d'aération prévues pour les habitations. Ils doivent être précédés d'un sas les isolants des salles de consommation. Le nombre de ces installations sera fixé par les prescriptions techniques édictées par arrêté conjoint du Ministre chargé de l'Urbanisme et du Ministre chargé de la Santé.

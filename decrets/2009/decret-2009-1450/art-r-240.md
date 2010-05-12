@@ -1,0 +1,5 @@
+# Article R.240
+Les constructions à usage d'habitation ainsi que les locaux annexes et communs tels que cuisines, débarras, bureaux, ateliers, hangars auront leurs parois et toitures en matériaux durs : maçonnerie, briques, béton, fer, agglomérés, acier inoxydable, aluminium, tuiles. Le bois pourra également être utilisé à condition d'avoir été ignifugé et subi une préparation anti-termites ;
+ses conditions d'emploi devront correspondre aux spécifications techniques fixées, en tant que de besoin, par arrêté du Ministre chargé de l'Urbanisme.
+Dans toute l'étendue des zones soumises à l'obligation de l'autorisation de construire et à l'exception des secteurs réservés aux occupations provisoires, sont interdites toutes constructions et clôtures en torchis, planches de récupération, carton bitumé, paille, clayonnage, tôle, douves ou cercles de barriques ou matériaux contenant de l'amiante, etc.
+Tous les bois qui seront utilisés dans les constructions en caves ou à rez-de-chaussée devront être imprégnés avant pose d'un produit anti-termites, non toxique, insoluble dans l'eau et d'action permanente prolongée (genre solignum, xylophène ou similaire).

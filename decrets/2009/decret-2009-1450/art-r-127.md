@@ -1,0 +1,2 @@
+# Article R.127
+Les titres fonciers concernant la zone de remembrement sont annulés à la date de transfert de propriété. De nouveaux titres fonciers sont établis dans les plus brefs délais aux frais du Trésor par les services du cadastre et de la conservation de la propriété foncière. Ils reproduisent toutes les mentions figurant sur les titres qu'ils remplacent sous réserve de l'application des articles R 130 et R 131.

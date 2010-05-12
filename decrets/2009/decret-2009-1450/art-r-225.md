@@ -1,0 +1,2 @@
+# Article R.225
+Conformément au paragraphe 14 du 2ème alinéa de l'article 8 du Code des Contraventions, il est interdit à quiconque, à moins d'en avoir obtenu la permission selon les lois et règlements en vigueur, de transporter ou enlever, ni de faire transporter ou enlever aucune pierre, terre, sable, gravier, asphalte, ou autres matériaux quelconques, d'aucune voie ou espace public, qu'il s'agisse de trottoirs, parcs ou terrains quelconques appartenant à la collectivité publique.

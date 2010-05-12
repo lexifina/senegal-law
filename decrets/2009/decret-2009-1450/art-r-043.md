@@ -1,0 +1,2 @@
+# Article R.43
+Après la consultation des collectivités intéressées ou à l'expiration du délai prévu pour cette consultation, et au vu du procès-verbal du comité régional ou départemental d'urbanisme, d'habitat et du cadre de vie, le projet de plan est soumis à l'enquête publique par décision de l'autorité chargée de son instruction s'il ne subsiste pas entre les services concernés de désaccord qui ne puisse être réglé à cet échelon. Dans le cas contraire, le Ministre chargé de l'Urbanisme arrête le projet qui sera soumis à l'enquête.

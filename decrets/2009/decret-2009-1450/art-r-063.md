@@ -1,0 +1,3 @@
+# Article R.63
+Les travaux neufs, à exécuter par ou pour les services publics et les concessionnaires de services publics et pour lesquels n'est pas exigée l'autorisation de construire, ne peuvent être entrepris sans que la collectivité locale en ait été préalablement informée. En cas d'opposition de la collectivité locale dans le délai d'un mois, les travaux sont suspendus jusqu'à décision du Ministre chargé de l'Urbanisme.
+Toutefois, des arrêtés conjoints du Ministre chargé de l'Urbanisme et des ministres intéressés peuvent déterminer la liste des travaux qui, en raison de leur nature ou de leur importance, sont exemptés de la déclaration prévue à l'alinéa précédent.

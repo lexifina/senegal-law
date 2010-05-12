@@ -1,0 +1,4 @@
+# Article R.39
+Le Plan directeur d'urbanisme est élaboré par la ou les communes ou les communautés rurales concernées. Les services de l'Etat, les concessionnaires de service public sont associés à cette élaboration ainsi que les représentants des organismes socio-économiques et professionnels notamment les chambres de commerce, d'industrie et d'agriculture et les chambres des métiers. Ceux-ci expriment leurs programmes et leurs besoins ainsi que les dispositions techniques qu'ils proposent d'insérer dans ces plans.
+Le Plan d'urbanisme est élaboré pour une période de vingt ans.
+Lorsque ce plan s'applique à plusieurs collectivités locales et s'il n'existe pas entre elles un groupement d'intérêt communautaire dont l'objet porte sur l'étude des questions d'urbanisme, les maires et les présidents de conseil rural prennent part à des réunions dont le lieu et la périodicité sont fixés par le représentant de l'Etat au niveau régional.

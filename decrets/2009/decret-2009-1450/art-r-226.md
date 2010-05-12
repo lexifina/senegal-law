@@ -1,0 +1,2 @@
+# Article R.226
+Conformément au premier paragraphe de l'article 10 du Code des Contraventions (loi n° 65-557 du 21 juillet 1965), il est défendu à toute personne d'embarrasser, obstruer, encombrer ou empiéter au moyen de quelques articles, effets ou véhicules quelconques, ou au moyen d'objets ou matériaux de quelque nature que ce soit, incluant gravats et sable, les voies publiques, rue, ruelle, trottoirs ou place publique et rendant par là difficile la desserte des terrains.
