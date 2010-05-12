@@ -1,0 +1,5 @@
+# Article R.326
+Ces établissements doivent faire l'objet, dans les conditions fixées au règlement de sécurité, de visites périodiques de contrôle effectuées soit par un ou plusieurs membres de la commission régionale désignés par le représentant de l'Etat au niveau de la région, soit s'il en existe, par les commissions auxiliaires de sécurité. Ces visites ont pour but notamment :
+de vérifier si les prescriptions du présent chapitre et du règlement de sécurité sont observées et, notamment, si les appareils de secours contre l'incendie, ainsi que les appareils d'éclairage de sécurité, fonctionnent normalement. A cette occasion, des épreuves des moyens de secours sont effectuées par les soins de la direction ;
+de suggérer les améliorations ou modification qu'il y a lieu d'apporter aux dispositions et à l'aménagement desdits établissements dans le cadre de la présente réglementation ;
+d'étudier dans chaque cas d'espèce, les mesures d'adaptions qu'il y a lieu d'apporter éventuellement aux établissements existants.

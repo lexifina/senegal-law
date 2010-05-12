@@ -1,0 +1,2 @@
+# Article R.59
+Dans le cas où le décret prévu à l'article précédent ouvre la possibilité de surseoir à statuer sur les demandes d'autorisation de construire, et si un projet de construction est de nature à compromettre ou à rendre plus onéreuse l'exécution du plan, l'autorité compétente peut décider qu'il sera sursis à statuer sur la demande. Cette décision est notifiée au pétitionnaire dans le délai maximum de deux mois à compter de la date de dépôt de la demande.

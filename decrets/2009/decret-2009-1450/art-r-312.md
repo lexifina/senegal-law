@@ -1,0 +1,2 @@
+# Article R.312
+Les présentes dispositions ainsi que le règlement de sécurité sont applicables à tous les établissements ou locaux à construire, aux aménagements à effectuer dans les bâtiments existants ou aux modifications à apporter aux exploitations déjà autorisées. Dans ce dernier cas, l'application des prescriptions édictées sera exigée dans les parties modifiées et, éventuellement, dans les autres parties de l'établissement intéressées par ces modifications.

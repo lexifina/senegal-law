@@ -1,0 +1,51 @@
+# Article R.3
+Le conseil national de l'urbanisme, de l'habitat et du cadre de vie est présidé par le Président de la République.
+Il comprend :
+le Premier Ministre ;
+un sénateur désigné par le Président du Sénat ;
+un député désigné par l'Assemblée Nationale ;
+le Ministre chargé de l'Intérieur ;
+le Ministre chargé de la Protection civile ;
+le Ministre chargé des Finances ;
+le Ministre chargé des Forces armées ;
+le Ministre chargé de la Protection de la Nature ;
+le Ministre chargé de l'Environnement ;
+le Ministre chargé de l'Aménagement du Territoire ;
+le Ministre chargé des Transports aériens ;
+le Ministre chargé des Infrastructures ;
+le Ministre chargé de l'Urbanisme ;
+le Ministre chargé de l'Habitat ;
+le Ministre chargé de la Construction ;
+le Ministre chargé de l'Assainissement ;
+le Ministre chargé du cadre de vie ;
+le Ministre chargé du Patrimoine Bâti de l'Etat ;
+le Ministre chargé de l'Hydraulique ;
+le Ministre chargé de l'Industrie ;
+le Ministre chargé de l'Education nationale ;
+le Ministre chargé de l'Energie ;
+le Ministre chargé de la Santé Publique ;
+le Ministre chargé de la Jeunesse ;
+le Ministre chargé des Sports ;
+le Ministre chargé des Affaires sociales ;
+le Ministre chargé des Sénégalais de l'Extérieur ;
+le Ministre chargé de la Communication ;
+le Ministre chargé de l'Artisanat ;
+le Ministre chargé du Tourisme ;
+le Ministre chargé du Patrimoine classé ;
+le Secrétaire Général du Gouvernement ;
+le Président de l'Association des Présidents de Conseil régional ;
+le Président de l'Association des maires du Sénégal ;
+le Président de l'Association des Présidents de Communauté rurale ;
+le Directeur général de la Société Nationale des Habitations à loyer modéré (SNHLM) ;
+le Directeur général de la Société Immobilière du Cap Vert (SICAP sa) ;
+le Directeur général de la Banque de l'Habitat du Sénégal (BHS) ;
+le Directeur général de l'Office national de l'Assainissement du Sénégal (ONAS) ;
+le Président de l'Union Nationale des Chambres de Commerce, de l'Industrie et de l'Agriculture du Sénégal ;
+le Président de l'Union Nationale des Chambres de métier du Sénégal ;
+le Président du Conseil de l'Ordre des Géomètres du Sénégal ;
+le Président du Conseil de l'Ordre des Architectes ;
+le Président de l'Association sénégalaise des Urbanistes ;
+le Président de la Fondation Droit à la Ville ;
+le représentant du Syndicat des organisations professionnelles des Travaux de bâtiments ;
+le Président de l'Association des promoteurs Immobiliers ;
+les Présidents de Coordination patronale.

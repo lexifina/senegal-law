@@ -1,0 +1,5 @@
+# Article R.297
+Lorsqu'un collecteur d'égout appartenant au réseau de la ville aura une partie de son parcours compris dans les limites d'une propriété privée, il résultera de sa situation une servitude publique.
+Le propriétaire du terrain, dans ce cas, établira un branchement particulier jusqu'à une distance horizontale d'au moins un mètre du collecteur. Il lui est interdit de mettre à nu le collecteur et de s'y raccorder directement.
+Le propriétaire ne pourra s'opposer à l'exécution par la société concessionnaire de tous travaux se rapportant au collecteur situé sur son terrain, mais il sera en droit de réclamer la réparation des dommages anormaux qui pourront résulter de l'exécution des travaux.
+En cas de d'empiètement sur un collecteur d'égout déjà existant, obligation est faite au propriétaire de se conformer notamment aux servitudes des canalisations d'assainissement, à défaut, l'autorité compétente peut ordonner, après sommaire, la remise en état des lieux aux frais de l'intéressé.

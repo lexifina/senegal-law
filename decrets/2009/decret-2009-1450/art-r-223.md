@@ -1,0 +1,6 @@
+# Article R.223
+L'autorisation d'empiètement est demandée par écrit et adressée au maire ou au président de la communauté rurale pour ériger, construire, aménager, creuser ou installer un ouvrage de quelque nature que ce soit qui aurait pour effet d'empiéter dans l'emprise d'une voie ou d'un terrain relevant d'une commune ou communauté rurale.
+L'application de cette disposition ne fait pas obstacle au respect des obligations en matière de travaux de raccordement aux réseaux publics d'égout, d'eau, d'électricité ou de télécommunication.
+La commune ou la communauté rurale pourra, par délibération, conclure une entente administrative avec le requérant suivant un rapport du service de l'Urbanisme visé par les services des travaux publics, de l'assainissement et de l'environnement.
+La demande d'autorisation d'empiètement est assujettie à l'acquittement, à la charge du requérant, d'un droit de timbre dont le taux est établi suivant un barème établi par arrêté conjoint du Ministre chargé de l'Urbanisme et du Ministre chargé des Finances.
+En ce qui concerne les voies du réseau classé et le domaine public, les demandes d'empiètement sont adressées au représentant de l'Etat dans le département qui pourra conclure, avec le requérant, une convention d'occupation provisoire établie par le service de l'Urbanisme.

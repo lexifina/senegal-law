@@ -1,0 +1,3 @@
+# Article R.69
+Dans le cas où une construction doit être édifiée sur une parcelle comprise dans les alignements d'une voie ou d'une place existante modifiée en application du Plan ou Schéma d'Urbanisme, l'autorisation de construire est délivrée conformément aux nouveaux tracés de cette voie ou place.
+Dans le cas où une construction doit être édifiée sur un emplacement réservé par un plan ou schéma exécutoire notamment pour un ouvrage public, d'une installation d'intérêt général, une voie, canalisation et ouvrage d'assainissement, un espace libre ou un service public, l'autorisation de construire est refusée.

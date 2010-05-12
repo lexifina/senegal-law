@@ -1,0 +1,3 @@
+# Article R.231
+Indépendamment des indications particulières portées aux articles suivants, les plans d'urbanisme peuvent exiger, le long de certaines voies publiques ou privées, le respect de marges de reculement par rapport à l'alignement.
+Sauf dispositions contraires des plans d'urbanisme, du règlement ou du cahier des charges du lotissement, tous les immeubles ou clôtures situés à l'angle de deux voies publiques devront être implantés de telle sorte que la vue soit dégagée jusqu'à la hauteur du premier plancher, sur un angle correspondant à un pan coupé théorique de 5 mètres de longueur minimum à l'exclusion des immeubles frappés d'un règlement spécial de servitudes de portiques.

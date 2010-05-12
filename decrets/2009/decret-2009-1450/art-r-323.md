@@ -1,0 +1,2 @@
+# Article R.323
+Avant toute ouverture des établissements au public, il est procédé à une visite de réception soit par la commission régionale de la protection civile ou des membres délégués, soit par la commission auxiliaire ayant procédé à l'étude des dossiers. La commission doit assurer de la concordance des plans et de l'exécution. Elle propose les modifications de détail reconnues nécessaires.
