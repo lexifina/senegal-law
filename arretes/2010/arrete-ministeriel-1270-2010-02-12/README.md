@@ -1,0 +1,3 @@
+# Arrêté ministériel n° 1270 MATRSPSI-DRET-CDAV en date du 12 février 2010 accordant la licence d'agence de voyages, de tourisme et de transports touristiques à l'Agence « Oscar Travel Services ».
+
+Publié au JO n° 6528 du 2010-05-29. Texte tel que publié; source: <https://web.archive.org/web/20150609204049/http://www.jo.gouv.sn/spip.php?article8047>
