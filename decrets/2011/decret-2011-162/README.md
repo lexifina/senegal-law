@@ -1,0 +1,3 @@
+# DECRET n° 2011-162 en date du 28 janvier 2011 portant modification des dispositions de l'article premier du décret n°2005-1115 du 21 novembre 2005 modifiant les dispositions de l'article premier du décret n° 2004-1278 du 28 septembre 2004 fixant le montant des indemnités dues aux titulaires de baux consentis sur l'assiette du projet de la Gare routière de Dalifort, ordonnant leur paiement aux ayants droit ou leur consignation et autorisant la prise de possession par l'Etat de l'assiette foncière dudit projet.
+
+Publié au JO n° 6582 du 2011-04-16. Texte tel que publié; source: <https://web.archive.org/web/20150609201250/http://www.jo.gouv.sn/spip.php?article8926>
