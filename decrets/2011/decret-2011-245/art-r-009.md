@@ -1,0 +1,3 @@
+# Article R.9
+Les dépenses afférentes à l'élaboration des plans directeurs d'assainissement des eaux usées et eaux pluviales pour les communes sont à la charge desdites collectivités locales. L'Etat peut y contribuer au moyen notamment de son budget général, du fonds de dotation de la décentralisation ou de tout autre fonds mis à sa disposition par des partenaires au développement.
+Les dépenses afférentes à l'élaboration des plans locaux d'hydraulique et d'assainissement pour les communautés rurales sont à la charge des collectivités locales. L'Etat peut y contribuer au moyen notamment de son budget général, du fonds de dotation de la décentralisation ou de tout autre fonds mis à sa disposition par des partenaires au développement.
