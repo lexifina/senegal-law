@@ -1,0 +1,2 @@
+# Article L.102
+La violation du scrutin, soit par les membres du bureau soit par les agents de l'autorité préposés à la garde des bulletins non encore dépouillés sera punie de l'emprisonnement de cinq (05) à dix (10) ans.
