@@ -1,0 +1,2 @@
+# Article L.61
+Par dérogation aux dispositions des articles 10 à 16 de la loi n° 78-02 du 28 janvier 1978 relative aux réunions et aux articles 96 et 100 du Code Pénal, les réunions électorales qui se font pendant la campagne officielle électorale se tiennent librement sur l'ensemble du territoire national. Déclaration écrite en sera faite au moins vingt-quatre (24) heures à l'avance à l'autorité compétente qui en prend acte et informe le déclarant de toute autre déclaration antérieure.
