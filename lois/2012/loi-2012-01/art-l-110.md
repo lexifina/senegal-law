@@ -1,0 +1,4 @@
+# Article L.110
+En dehors des cas spécialement prévus par les dispositions des lois et décrets en vigueur, quiconque, soit dans une commission administrative, soit dans un bureau de vote ou dans les bureaux des mairies, des préfectures ou sous-préfectures ou en dehors de
+ceux-ci, avant, pendant ou après un scrutin, a par inobservation volontaire de la loi ou des atteintes ou tenté de porter atteinte à sa sincérité, empêché ou tenté d'empêcher les opérations du scrutin ou qui a changé ou tenté de changer le résultat, sera puni d'une amende de 20.000 à 100.000 FCFA, et d'un emprisonnement d'un mois à un an.
+Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent ou préposé du gouvernement ou d'une administration publique, la peine sera portée au double.

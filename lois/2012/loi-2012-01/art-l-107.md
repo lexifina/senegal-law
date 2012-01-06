@@ -1,0 +1,2 @@
+# Article L.107
+Ceux qui, soit par voies de fait, violences ou menaces contre un électeur, soit en lui faisant craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune, l'ont déterminé ou ont tenté de la déterminer à s'abstenir de voter ou ont influencé son vote, seront punis d'un emprisonnement d'un mois à deux (02) ans, et d'une amende de 10.000 à 100.000 FCFA.
