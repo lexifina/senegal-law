@@ -1,0 +1,3 @@
+# Décret n° 2013-720 du 27 mai 2013 complétant les dispositions de l'article premier du décret n° 2012-827 du 07 août 2012 modifiant les dispositions de l'article premier du décret n° 2010-998 du 2 août 2010 déclarant cessibles et nécessaires à la réalisation du projet de construction de tronçons routiers à Dakar, dans le cadre du Programme de Renforcement et d'Equipement des Collectivités locales (PRECOL), les titres fonciers grevant l'emprise desdits tronçons.
+
+Publié au JO n° 6739 du 2013-07-20. Texte tel que publié; source: <https://web.archive.org/web/20150609192925/http://www.jo.gouv.sn/spip.php?article9778>
