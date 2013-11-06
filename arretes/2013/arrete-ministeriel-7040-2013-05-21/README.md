@@ -1,0 +1,3 @@
+# Arrêté Ministériel n° 7040 en date du 21 mai 2013 portant résiliation, pour cause de non paiement des redevances domaniales et défaut de mise en valeur, du bail consenti avec l'Etat du Sénégal au profit du sieur Jacques Daniel NDao, suivant acte administratif approuvé le 24 novembre 1984, sur la parcelle de terrain n°144 du lotissement complémentaire de Sotrac-Mermoz, à Dakar, d'une superficie de 425 m² à distraire du titre foncier n° 3 473/DG.
+
+Publié au JO n° 6756 du 2013-11-02. Texte tel que publié; source: <https://web.archive.org/web/20150609191602/http://www.jo.gouv.sn/spip.php?article9960>
