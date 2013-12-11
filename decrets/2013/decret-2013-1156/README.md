@@ -1,0 +1,3 @@
+# Décret n°2013-1156 du 23 août 2013 prononçant la désaffectation d'un terrain sis à Diamniadio dépendant du domaine national d'une superficie de 49ha 34a 23ca compris dans l'assiette du projet de construction du centre international de conférence de la francophonie, prononçant le retrait partiel du droit au bail concédé par l'Etat du Sénégal sur l'immeuble immatriculé objet du TF n°5.437/R nécessaire à la réalisation dudit projet pour une superficie de 65 ares 77centiares et fixant le montant des indemnités dues aux occupants.
+
+Publié au JO n° 6761 du 2013-12-07. Texte tel que publié; source: <https://web.archive.org/web/20150609191141/http://www.jo.gouv.sn/spip.php?article10087>
