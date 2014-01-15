@@ -1,0 +1,3 @@
+# Décret n° 2013-958 du 9 juillet 2013 désignant et déclarant nécessaires à la réalisation du projet de continuation de l'autoroute à péage Dakar-Diamniadio sur l'axe « Aéroport International Blaise Diagne – Mbour » les immeubles immatriculés faisant l'objet des TF. n°1.180//MB et 1.315/MB appartenant à l'Etat du Sénégal à concurrence respectivement de 60 ha 53 a 00 ca et 1.696 ha 15 a 31 ca, prononçant la désaffectation des dépendances du domaine national, prescrivant leur immatriculation au nom de l'Etat, fixant le montant des indemnités dues aux occupants et en ordonnant le paiement ou la consignation.
+
+Publié au JO n° 6768 du 2014-01-11. Texte tel que publié; source: <https://web.archive.org/web/20150609183333/http://www.jo.gouv.sn/spip.php?article9968>
