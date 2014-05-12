@@ -1,0 +1,3 @@
+# DÉCRET n° 2013-1486 en date du 2 décembre 2013 déclarant d'utilité publique le projet de réalisation d'un centre de recherche et production de plantes médicinales et d'une unité de transformation et de conservation de fruits et légumes sur une parcelle de terrain du domaine national sis à Mbirdiam aux environs de Sébikotane,d'une superficie de 02 ha 03 a 55 ca, en vue de son attribution par voie de bail, prescrivant l'immatriculation, au nom de l'Etat dudit terrain et prononçant sa désaffectation.
+
+Publié au JO n° 6779 du 2014-05-08. Texte tel que publié; source: <https://web.archive.org/web/20220801095958/http://www.jo.gouv.sn/spip.php?article10168>
