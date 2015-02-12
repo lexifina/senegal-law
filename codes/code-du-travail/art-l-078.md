@@ -1,0 +1,4 @@
+# Article L.78
+Quand les travaux sont exécutés ou les services fournis dans les ateliers, magasins ou chantiers de l'entrepreneur, ce dernier est, en cas d'insolvabilité du tâcheron, substitué à celui-ci en ce qui concerne l'ensemble de ses obligations à l'égard des travailleurs .
+Quand les travaux sont exécutés ou les services fournis dans un lieu autre que les ateliers, magasins ou chantiers de l'entrepreneur, ce dernier est, en cas d'insolvabilité du tâcheron, responsable du paiement des salaires et de l'allocation de congés payés dus aux travailleurs occupés par celui ci. Il assume de même, dans ce cas, les obligations de l'employeur en matière de sécurité sociale.
+Le travailleur lésé et les institutions obligatoires de sécurité sociale auront, dans les deux cas cidessus, une action directe contre l'entrepreneur. L'entrepreneur dispose dans tous les cas d'une action récursoire contre le tâcheron.

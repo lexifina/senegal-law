@@ -1,0 +1,2 @@
+# Article L.30
+Le travailleur ne peut engager ses services qu'à temps ou pour une durée limitée à l'exécution d'un ouvrage ou d'une entreprise déterminée. Le contrat d'équipe est interdit.

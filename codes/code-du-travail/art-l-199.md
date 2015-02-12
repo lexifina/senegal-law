@@ -1,0 +1,5 @@
+# Article L.199
+Des médecins-inspecteurs du Travail et de la Sécurité sociale peuvent être nommés dans les services de l'Inspection du Travail et de la Sécurité sociale. Les médecins-inspecteurs du Travail agissent en liaison avec les Inspecteurs du Travail et de la Sécurité sociale et coopèrent avec eux à l'application de la réglementation relative à l'hygiène et à la sécurité du travail.
+Les médecins-inspecteurs du Travail exercent une action permanente en vue de la protection de la santé des travailleurs au lieu de leur travail. Cette action porte en particulier sur l'organisation et le fonctionnement des services de médecine du travail et des services de sécurité du travail.
+Les dispositions du présent code relatives aux pouvoirs et obligations des inspecteurs du travail sont étendues aux médecins-inspecteurs du travail à l'exception de celles des articles L194 et L. 195 relatives aux procès verbaux et de l'article L. 170 relatives aux mises en demeure.
+Les attributions et les conditions de nomination et de rémunération des médecins-inspecteurs du travail sont déterminées par décret.

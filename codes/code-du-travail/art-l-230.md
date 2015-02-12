@@ -1,0 +1,3 @@
+# Article L.230
+Toutes les demandes dérivant du contrat de travail entre les mêmes parties doivent faire l'objet d'une seule instance, à peine d'être déclarées non recevables, à moins que le demandeur ne justifie que les causes des nouveaux chefs de demande ne sont nées à son profit, ou n'ont été connues de lui, que postérieurement à l'introduction de la demande primitive.
+Sont toutefois recevables les nouveaux chefs de demande tant que le Tribunal du Travail ne se sera pas prononcé, en premier ou en dernier ressort, sur les chefs de la demande primitive. Il ordonnera la jonction des instances et statuera sur elles par un seul et même jugement.

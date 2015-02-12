@@ -1,0 +1,6 @@
+# Article L.245
+Pour représenter ou assister régulièrement une partie, le représentant d'une centrale syndicale doit justifier :
+- que la centrale syndicale, dont se réclame la partie, l'autorise à assurer l'assistance et la représentation devant les juridictions du travail ;
+- qu'il exerce lui-même effectivement, une activité rémunérée, dans la branche d'activité considérée ou qu'il l'a exercée pendant au moins cinq années.
+Lorsqu'il n'existe pas de représentant d'une centrale syndicale pouvant remplir les deux conditions ci-dessus énumérées, la partie peut, exceptionnellement choisir pour mandataire, un représentant de son syndicat professionnel qui est alors dispensé de l'obligation d'activité professionnelle effective.
+La liste de ces derniers représentants est établie par les syndicats professionnels à raison d'un seul mandataire par syndicat professionnel et par juridiction du travail. Par l'entremise et après approbation des centrales syndicales intéressées, elle est adressée par chaque syndicat professionnel au Ministre chargé du Travail qui la transmet au Ministre de la Justice. Ce dernier fait connaître aux chefs de juridictions concernés le nom du représentant désigné par chaque syndicat professionnel. Cette désignation est valable pour une période de trois années.

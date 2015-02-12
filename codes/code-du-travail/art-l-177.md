@@ -1,0 +1,3 @@
+# Article L.177
+Tous les travailleurs : a) doivent être informés de manière complète des risques professionnels existant sur les lieux de travail ; b) doivent recevoir des instructions adéquates, quant aux moyens disponibles, aux conduites à tenir pour prévenir ces risques et se protéger contre eux.
+Ces informations et instructions doivent être portées à la connaissance des travailleurs dans des conditions et sous une forme qui permettent à chacun d'entre eux d'en avoir une bonne compréhension. A cet effet, l'employeur leur assure une formation générale minimale en matière d'hygiène et de sécurité.

@@ -1,0 +1,2 @@
+# Article L.45
+Le contrat de travail à durée déterminée ne peut avoir pour objet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise.

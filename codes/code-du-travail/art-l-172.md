@@ -1,0 +1,2 @@
+# Article L.172
+Lorsque les mesures prises en vertu de l'article L.171 ne sont pas suffisantes pour garantir la sécurité ou la santé des travailleurs, des mesures de protection individuelle contre les risques professionnels doivent être mises en oeuvre. Lorsque ces mesures de protection individuelle requièrent l'utilisation, par le travailleur, d'un équipement approprié, ce dernier est fourni et entretenu par l'employeur. Dans ce cas, aucun travailleur ne doit être admis à son poste de travail sans son équipement de protection individuelle.

@@ -1,0 +1,6 @@
+# Article L.5
+Dans les entreprises, les travailleurs et leurs représentants bénéficient d'un droit à l'expression directe et collective sur le contenu, les conditions d'exercice et l'organisation du travail.
+Cette expression a pour objet de permettre au travailleur de participer à la définition des actions à mettre en oeuvre pour améliorer leurs conditions de travail, l'organisation du travail, la qualité de la production et l'amélioration de la productivité dans l'unité de travail à laquelle ils appartiennent dans l'entreprise.
+Les opinions que les travailleurs, quelle que soit leur place dans la hiérarchie professionnelle, émettent dans l'exercice du droit d'expression ne peuvent motiver une sanction ou un licenciement.
+Un décret fixera les conditions d'application de cet article et éventuellement, le nombre de travailleurs de l'entreprise à partir duquel le présent article doit être mis en oeuvre par l'employeur.
+Des mesures appropriées pourront également être prises par décret pour encourager et promouvoir le développement et l'utilisation les plus larges de procédures de négociation au sein de l'entreprise. Ces mesures pourront aussi être prises par accord au sein de l'entreprise.

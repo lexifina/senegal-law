@@ -1,0 +1,4 @@
+# Article L.76
+Lorsque le travailleur bénéficie d'une formation ou d'un perfectionnement professionnels entraînant des charges supportées par l'employeur, il peut être stipulé que le travailleur sera tenu de rester au service de l'employeur pendant un temps minimum en rapport avec le coût de la formation ou de perfectionnement professionnels, mais qui ne peut, en aucun cas, excéder quatre ans.
+Cette convention sera constatée par écrit et sera, immédiatement déposée à l'Inspection du Travail et de la Sécurité sociale.
+Le travailleur qui n'aura pas respecté cette obligation sera tenu au remboursement des frais engagés par l'employeur pour sa formation et son perfectionnement, en proportion de la période non travaillée par rapport à la totalité du temps minimum de service souscrit dans la convention.

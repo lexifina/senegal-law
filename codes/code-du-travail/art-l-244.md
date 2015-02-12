@@ -1,0 +1,5 @@
+# Article L.244
+Les parties sont tenues de se rendre au jour et à l'heure fixés par le Président du Tribunal du Travail. Elles peuvent se faire assister ou représenter soit par un travailleur ou un employeur appartenant à la même branche d'activité, soit par un avocat, soit encore par un représentant des centrales syndicales auxquelles sont affiliés les syndicats professionnels dont sont membres lesdites parties. Les employeurs peuvent, en outre, être représentés par un directeur ou un employé de l'entreprise ou de l'établissement.
+Sauf en ce qui concerne les avocats, le mandataire des parties doit, pour chaque affaire, être constitué par écrit et agréé par le Président du Tribunal.
+Le mandat donné sans réserve pour un différend déterminé, s'il n'est révoqué, de même que l'agrément, s'il n'est retiré, demeurent valables pour l'exercice des voies ordinaires devant la Cour d'Appel ainsi que pour l'exécution des décisions à l'exclusion de la perception du montant des condamnations.
+Lorsqu'un mandataire est constitué au cours d'une procédure il doit être agréé par le Président du Tribunal saisi.

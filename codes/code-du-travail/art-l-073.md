@@ -1,0 +1,5 @@
+# Article L.73
+Le contrat d'apprentissage est un contrat de travail de type particulier par lequel un employeur s'engage, outre le versement d'une allocation d'apprentissage, à assurer une formation professionnelle méthodique et complète dispensée dans l'entreprise et éventuellement dans un centre de formation d'apprentis, à un jeune travailleur qui s'oblige en retour, à travailler pour cet employeur pendant la durée du contrat.
+Le contrat d'apprentissage doit être constaté par écrit et un des exemplaires doit être déposé à l'Inspection du Travail et de la Sécurité sociale dans le ressort de laquelle se trouve le lieu de l'apprentissage.
+A défaut du respect de ces deux règles de forme, le contrat est considéré comme un contrat de travail à durée indéterminée.
+Les autres conditions de forme et de fond, les effets et la durée maximale du contrat d'apprentissage, les cas et les conséquences de sa résiliation, les mesures de contrôle de son exécution, les allégements de charges pour les employeurs ainsi que les catégories d'entreprises dans lesquelles sera imposé un pourcentage d'apprentis par rapport au nombre total de travailleurs, sont fixés par décret.

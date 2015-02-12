@@ -1,0 +1,4 @@
+# Article L.159
+Le travailleur qui a cessé son service peut exiger, auprès de son ancien employeur, la mise à sa disposition des titres de transport auxquels il a droit, dans un délai de deux ans à compter de la cessation du travail chez ledit employeur.
+Ce dernier remet à cet effet au travailleur une attestation établissant, au jour de la rupture du contrat, le décompte exact des droits du travailleur en matière de transport.
+Le travailleur qui a été au service de plusieurs employeurs successifs et qui manifeste sa volonté de regagner sa résidence habituelle remet les attestations qu'il détient au dernier employeur en échange des titres de transport. Le dernier employeur a une action directe au Tribunal du Travail contre les précédents employeurs en vue de la répartition des frais de transport exposés, au prorata du temps de service du travailleur chez chacun des employeurs successifs.

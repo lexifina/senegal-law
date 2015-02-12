@@ -1,0 +1,3 @@
+# Article L.160
+Le travailleur qui a cessé son service et qui est dans l'attente du moyen de transport désigné par son employeur pour regagner sa résidence habituelle, reçoit de l'employeur une indemnité égale au salaire qu'il aurait perçu s'il avait continué à travailler. Il continue à bénéficier des avantages en nature.
+Le travailleur dont le contrat de travail est signé ou dont le congé est arrivé à expiration et qui reste à la disposition de son employeur dans l'attente du moyen de transport lui permettant de quitter sa résidence habituelle pour rejoindre son lieu d'emploi, reçoit de l'employeur, pendant cette période d'attente, une indemnité calculée sur la base de l'allocation de congé.

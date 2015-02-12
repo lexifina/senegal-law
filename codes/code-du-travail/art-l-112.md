@@ -1,0 +1,3 @@
+# Article L.112
+Lorsque la rémunération des services est constituée, en totalité ou en partie, par des commissions ou des primes et prestations diverses ou des indemnités représentatives de ces prestations, dans la mesure où celles-ci ne constituent pas un remboursement de frais, il en est tenu compte pour le calcul de l'allocation de congé, de l'indemnité de préavis et des dommages-intérêts.
+Le montant à prendre en considération à ce titre est la moyenne mensuelle calculée sur les douze derniers mois d'activité, des éléments visés au paragraphe précédent, sauf exceptions expressément prévues par la loi.

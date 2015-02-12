@@ -1,0 +1,3 @@
+# Article L.102
+Tout cautionnement doit être mis en dépôt dans le délai d'un mois à dater de sa réception par l'employeur. Mention du cautionnement et son dépôt est faite sur le registre de l'employeur et justifiée par un certificat de dépôt tenu à l'établissement, à la disposition de l'Inspection du Travail et de la Sécurité sociale.
+Le Ministre chargé du Travail fixe par arrêté les modalités de ce dépôt ainsi que la liste des caisses publiques et des banques habilitées à le recevoir. Les caisses d'épargne doivent accepter ce dépôt et délivrer un livret spécial, distinct de celui que le travailleur pourrait posséder déjà ou acquérir ultérieurement.

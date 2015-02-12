@@ -1,0 +1,3 @@
+# Article L.268
+Le travailleur bénéficie d'office de l'assistance judiciaire pour l'exécution des décisions rendues à son profit: lorsque la décision est exécutoire et que le travailleur bénéficiaire ne peut en obtenir l'exécution amiable, il demande au président de faire apposer la formule exécutoire sur la copie qui lui a été délivrée et de commettre un huissier pour poursuivre l'exécution forcée aux frais de l'employeur.
+Les décisions en dernier ressort sont notifiées à personne ou à domicile, soit par huissier ou agent administratif commis à la demande de la partie la plus diligente, soit par le greffier directement contre récépissé ou sous lettre recommandée avec accusé de réception.

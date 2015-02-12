@@ -1,0 +1,5 @@
+# Article L.281
+Sera punie d'une amende de 500 000 à 1 000 000 de francs et d'un emprisonnement de quinze jours à trois mois ou de l'une de ces deux peines seulement, toute personne qui s'est opposée ou a tenté de s'opposer à l'exécution des obligations ou à l'exercice des pouvoirs qui incombent aux Inspecteurs du Travail et de la Sécurité sociale, aux Contrôleurs du Travail et de la Sécurité sociale et aux chefs de circonscriptions administratives agissant comme suppléants de l'Inspecteur du Travail et de la Sécurité sociale.
+En cas de récidive, l'amende est de 1 000 000 à 2 000 000 de francs et l'emprisonnement de six mois à un an.
+En cas de double récidive, l'emprisonnement est obligatoirement prononcé.
+Les dispositions du Code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les officiers de police judiciaire, sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard des Inspecteurs du Travail et de la Sécurité sociale ou de leurs suppléants.

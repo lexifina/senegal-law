@@ -1,0 +1,3 @@
+# Article L.277
+Tout assesseur du Tribunal du Travail qui ne se sera rendu à son poste sur la citation qui lui aura été notifiée recevra une nouvelle citation pour l'audience suivante.
+En cas d'absence de l'assesseur à cette audience, le tribunal est considéré comme étant valablement composé et en mesure de siéger. Par ailleurs, après trois absences successives dûment constatées et non justifiées, le juge prononce la radiation d'un assesseur. La décision de radiation est notifiée au Ministre chargé du Travail dont les services compétents procèdent à la désignation d'un nouvel assesseur dans les mêmes conditions que celles fixées par l'arrêté.

@@ -1,0 +1,2 @@
+# Article L.83
+La convention collective doit être écrite en langue française à peine de nullité. Un décret détermine les conditions dans lesquelles sont déposées, publiées et traduites les conventions collectives, ainsi que les conditions dans lesquelles s'effectuent les adhésions prévues au dernier paragraphe de l'article précédent. Les conventions collectives sont applicables, sauf stipulation contraire, à partir du jour qui suit leur dépôt dans les conditions et aux lieux qui seront indiqués par le décret susvisé.

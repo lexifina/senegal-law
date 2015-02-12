@@ -1,0 +1,2 @@
+# Article L.99
+Les conventions collectives conclues antérieurement à la présente loi resteront en vigueur en celles de leurs dispositions qui ne lui sont pas contraires. Ces conventions collectives sont susceptibles de faire l'objet d'arrêtés d'extension dans les conditions prévues, au titre des conventions collectives. Si elles ont fait l'objet d'arrêtés d'extension antérieurement à la présente loi, ces arrêtés demeurent en vigueur en tout ce qu'ils ne sont pas contraires aux dispositions de celle-ci.

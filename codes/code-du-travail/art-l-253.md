@@ -1,0 +1,4 @@
+# Article L.253
+En cas de non conciliation, ou pour la partie contestée de la demande, le Président déclare ouverte la phase contentieuse de la procédure et avertit les parties de la date de l'audience, s'il estime que l'affaire peut être jugée en l'état.
+S'il échet, le Président met le dossier en état. A cette fin, il ordonne, même d'office, toute expertise, toute enquête, toute production de document et, plus généralement, toute mesure d'information utile.
+Dans les cas urgents, le président peut, à tous les stades de la procédure, ordonner par provision telles mesures nécessaires, notamment pour empêcher que les objets qui donnent lieu à une réclamation ne soient enlevés, ou déplacés ou détériorés. Quand il estime que l'affaire est en état d'être jugée, le président du tribunal renvoie la cause devant la juridiction et cite les parties pour la première audience utile.

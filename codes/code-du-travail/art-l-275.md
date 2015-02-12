@@ -1,0 +1,4 @@
+# Article L.275
+Le lock-out et la grève déclarés illicites entraînent :
+1) Pour les employeurs, le paiement aux travailleurs des journées de salaire perdu de ce fait et, par jugement du tribunal régional, rendu à la requête du Ministre chargé du Travail pendant une période de deux ans, l'inéligibilité aux fonctions de membres des chambres de commerce ou de métiers, l'interdiction de faire partie du conseil économique et social, d'une commission ou d'un conseil consultatif du travail, de la main d'oeuvre ou de la sécurité sociale et d'un conseil d'arbitrage, et de participer sous une forme quelconque à une entreprise de travaux ou un marché de fournitures pour le compte de l'Etat, d'une collectivité publique ou de sociétés nationales ;
+2) pour les travailleurs, la perte du droit aux indemnités et aux dommages-intérêts prévus en cas de rupture de contrat.

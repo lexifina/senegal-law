@@ -1,0 +1,2 @@
+# Article L.201
+Dans les parties d'établissements ou établissements militaires employant de la main d'oeuvre civile dans lesquels l'intérêt de la défense nationale s'oppose à l'introduction d'agents étrangers au service, le contrôle des dispositions applicables en matière de travail et de sécurité sociale est assuré par les fonctionnaires ou officiers désignés à cet effet. Cette désignation est faite conjointement par le Ministre chargé de la Défense et le Ministre chargé du Travail.

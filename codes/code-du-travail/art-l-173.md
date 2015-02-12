@@ -1,0 +1,2 @@
+# Article L.173
+Les plans de nouveaux locaux de travail doivent être obligatoirement soumis à l'Inspecteur du Travail et de la Sécurité sociale, accompagnés de tous les renseignements utiles sur les travaux qui seront effectués, le matériel qui sera utilisé et le personnel qui sera employé. L'Inspecteur du Travail et de la Sécurité sociale s'assure que les dispositions prises sont conformes aux prescriptions relatives à l'hygiène et à la sécurité des travailleurs.
