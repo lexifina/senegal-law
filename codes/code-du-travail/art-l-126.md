@@ -1,0 +1,2 @@
+# Article L.126
+L'action des travailleurs en paiement de salaires, des accessoires du salaire, des primes et indemnités de toute nature, ainsi que, plus généralement, de toute somme due par l'employeur au travailleur, et celle en fourniture de prestations en nature et éventuellement de leur remboursement, se prescrivent par cinq ans. La prescription court à compter de la date à partir de laquelle le salaire est exigible. Elle est suspendue lorsqu'il y a compte arrêté, cédule ou obligation ou citation en justice non périmée, ou dans le cas prévu à l'article L.240.

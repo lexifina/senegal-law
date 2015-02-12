@@ -1,0 +1,5 @@
+# Article L.229
+Les Tribunaux du Travail connaissent des différends individuels pouvant s'élever entre les travailleurs et leurs employeurs à l'occasion du contrat de travail, du contrat d'apprentissage, des conventions collectives, des conditions de travail, d'hygiène et de sécurité, du régime de sécurité sociale.
+Leur compétence s'étend également aux différends nés entre travailleurs et entre employeurs à l'occasion du travail, ainsi qu'entre les institutions obligatoires de sécurité sociale, leurs bénéficiaires et les assujettis, à l'occasion de l'application du régime de sécurité sociale.
+Leur compétence s'étend aussi aux actions récursoires des entrepreneurs contre les tâcherons aux cas prévus à l'article L 78.
+Les Tribunaux du Travail demeurent compétents, lors même qu'une collectivité ou un établissement public est en cause, et peuvent statuer sans qu'il y ait lieu, pour les parties, d'observer, dans le cas où il en existe, les formalités préalables qui sont prescrites avant qu'un procès puisse être intenté à ces personnes morales.

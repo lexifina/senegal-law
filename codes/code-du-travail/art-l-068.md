@@ -1,0 +1,5 @@
+# Article L.68
+Le travailleur peut, sur sa demande, bénéficier d'une mise en disponibilité.
+La mise en disponibilité est la position du travailleur qui, pour convenances personnelles, et après y avoir été autorisé, cesse momentanément son service chez l'employeur.
+Pendant cette période, le travailleur ne bénéficie pas de son salaire et des accessoires de celui-ci, ni de ses droits à l'avancement, à l'ancienneté, à la retraite et, d'une façon générale, des dispositions du présent code.
+La mise en disponibilité revêt un caractère exceptionnel laissé à la seule appréciation de l'employeur.

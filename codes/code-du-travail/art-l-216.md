@@ -1,0 +1,7 @@
+# Article L.216
+La décision de l'Inspecteur du Travail et de la Sécurité sociale accordant ou refusant l'autorisation de licenciement du délégué du personnel, a un caractère définitif. Le licenciement qui serait prononcé par l'employeur sans que l'autorisation préalable de l'inspecteur ait été demandée ou malgré le refus opposé par l'inspecteur, est nul et de nul effet.
+La décision de l'Inspecteur du Travail et de la Sécurité sociale accordant ou refusant l'autorisation de licenciement d'un délégué du personnel n'est susceptible d'aucun recours autre que le recours hiérarchique devant le Ministre chargé du Travail. Les parties disposent d'un délai de 15 jours pour déférer au Ministre la décision de l'Inspecteur dans le cadre du recours hiérarchique, soit qu'il confirme, soit qu'il infirme la décision de l'Inspecteur du Travail et de la Sécurité sociale.
+La décision du Ministre est susceptible du recours juridictionnel en excès de pouvoir devant le Conseil d'Etat dans les délais, formes et conditions prévus par la procédure en vigueur devant le Conseil d'Etat.
+Les dispositions ci-dessus sont applicables :
+- aux candidats aux fonctions de délégué du personnel pendant la période comprise entre la date de remise des listes au chef d'entreprise et celle du scrutin ;
+- aux délégués pendant la période comprise entre la fin de leur mandat et l'expiration des trois mois suivant le nouveau scrutin.

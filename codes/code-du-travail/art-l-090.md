@@ -1,0 +1,4 @@
+# Article L.90
+Un arrêté du Ministre chargé du Travail peut, à défaut ou en attendant l'établissement d'une convention collective, dans les conditions définies au présent chapitre, réglementer les conditions du travail pour une profession déterminée.
+Cet arrêté peut être pris pour une profession déterminée ou, le cas échéant, pour un groupe de professions dans lesquelles les conditions d'emploi sont comparables. Il peut abroger des conventions collectives conclues antérieurement au présent code et dont les dispositions, non contraires à la loi, sont demeurées en vigueur en attendant l'établissement de nouvelles conventions dans le cadre de la présente loi.
+A défaut, ou en attendant l'établissement d'une convention collective, des décrets réglementent les conditions de travail des professions relevant des établissements ou des services publics.

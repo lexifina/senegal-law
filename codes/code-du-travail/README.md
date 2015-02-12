@@ -1,0 +1,3 @@
+# Code du travail
+
+Loi n° 97-17 du 1er décembre 1997 portant Code du travail. Texte consolidé, daté du jour de sa dernière modification mentionnée (Loi n° 2015-04 du 12 février 2015) ; l'historique de ce code commence à cette consolidation (le texte tel qu'adopté et les versions intermédiaires ne sont pas disponibles sous forme de texte). Source (consolidated copy (vie-publique.sn)) : <https://www.vie-publique.sn/documents/437/code-travail-senegal> ; fichier : <https://www.vie-publique.sn/docs/8214312d-ddcc-44fe-896e-0265abaf1835/code-travail-senegal.pdf>. Les numéros d'articles absents de la copie source n'y figurent pas.

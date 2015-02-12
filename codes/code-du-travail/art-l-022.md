@@ -1,0 +1,3 @@
+# Article L.22
+Les syndicats peuvent, en se conformant aux dispositions des lois en vigueur, constituer entre leurs membres, des caisses spéciales de secours mutuels et de retraites.
+Les fonds de ces caisses sont insaisissables dans les limites déterminées par la législation applicable aux sociétés de secours mutuels.

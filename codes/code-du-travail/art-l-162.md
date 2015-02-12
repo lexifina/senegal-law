@@ -1,0 +1,4 @@
+# Article L.162
+Par dérogation aux dispositions du deuxième alinéa de l'article L.35 , il est fait interdiction à tout travailleur d'exécuter pendant son congé payé légal, fractionné ou non, des travaux rétribués.
+L'employeur, quel qu'il soit, qui aura occupé en toute connaissance de cause un travailleur bénéficiaire d'un congé payé, sera sanctionné dans les mêmes conditions que le travailleur qu'il aura occupé en violation de l'interdiction stipulée au premier alinéa du présent article.
+L'employeur qui occupera un travailleur de son entreprise pendant la période fixée pour son congé payé, à une besogne rémunérée, même en dehors de l'établissement où le travailleur est habituellement occupé, sera considéré comme ne donnant pas le congé payé légal, et sera, en outre, sanctionné comme le travailleur qu'il aura employé en violation de l'interdiction stipulée au premier alinéa du présent article.

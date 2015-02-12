@@ -1,0 +1,3 @@
+# Article L.61
+Pour tenter d'éviter un licenciement pour motif économique, l'employeur doit réunir les délégués du personnel et rechercher avec eux toutes les autres possibilités telles que la réduction des heures de travail, le travail par roulement, le chômage partiel, la formation ou le redéploiement du personnel.
+Le compte rendu de cette réunion, établi par l'employeur, doit être dans un délai de huit jours, communiqué à l'Inspecteur du Travail et de la Sécurité sociale, lequel dispose d'un délai de quinze jours à dater de cette communication, pour exercer, éventuellement, ses bons offices.

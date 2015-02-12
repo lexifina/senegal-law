@@ -1,0 +1,4 @@
+# Article L.110
+La rémunération d'un travail à la tâche ou aux pièces doit être calculée de telle sorte qu'elle procure au travailleur de capacité moyenne et travaillant normalement, un salaire au moins égal à celui du travailleur rémunéré au temps effectuant un travail analogue.
+Les normes objectives et précises de ce mode de rémunération doivent être précisées par écrit au travailleur.
+Sur procès verbal de constatation de l'infraction aux dispositions de l'alinéa précédent, dressé par l'Inspecteur du Travail et de la Sécurité sociale et appuyé d'une expertise, le tribunal correctionnel peut commettre un nouvel expert. Il apprécie en tout état de cause souverainement si les faits relevés constituent l'infraction visée. Le Tribunal du Travail apprécie de la même manière lorsqu'il est saisi d'un différend individuel du travail ayant trait à la rémunération à la tâche ou aux pièces.

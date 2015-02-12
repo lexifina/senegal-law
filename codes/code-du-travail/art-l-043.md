@@ -1,0 +1,2 @@
+# Article L.43
+Les deux premiers alinéas de l'article L 42 ne s'appliquent pas aux travailleurs engagés par des entreprises relevant d'un secteur d'activité dans lequel il est d'usage de ne pas recourir au contrat à durée indéterminée en raison des caractéristiques de l'activité exercée, lorsque l'emploi de ces travailleurs est par nature temporaire. La liste de ces secteurs d'activité est fixée par arrêté.

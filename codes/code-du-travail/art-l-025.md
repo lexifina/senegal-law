@@ -1,0 +1,2 @@
+# Article L.25
+Les dispositions des articles L. 6 L 8 , L.10 et L.11 sont applicables aux unions de syndicats qui doivent, d'autre part, faire connaître, dans les conditions prévues à l'article L.8 , le nom et le siège social des syndicats qui les composent. Leurs statuts doivent déterminer les règles selon lesquelles les syndicats adhérents à l'union sont représentés dans les instances de direction et les assemblées générales.

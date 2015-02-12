@@ -1,0 +1,4 @@
+# Article L.29
+Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauche, la conduite et la répartition du travail, la formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures de discipline et de congédiement.
+Le chef d'entreprise ou ses représentants ne devront employer aucun moyen de pression en faveur ou à l'encontre d'une organisation syndicale quelconque.
+Toute mesure prise par l'employeur contrairement aux dispositions des alinéas précédents sera considérée comme abusive et donnera lieu à dommages-intérêts.

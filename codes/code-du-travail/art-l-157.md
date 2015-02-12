@@ -1,0 +1,5 @@
+# Article L.157
+Le contrat de travail ou la Convention collective peut prévoir une durée minima de séjour en deçà de laquelle le transport des membres de la famille du travailleur n'est pas à la charge de l'employeur. Cette durée n'excédera pas six mois.
+Le transport du travailleur et de sa famille, ainsi que de leurs bagages, est effectué par la voie et les moyens normaux laissés aux choix de l'employeur, sauf prescription médicale contraire.
+Il est cependant loisible au travailleur d'utiliser un moyen de transport à sa convenance ; dans ce cas, si le moyen est plus coûteux, les frais supplémentaires incombent au travailleur ; s'il est moins coûteux, le travailleur ne peut exiger de son employeur le paiement de la différence.
+Le transport du travailleur et de sa famille, ainsi que de leurs bagages, constituant une prestation en nature, n'est susceptible de remboursement par l'employeur au travailleur que lorsque celui-ci a avancé les frais de transport pour le compte de l'employeur et pour des transports effectivement acquis aux termes des dispositions de la présente section, et réellement effectués.

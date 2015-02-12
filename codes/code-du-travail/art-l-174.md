@@ -1,0 +1,2 @@
+# Article L.174
+L'utilisation des procédés, substances, machines ou matériel spécifiés par la réglementation entraînant l'exposition des travailleurs à des risques professionnels sur les lieux de travail, doit être porté par écrit à la connaissance de l'Inspecteur du Travail et de la Sécurité Sociale Ce dernier peut subordonner cette utilisation au respect de certaines dispositions pratiques ou, lorsque la protection du travailleur ne lui paraît pas pouvoir être assurée de manière satisfaisante, l'interdire.
