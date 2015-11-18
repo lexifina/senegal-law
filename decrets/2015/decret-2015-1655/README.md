@@ -1,0 +1,3 @@
+# Décret n° 2015-1655 en date du 19 octobre 2015 déclarant d'utilité publique le projet d'aménagement et de bitumage de la route « Joal- samba Dia- Djiffer » ; - déclarant cessibles les titres privés compris dans l'assiette dudit projet ; - prescrivant l'immatriculation au nom de l'Etat des dépendances du domaine national impactées ; - prononçant la désaffectation desdites dépendances ; - fixant le montant des indemnités dues aux occupants ; - ordonnant le paiement desdites indemnités aux bénéficiaires identifiés ou la consignation pour les bénéficiaires inconnus.
+
+Publié au JO n° 6885 du 2015-11-14. Texte tel que publié; source: <https://web.archive.org/web/20220729071340/http://www.jo.gouv.sn/spip.php?article10576>
