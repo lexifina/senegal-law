@@ -1,0 +1,3 @@
+# Décret n° 2016-323 en date du 07 mars 2016 déclarant d'utilité publique le projet de réalisation d'une industrie pharmaceutique fabriquant des médicaments à usage parentéral (perfusions) une parcelle de terrain dépendant du domaine national, située à Khar Yalla Diender, dans la région de Thiès, d'une superficie de 02ha 02a 74ca, et prescrivant l'immatriculation au nom de l'État en vue de son attribution par voie de bail et prononçant sa désaffectation.
+
+Publié au JO n° 6915 du 2016-03-12. Texte tel que publié; source: <https://web.archive.org/web/20220729070743/http://www.jo.gouv.sn/spip.php?article10696>
