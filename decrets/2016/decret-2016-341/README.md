@@ -1,0 +1,3 @@
+# Décret n° 2016-341 en date du 24 mars 2016 prorogeant, pour une durée de deux ans, les effets du décret n° 2013-316 du 07 mars 2013 déclarant d'utilité publique le projet de gestion des eaux pluviales et d'adaptation aux changements climatiques, prononçant la désaffectation des dépendances du domaine national, désignant l'immeuble domanial objet du TF n° 14.140/DP nécessaire à sa réalisation et désignant et déclarant cessibles les propriétés immobilières privées comprises dans l'assiette de la phase 2 dudit projet.
+
+Publié au JO n° 6929 du 2016-04-23. Texte tel que publié; source: <https://web.archive.org/web/20220729070145/http://www.jo.gouv.sn/spip.php?article10822>
