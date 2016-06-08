@@ -1,0 +1,1 @@
+« L'Etat du Sénégal représenté par le Ministre de l'Economie, des Finances et du Plan, Senelec, Senergy PV SA et Proparco ont signé le 12 mai 2016 un Accord direct dans le cadre de la mise en oeuvre du projet de centrale photovoltaïque 20 MWc à Santhiou Mékhé ».
