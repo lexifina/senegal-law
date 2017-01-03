@@ -1,0 +1,3 @@
+# Décret n° 2016-2064 du 30 décembre 2016 déclarant cessibles les titres fonciers privés situés dans l'emprise du projet d'extension du port minéralier de Bargny et de création d'une route ceinturant ledit port, prononçant le retrait du bail emphytéotique compris dans son assiette, désignant l'immeuble domanial nécessaire à la réalisation dudit projet, prescrivant l'immatriculation des dépendances du domaine national et prononçant leur désaffectation
+
+Publié au JO n° 6982 du 2016-12-30. Texte tel que publié; source: <https://web.archive.org/web/20220727030006/http://www.jo.gouv.sn/spip.php?article10994>
