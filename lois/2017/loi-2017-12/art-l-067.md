@@ -1,0 +1,6 @@
+# Article L.67
+Chaque bureau de vote est composé :
+d'un président, d'un assesseur, d'un secrétaire désignés par le Préfet ou le Sous-préfet parmi les fonctionnaires de l'Etat de la hiérarchie A, B ou C ou assimilés, en activité ou admis à la retraite et résidant dans la région, ou parmi les agents des collectivités publiques, des établissements publics ou parapublics, résidant dans la région d'un rang équivalent à celui des fonctionnaires de l'Etat ci-dessus nommés ;
+et d'un représentant inscrit sur une liste électorale du département par liste de candidats ou par candidat, en qualité de membre.
+Si les agents relevant des catégories énumérées au premier alinéa ne sont pas en nombre suffisant pour permettre la constitution de tous les bureaux de vote d'une commune le préfet ou le sous-préfet peut réquisitionner des agents des entreprises privées ou des organisations non-gouvernementales, en activité ou admis à la retraite, résidant dans la région et d'un rang équivalent à celui des fonctionnaires et agents de l'Etat ci-dessus nommés. A défaut, il complète les bureaux en désignant des citoyens inscrits sur une liste électorale de la région.
+Ces citoyens doivent savoir lire et écrire dans la langue officielle.

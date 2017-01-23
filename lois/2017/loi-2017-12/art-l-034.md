@@ -1,0 +1,2 @@
+# Article L.34
+Nul ne peut être inscrit sur plusieurs listes électorales ni être inscrit plusieurs fois sur la même liste.

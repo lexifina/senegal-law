@@ -1,0 +1,2 @@
+# Article L.82
+Le président constate l'heure à laquelle il déclare le scrutin clos et la porte au procès-verbal. Après cette déclaration, aucun vote ne peut être reçu.
