@@ -1,0 +1,4 @@
+# Article L.83
+Après la clôture du scrutin, il est procédé au dépouillement. L'urne est ouverte et le nombre des enveloppes est vérifié. Si ce nombre est supérieur au nombre de celui des émargements, il en est fait mention au procès-verbal. Le bureau désigne ensuite parmi les électeurs présents un groupe de quatre (04) scrutateurs au moins sachant lire et écrire dans la langue officielle.
+Dans ce groupe, l'un des scrutateurs extrait le bulletin de chaque enveloppe et le passe à un autre scrutateur ; celui-ci le lit à haute voix ; les noms portés sur les bulletins sont relevés, par deux scrutateurs au moins, sur les feuilles préparées à cet effet.
+Si une enveloppe contient plusieurs bulletins, le vote est nul quand les bulletins portent des listes et des noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste ou le même candidat.
