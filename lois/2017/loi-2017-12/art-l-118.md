@@ -1,0 +1,3 @@
+# Article L.118
+La déclaration de candidature est déposée au greffe du Conseil constitutionnel, dans les délais fixés par l'article 29 de la Constitution, par le mandataire du parti politique ou de la coalition, qui a donné son investiture, ou celui du candidat indépendant.
+Les coalitions de partis politiques doivent choisir un nom différent de celui des partis politiques légalement constitués. Toutefois, une coalition peut prendre le titre d'un des partis qui la composent. Le nom et éventuellement le titre de la coalition ainsi que la liste des partis qui la composent doivent être notifiés au greffier en chef du Conseil constitutionnel par le mandataire au plus tard la veille du dépôt de la déclaration de candidature.
