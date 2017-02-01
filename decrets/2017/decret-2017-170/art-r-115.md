@@ -1,0 +1,3 @@
+# Article R.115
+Le Président du bureau de vote peut demander au chef de la représentation diplomatique ou consulaire de faire appel aux forces de police ou assimilées du pays de sa juridiction pour mettre fin à un trouble grave compromettant le bon déroulement des opérations électorales ou à un scandale. Si les personnes concernées sont membres du bureau de vote, et si elles sont coupables de scandale caractérisé dûment constaté par le président du bureau de vote et les autres membres, elles sont immédiatement remplacées par leurs
+suppléants. Mention de ces incidents doit être faite obligatoirement dans les procès-verbaux.

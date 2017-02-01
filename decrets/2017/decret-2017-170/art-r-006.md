@@ -1,0 +1,4 @@
+# Article R.6
+Les membres de la C.E.N.A perçoivent, durant leur mandat, des indemnités mensuelles dont les montants sont fixés par décret.
+Les frais de mission qui leur sont versés, en cas de besoin, correspondent à ceux qui sont en vigueur au niveau de l'Etat.
+Le Secrétaire général de la C.E.N.A perçoit une indemnité mensuelle dont le montant est fixé par décret. Le taux de ses frais de mission est le même que celui des membres de la C.E.N.A.

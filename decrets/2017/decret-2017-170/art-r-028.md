@@ -1,0 +1,2 @@
+# Article R.28
+La révision des listes électorales a lieu chaque année, du 1er février au 31 juillet inclus, sous réserve des révisions exceptionnelles prévues par l'article L.39. Dans ce dernier cas, les dates indiquées, aux articles R.32, R.39, R.40 et R.41 sont décalées en tenant compte de la date du début de la révision exceptionnelle à moins que le décret instituant la révision exceptionnelle n'en ait décidé autrement.
