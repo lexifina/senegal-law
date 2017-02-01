@@ -1,0 +1,2 @@
+# Article R.106
+Lorsqu'un électeur est décédé, son nom est rayé de la liste électorale. Tout électeur résidant dans le pays de juridiction de la représentation diplomatique ou consulaire a le droit d'exiger sa radiation. Une fiche de contrôle de radiation est transmise au Ministre chargé des Elections par valise diplomatique et sous le couvert du Ministère chargé des Affaires étrangères et notifiée à la C.E.N.A.

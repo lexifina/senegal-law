@@ -1,0 +1,2 @@
+# Article R.10
+Au niveau de chaque Département et pour toutes les opérations électorales et référendaires, la C.E.N.A est représentée par une « Commission Electorale Départementale Autonome » (C.E.D.A). Celle-ci comprend cinq (05) membres nommés par le Président de la C.E.N.A parmi les personnalités indépendantes du département, de nationalité sénégalaise, connues pour leur intégrité morale, leur honnêteté intellectuelle, leur neutralité et leur impartialité après approbation de l'Assemblée générale.

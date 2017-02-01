@@ -1,0 +1,4 @@
+# Article R.89
+Dans les quarante-huit (48) heures qui suivent la date limite du dépôt matériel, s'il apparaît qu'une candidature est déposée en faveur d'une personne inéligible ou dont les pièces comportent des erreurs matérielles ou sont périmées, le Préfet ou le Sous-préfet le notifie, par écrit, au mandataire qui dispose de trois (3) jours pour apporter les corrections nécessaires.
+Dans les mêmes délais de quarante-huit (48) heures, si une liste est déclarée irrecevable, pour l'un des motifs évoqués aux articles L.246 et L.282 le Préfet ou le Sous-préfet notifie, par écrit, les motifs de sa décision au mandataire de ladite liste. A compter de la date de notification, le mandataire dispose de trois (3) jours pour se pourvoir devant la cour d'Appel du ressort qui statue dans les trois jours de sa saisine.
+Les dispositions des articles L.177, L.253 et L.289 sont applicables aux élections départementales et municipales.

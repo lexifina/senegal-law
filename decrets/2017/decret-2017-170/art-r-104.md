@@ -1,0 +1,5 @@
+# Article R.104
+Au vu des carnets d'inscription, de modification et de radiation, le Ministère chargé des Elections procède, sous la supervision et le contrôle de la C.E.N.A, à l'établissement ou à la révision des listes électorales.
+Une fois cet établissement ou cette révision effectuée, toutes les listes électorales sont déposées dans les représentations diplomatiques ou consulaires concernées. Elles sont communiquées à la C.E.N.A et aux partis politiques légalement constitués qui le demandent. Le chef de la représentation diplomatique ou consulaire dresse un procès-verbal de réception des listes électorales.
+Ce document est affiché sur un panneau des annonces officielles ou sur tout autre panneau prévu à cet effet dans les locaux de la représentation diplomatique ou consulaire ou dans tout autre local en tenant lieu en application de l'article L.316 .
+Cette formalité vaut publication de la liste électorale. Elle fait courir le délai du contentieux prévu par le décret organisant la révision.

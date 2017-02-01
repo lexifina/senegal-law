@@ -1,0 +1,2 @@
+# Article R.4
+Avant leur entrée en fonction, les membres de la C.E.N.A prêtent devant le Conseil constitutionnel le serment suivant : « Je jure d'accomplir ma mission avec impartialité, de ne me laisser influencer ni par l'intérêt personnel présent ou futur, ni par une pression d'aucune sorte. Dans mon appréciation, je n'aurai pour guides que la loi, la justice et l'équité. Je m'engage à l'obligation de réserve et au secret des délibérations, même après la cessation de mes activités ».
