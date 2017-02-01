@@ -1,0 +1,2 @@
+# Article R.29
+Au plus tard cinq (05) jours avant le début de la révision des listes électorales, les autorités administratives compétentes instituent, par arrêté, des commissions d'établissement et de révision des listes électorales, et précisent les horaires ainsi que les lieux où elles doivent siéger. Ces commissions sont constituées en application de l'article L.39. Elles informent les partis politiques de la date de démarrage de la révision en vue de leur représentation.

@@ -1,0 +1,8 @@
+# Article R.110
+La distribution des cartes d'électeur est permanente.
+Elle est effectuée par une commission administrative pendant la période de révision des listes électorales et durant les 45 jours avant la date du scrutin ; ce, jusqu'à la clôture des opérations de vote.
+En dehors des périodes susmentionnées, la distribution est assurée par le Chef de la représentation diplomatique ou consulaire, sous la supervision de la C.E.N.A. Le Chef de la représentation diplomatique ou consulaire ou bien le président de la commission de distribution des cartes d'électeur assure la conservation et la garde desdites cartes pendant toute la période de distribution qui lui est impartie.
+Les cartes d'électeurs à retirer doivent se trouver dans des lieux sécurisés ; des malles munies de cadenas de sécurité doivent leur servir de réceptacle. Elles doivent y être classées et n'être ouvertes ou fermées qu'avec la présence obligatoire de la C.E.N.A. Les locaux dans lesquels ces cartes sont conservées doivent répondre à toutes les conditions de sécurité requises.
+A la fin de chaque période de distribution, le Chef de la représentation diplomatique ou consulaire ou le président et les membres de chaque commission dressent un procès-verbal des opérations visé par la C.E.N.A.
+La C.E.N.A, le Chef de la représentation diplomatique ou consulaire ainsi que chaque membre de la commission reçoivent copie du procès-verbal.
+Ce procès-verbal, les cartes non distribuées, la liste d'émargements des électeurs ainsi que le registre des opérations dans lequel figurent les mentions de contestations éventuelles constituent le dossier de passation d'activités pour les besoins de la permanence de la distribution.
