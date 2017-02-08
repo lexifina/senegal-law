@@ -1,0 +1,3 @@
+# Décret n° 2016-1806 en date du 22 novembre 2016 décalarant d'utilité publique le projet de développement inclusif et durable de l'Agrobusiness au Sénégal (PDIDAS) ; prescrivant l'immatriculation, au nom de l'Etat, d'une parcelle de terrain du domaine national située, dans la Commune de NGNITH, d'une superficie de cent soixante quinze hectares cinquante ares (175ha 50a 00ca), et prononçant sa désaffectation en vue de son attribution par voie de bail
+
+Publié au JO n° 6990 du 2017-02-04. Texte tel que publié; source: <https://web.archive.org/web/20220727025826/http://www.jo.gouv.sn/spip.php?article11045>
