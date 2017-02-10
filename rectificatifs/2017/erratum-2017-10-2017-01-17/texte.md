@@ -1,0 +1,2 @@
+Article 65 alinéa 2, au lieu de « Toutefois, est fixé à 68 ans la limite d'âge des magistrats occupant les fonctions de premier président, de procureur général et de président de chambre à la Cour suprême. »,
+Lire : « Toutefois, est fixé à 68 ans la limite d'âge des magistrats occupant les fonctions de premier président, de procureur général, de président de chambre et de premier avocat général à la Cour suprême ».
