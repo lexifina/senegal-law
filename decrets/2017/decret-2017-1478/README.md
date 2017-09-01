@@ -1,0 +1,3 @@
+# Décret n° 2017-1478 du 07 août 2017 prononçant la désaffectation des terrains dépendant du domaine national, prescrivant leur immatriculation au nom de l'Etat, désignant les immeubles domaniaux nécessaires à la réalisation du projet de gestion des eaux pluviales et d'adaptation aux changements climatiques (PROGEP), prononçant le retrait des titres d'occupation consentis sur les immeubles domaniaux et déclarant cessibles les propriétés immobilières privées comprises dans l'assiette dudit projet
+
+Publié au JO n° 7039 du 2017-08-29. Texte tel que publié; source: <https://web.archive.org/web/20220725080752/http://www.jo.gouv.sn/spip.php?article11241>
