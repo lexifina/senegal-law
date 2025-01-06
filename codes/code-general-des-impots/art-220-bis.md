@@ -1,0 +1,7 @@
+# Article 220 bis
+(Loi n° 2019-17 du 20 décembre 2019). Prélèvement de Conformité Fiscale Il est institué, indépendamment de l'acompte prévu à l'article 220, un prélèvement sur les importations réalisées par les personnes physiques ou morales qui ne souscrivent pas régulièrement à leurs obligations déclaratives et de paiement, dénommé Prélèvement de Conformité Fiscale (PCF).
+Le prélèvement n'est pas imputable sur les impôts dus par les personnes visées à l'alinéa précèdent et ne les dispense pas de leurs obligations fiscales suivant leurs régimes d'imposition.
+Le taux du prélèvement est de 12 % de la valeur en douane des produits majorée des droits d'entrée exigibles, à l'exclusion de la taxe sur la valeur ajoutée et des droits d'enregistrement et de timbre.
+Le comptable public en charge du recouvrement du prélèvement exigible au titre des importations adresse chaque mois au service des impôts compétent un état indiquant, par importateur, l'adresse exacte, le Numéro d'Identification Nationale des Entreprises et Associations (NINEA), le numéro et la date de la déclaration en douane, la base, le taux et le montant du prélèvement.
+La liquidation, le recouvrement et le contentieux du prélèvement s'effectuent comme en matière de droits de douane.
+(Loi n° 2021-29 du 05 juillet 2021). Les modalités d’application du prélèvement de conformité fiscale sont fixées par arrêté du Ministre en charge des Finances.

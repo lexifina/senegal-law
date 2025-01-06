@@ -1,0 +1,2 @@
+# Article 691 bis
+(Loi n° 2022-22 du 19 décembre 2022). Sans préjudice des autres sanctions prévues par le présent Code, le non-respect, par des fournisseurs étrangers, des obligations prévues à l'article 355 bis et au point 4 de l'article 363, donne lieu à la suspension de l'accès de leurs plateformes numériques, marchés ou places de marchés en ligne servant à réaliser des transactions sur le territoire sénégalais.

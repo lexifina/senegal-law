@@ -1,0 +1,3 @@
+# Article 650 bis
+(Loi n° 2023-18 du 15 décembre 2023). Il est délivré, en même temps que les quittances et reçus de paiement, à tout contribuable qui souscrit régulièrement à ses obligations de déclaration et de paiement en matière de taxe spécifique sur les boissons et liquides alcoolisés ou de taxe sur les produits pétroliers, une attestation mensuelle de paiement L'attestation est aussi délivrée au contribuable qui suite aux régularisations de l'administration respecte son moratoire et s'acquitte de ses obligations mensuelles de déclaration et de paiement.
+L'attestation est valable jusqu'au 15 du mois suivant celui de l'échéance des opérations déclarées ou régularisées, au titre du mois précédent.

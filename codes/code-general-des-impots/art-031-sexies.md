@@ -1,0 +1,3 @@
+# Article 31 sexies
+(Loi n° 2023-18 du 15 décembre 2023)
+« La société publique détentrice du monopole des jeux de hasard au Sénégal est tenue de communiquer à son service fiscal de rattachement, au plus tard le 31 janvier de chaque année, un tableau récapitulatif des informations suivantes relatives à chaque entreprise bénéficiaire d’une convention pour l’organisation, sur le territoire du Sénégal, de jeux et paris, quel que soit le procédé ou le support utilisé :  la dénomination de l’entreprise ;  l’adresse précise du siège social ;  le numéro d’identification fiscale ;  le montant annuel de la quote-part de rémunérations ou de commissions versées par l’entreprise détentrice du monopole susvisé. »

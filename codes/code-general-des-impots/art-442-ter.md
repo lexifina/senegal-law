@@ -1,0 +1,3 @@
+# Article 442 ter
+(Loi n° 2021-29 du 05 juillet 2021). La taxe s’applique aux bouillons alimentaires produits ou importés au Sénégal, pour une utilisation directe en cuisson ou assaisonnement.
+Les bouillons alimentaires sont des préparations obtenues à partir des chlorures de sodium, de substances riches en protéines ou leurs extraits et/ou hydrolysats, ou de substances à base de végétaux avec ou addition d’exhausteurs de goûts, de substances arômatisantes, de matières grasses comestibles, d’épices de leurs extraits naturels ou distillats et de toute autre denrée alimentaire visant à améliorer la sapidité.

@@ -1,0 +1,4 @@
+# Article 634 bis
+(Ordonnance n° 002-2020 du 23 avril 2020). 1. Les échéances pour la déclaration et le paiement des impôts et taxes dus au titre de la période allant de mars à mai 2020, par les entreprises dont le chiffre d'affaires annuel ne dépasse pas 100 millions de francs, sont prorogés jusqu'au 15 juillet 2020.
+2. Les dispositions de l’alinéa précédent du présent article sont étendues aux entreprises évoluant dans les secteurs du tourisme, de la restauration, de l'hôtellerie, du transport, de l'éducation, de la culture, de la presse et de l'agriculture, directement impactées par la crise liée à la pandémie du Covid-19.
+3. Les entreprises visées au 2 du présent article peuvent aussi bénéficier, sur la même période, d’une suspension du recouvrement des dettes fiscales constatées antérieurement.

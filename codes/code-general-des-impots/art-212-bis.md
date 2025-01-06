@@ -1,0 +1,5 @@
+# Article 212 bis
+(Loi n° 2022-22 du 19 décembre 2022). Une retenue à la source égale à 0,5 francs par kilogramme vendu est due par les entreprises n'ayant pas leur domicile fiscal au Sénégal mais qui cèdent directement aux importateurs agréés locaux ou étrangers, les hydrocarbures dont elles disposent dans des bacs édifiés au Sénégal.
+La retenue est opérée par les dépositaires des stocks d'hydrocarbures et reversée au Bureau de recouvrement compétent au plus tard le 15 du mois suivant celui du prélèvement.
+Les dispositions relatives à la retenue sur les traitements et salaires, notamment celles prévues par les articles 188 à 190 sont applicables à la retenue visée au présent article.
+Le montant de la retenue à la source supportée par les entreprises non domiciliées est libératoire de l'impôt sur les bénéfices dû au Sénégal au titre de leurs opérations de cession d'hydrocarbures effectuées dans les conditions visées au premier paragraphe du présent article. prestations médicales et paramédicales
