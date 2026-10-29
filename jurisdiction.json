@@ -1,0 +1,11 @@
+{
+  "path": "sn",
+  "code": "SN",
+  "name": "Senegal",
+  "level": "country",
+  "repo": "https://github.com/lexifina/senegal-law",
+  "build": "built: Loi 2008-12 (données à caractère personnel, 1 version, 2008-05-07) and Loi organique 2016-23 (Conseil constitutionnel, 1 version, 2016-07-19); Constitution not yet built",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}

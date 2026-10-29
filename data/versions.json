@@ -1,0 +1,33 @@
+{
+ "country": "SN",
+ "acts": [
+  {
+   "slug": "donnees-personnelles",
+   "short": "LDCP",
+   "title": "Loi n° 2008-12 du 25 janvier 2008 portant sur la Protection des données à caractère personnel",
+   "url": "http://www.jo.gouv.sn/spip.php?article6663",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20150609214903id_/http://www.jo.gouv.sn/spip.php?article6663",
+     "sha256": "c15fa9878f04bb6540f91adbf446c5bffeebf319653c658a711f649449a9852a"
+    }
+   ]
+  },
+  {
+   "slug": "conseil-constitutionnel",
+   "short": "LOCC",
+   "title": "Loi organique n° 2016-23 du 14 juillet 2016 relative au Conseil constitutionnel",
+   "url": "https://conseilconstitutionnel.sn/la-loi-organique/",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 27,
+     "source_url": "https://conseilconstitutionnel.sn/la-loi-organique/",
+     "sha256": "3d2041bf74daa5d04665aae1632fe90018dcc86abcbff1b6793d8eecf229a443"
+    }
+   ]
+  }
+ ]
+}
