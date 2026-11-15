@@ -1,9 +1,9 @@
-"""Prints the law of Côte d'Ivoire as it stood on a given day, read from this repository's history.
+"""Prints the law of Senegal as it stood on a given day, read from this repository's history.
 
-    python tools/en_vigueur_au.py 2020-03-18 constitution art-055   # art. 55 the day before Loi constitutionnelle 2020-348
-    python tools/en_vigueur_au.py 2020-03-19 constitution 55        # the same article, by number, as revised
-    python tools/en_vigueur_au.py 2017-01-01 constitution           # the whole Constitution on 1 January 2017
-    python tools/en_vigueur_au.py --law 2021-01-01 constitution 177 # also name the law behind that wording
+    python tools/en_vigueur_au.py 2020-01-01 donnees-personnelles 33        # art. 33 of Loi n° 2008-12
+    python tools/en_vigueur_au.py 2020-01-01 donnees-personnelles art-033   # the same article, by file name
+    python tools/en_vigueur_au.py 2017-01-01 conseil-constitutionnel        # the whole Loi organique n° 2016-23
+    python tools/en_vigueur_au.py --law 2020-01-01 donnees-personnelles 33  # also name the law behind that wording
 
 A thin wrapper around tools/on.py: the version is chosen by each commit's `In-force:` trailer, never by its commit
 date, and branches named wip* are ignored. A bare article number (`55`) means the file `art-055`. Standard library
