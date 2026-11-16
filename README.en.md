@@ -61,6 +61,7 @@ Each act's first commit is the act as enacted, credited to the act itself (`Loi 
 - `tools/build.py` writes the history from that corpus in one pass, and the same corpus always gives the same commit hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. No second build has been compared yet.
 - Loi n° 2008-12 was compared article by article with the copy the Commission de Protection des Données Personnelles (CDP) publishes: all 78 articles agree apart from spelling, two line-end splits and the last sentence of art. 78, which only the Journal officiel prints; two slips of the Journal officiel's web edition (arts. 16 and 57) are corrected from it, as REPRODUCE.md lists.
 - No amending law was found for either act; Loi n° 18/2026, which would have replaced the Conseil constitutionnel with a Cour constitutionnelle, was declared unconstitutional (décision n° 6/C/2026 du 9 juillet 2026) and never took effect.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ Each act's first commit is the act as enacted, credited to the act itself (`Loi 
 See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Senegal, from the Journal officiel and the Conseil constitutionnel; neither publishes a licence for them, their copyright status is not confirmed, and they are reproduced with that attribution. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
