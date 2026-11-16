@@ -1,34 +1,41 @@
-# Senegal: law history in git
+# Sénégal : l’histoire du droit dans git
 
-The law of Senegal as a git history: one file per article, each version committed on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+**Français** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Senegal's national law, which global-law reads at `senegal/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit sénégalais dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** two acts, each in one version, as enacted: Loi n° 2008-12 du 25 janvier 2008 on the protection of personal data (78 articles, in force from 7 May 2008) and Loi organique n° 2016-23 du 14 juillet 2016 on the Conseil constitutionnel (27 articles, in force from 19 July 2016). No law amending either was found, so one version is each act's whole history. The Constitution and the codes are not here yet.
+Le droit du Sénégal sous la forme d’un historique git : un fichier par article, chaque version enregistrée dans un commit à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque alinéa ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-Each act is a folder named for its subject, one file per article: `donnees-personnelles/` is Loi n° 2008-12 (`art-033.md` is Article 33, when processing personal data is lawful) and `conseil-constitutionnel/` is Loi organique n° 2016-23. Each folder's `README.md` lists every article.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Sénégal, que global-law lit sous `senegal/national/acts/`.
 
-The text is in French, the official language of Senegal, as the Journal officiel and the Conseil constitutionnel print it. An English translation is not part of this record.
+**Contenu actuel :** deux textes, chacun en une version, tels qu’adoptés : la Loi n° 2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel (78 articles, en vigueur à compter du 7 mai 2008) et la Loi organique n° 2016-23 du 14 juillet 2016 relative au Conseil constitutionnel (27 articles, en vigueur à compter du 19 juillet 2016). Aucune loi modifiant l’un ou l’autre n’a été trouvée ; une version unique constitue donc tout l’historique de chaque texte. La Constitution et les codes n’y figurent pas encore.
 
-## Questions as git commands
+Chaque texte est un dossier nommé d’après son objet, avec un fichier par article : `donnees-personnelles/` est la Loi n° 2008-12 (`art-033.md` est l’article 33, sur les conditions de licéité du traitement des données à caractère personnel) et `conseil-constitutionnel/` la Loi organique n° 2016-23. Le `README.md` de chaque dossier liste tous les articles.
 
-| Question | Command |
+Le texte est en français, langue officielle du Sénégal, tel que l’impriment le Journal officiel et le Conseil constitutionnel. Une traduction anglaise ne fait pas partie de ce corpus.
+
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 33 of the data protection law | `git log -p --word-diff -- donnees-personnelles/art-033.md` |
-| Which law wrote each line of Article 33? | `git blame donnees-personnelles/art-033.md` |
-| Every version of Article 33, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- donnees-personnelles/art-033.md` |
-| Article 33 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 donnees-personnelles 33` |
+| Toutes les modifications de l’article 33 de la loi sur la protection des données | `git log -p --word-diff -- donnees-personnelles/art-033.md` |
+| Quelle loi a rédigé chaque ligne de l’article 33 ? | `git blame donnees-personnelles/art-033.md` |
+| Toutes les versions de l’article 33, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- donnees-personnelles/art-033.md` |
+| L’article 33 tel qu’en vigueur au 1er janvier 2020 | `python tools/en_vigueur_au.py 2020-01-01 donnees-personnelles 33` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about Senegalese law](https://global-law.lexifina.com/v1/try_claude?country=senegal)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=senegal)**: the same question in ChatGPT.
-- **[Search Senegalese law on our site](https://lexifina.com/law?country=senegal&q=donn%C3%A9es+personnelles)**: a search for "données personnelles" (personal data), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=donn%C3%A9es+personnelles&jurisdiction=senegal)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit sénégalais](https://global-law.lexifina.com/v1/try_claude?country=senegal)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=senegal)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit sénégalais sur notre site](https://lexifina.com/law?country=senegal&q=donn%C3%A9es+personnelles)** : une recherche de « données personnelles », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=donn%C3%A9es+personnelles&jurisdiction=senegal)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -36,58 +43,56 @@ python3 tools/countries.py add senegal/national/acts
 python3 tools/law.py show 2026-01-01 senegal/national/acts/donnees-personnelles/art-033.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Dakar (UTC), on the day the version took effect, and carries it in its `In-force:` trailer (the promulgation day is in `Enacted:`, the Journal officiel's in `Published:`):
+Chaque commit est daté à midi, heure Africa/Dakar (UTC), du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` (la date de promulgation figure dans `Enacted:`, celle du Journal officiel dans `Published:`) :
 
-- both acts follow Loi n° 70-14 du 6 février 1970, art. 2: a law becomes executory in Dakar on the third day after the Journal officiel that prints it is deposited with the Secrétariat général de la Présidence, one day later for each Sunday or public holiday before then;
-- the deposit receipts were not found, so each issue's own date stands in: Loi n° 2008-12 (JO n° 6406, Saturday 3 May 2008) took effect on 7 May 2008, and Loi organique n° 2016-23 (JORS numéro spécial 6946, Friday 15 July 2016) on 19 July 2016;
-- laws published from 20 March 2021 take effect "un jour franc" after publication (Loi n° 2021-21 du 2 mars 2021, art. 10); no act here falls under that rule yet.
+- les deux textes relèvent de la Loi n° 70-14 du 6 février 1970, art. 2 : une loi devient exécutoire à Dakar le troisième jour suivant le dépôt, au Secrétariat général de la Présidence, du Journal officiel qui la publie, ce délai étant prorogé d’un jour pour chaque dimanche ou jour férié qui le précède ;
+- les récépissés de dépôt n’ayant pas été trouvés, la date propre de chaque numéro en tient lieu : la Loi n° 2008-12 (JO n° 6406, samedi 3 mai 2008) est entrée en vigueur le 7 mai 2008, et la Loi organique n° 2016-23 (JORS numéro spécial 6946, vendredi 15 juillet 2016) le 19 juillet 2016 ;
+- les lois publiées à compter du 20 mars 2021 entrent en vigueur « un jour franc » après leur publication (Loi n° 2021-21 du 2 mars 2021, art. 10) ; aucun texte du présent corpus ne relève encore de cette règle.
 
-Each act's first commit is the act as enacted, credited to the act itself (`Loi n° 2008-12`, `Loi organique n° 2016-23`). The committer is always Lexifina.
+Le premier commit de chaque texte est le texte tel qu’adopté, attribué au texte lui-même (`Loi n° 2008-12`, `Loi organique n° 2016-23`). Le committer est toujours Lexifina.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future. Results are in [`REPRODUCE.md`](REPRODUCE.md).
-- `tools/build.py` writes the history from that corpus in one pass, and the same corpus always gives the same commit hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. No second build has been compared yet.
-- Loi n° 2008-12 was compared article by article with the copy the Commission de Protection des Données Personnelles (CDP) publishes: all 78 articles agree apart from spelling, two line-end splits and the last sentence of art. 78, which only the Journal officiel prints; two slips of the Journal officiel's web edition (arts. 16 and 57) are corrected from it, as REPRODUCE.md lists.
-- No amending law was found for either act; Loi n° 18/2026, which would have replaced the Conseil constitutionnel with a Cour constitutionnelle, was declared unconstitutional (décision n° 6/C/2026 du 9 juillet 2026) and never took effect.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit sont analysables, l’absence de commits de fusion et qu’aucun commit n’est daté dans le futur. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et un même corpus donne toujours les mêmes empreintes de commit ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus. Aucune seconde construction n’a encore été comparée.
+- La Loi n° 2008-12 a été comparée article par article avec la copie que publie la Commission de Protection des Données Personnelles (CDP) : les 78 articles concordent, hormis l’orthographe, deux coupures de fin de ligne et la dernière phrase de l’art. 78, que seul le Journal officiel imprime ; deux erreurs matérielles de l’édition en ligne du Journal officiel (art. 16 et 57) sont corrigées d’après cette copie, comme l’indique REPRODUCE.md.
+- Aucune loi modificative n’a été trouvée pour l’un ou l’autre texte ; la Loi n° 18/2026, qui aurait remplacé le Conseil constitutionnel par une Cour constitutionnelle, a été déclarée contraire à la Constitution (décision n° 6/C/2026 du 9 juillet 2026) et n’est jamais entrée en vigueur.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **The Constitution of 2001.** Its only consolidation, the Conseil constitutionnel's (current to Loi constitutionnelle 2018-14), mixes about 100 editorial notes and « » change markers into the text, with no clean copy to check against; a "Loi n° 11/2024 portant révision de la Constitution" exists only as an image scan, and its status is not settled.
-- **The codes and other laws.** The Journal officiel's site (jo.gouv.sn) has been offline since about 2019, and no official site publishes dated versions of Senegalese law. The Code pénal (Loi 65-60) is available only as image scans, and this record does not transcribe images.
-- **Headings and formulas.** Chapter and section headings, the exposé des motifs, the enacting and executory formulas and the signatures are left out; each file starts with "# Article N".
-- **Deposit days.** The in-force days rest on each issue's printed date (see Dates).
+- **La Constitution de 2001.** Sa seule version consolidée, celle du Conseil constitutionnel (à jour de la Loi constitutionnelle 2018-14), mêle au texte une centaine de notes éditoriales et de marqueurs de modification « », sans copie propre permettant de la vérifier ; une « Loi n° 11/2024 portant révision de la Constitution » n’existe que sous forme de numérisation d’image, et son statut n’est pas établi.
+- **Les codes et les autres lois.** Le site du Journal officiel (jo.gouv.sn) est hors ligne depuis 2019 environ, et aucun site officiel ne publie de versions datées du droit sénégalais. Le Code pénal (Loi 65-60) n’est disponible que sous forme de numérisations d’images, et ce corpus ne transcrit pas les images.
+- **Les intitulés et les formules.** Les intitulés des chapitres et sections, l’exposé des motifs, les formules de promulgation et exécutoire et les signatures sont omis ; chaque fichier commence par « # Article N ».
+- **Les dates de dépôt.** Les dates d’entrée en vigueur reposent sur la date imprimée de chaque numéro (voir Dates).
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la République du Sénégal](https://web.archive.org/web/20150609214903/http://www.jo.gouv.sn/spip.php?article6663) (Internet Archive copy) | Official gazette, web edition (about 2001 to 2018) | as published | Loi n° 2008-12 (JO n° 6406, 3 May 2008) |
-| [Conseil constitutionnel](https://conseilconstitutionnel.sn/la-loi-organique/) | The Conseil's own page for its organic law | no, the text as promulgated | Loi organique n° 2016-23 (JORS NS 6946, 15 July 2016) |
-| [Commission de Protection des Données Personnelles](https://www.cdp.sn) (Internet Archive copy) | Data protection authority | no | Checking Loi n° 2008-12, and that it is still the law |
-| [Vie Publique Sénégal](https://www.vie-publique.sn) | Civic publisher of Journal officiel issues | no | The in-force rules (Loi n° 70-14, Loi n° 2021-21) and the search for later laws; no legal text here comes from it |
+| [Journal officiel de la République du Sénégal](https://web.archive.org/web/20150609214903/http://www.jo.gouv.sn/spip.php?article6663) (copie de l’Internet Archive) | Journal officiel, édition en ligne (2001 à 2018 environ) | tel que publié | Loi n° 2008-12 (JO n° 6406, 3 mai 2008) |
+| [Conseil constitutionnel](https://conseilconstitutionnel.sn/la-loi-organique/) | La page du Conseil consacrée à sa loi organique | non, le texte tel que promulgué | Loi organique n° 2016-23 (JORS NS 6946, 15 juillet 2016) |
+| [Commission de Protection des Données Personnelles](https://www.cdp.sn) (copie de l’Internet Archive) | Autorité de protection des données | non | Vérification de la Loi n° 2008-12, et du fait qu’elle est toujours en vigueur |
+| [Vie Publique Sénégal](https://www.vie-publique.sn) | Éditeur civique de numéros du Journal officiel | non | Les règles d’entrée en vigueur (Loi n° 70-14, Loi n° 2021-21) et la recherche de lois ultérieures ; aucun texte juridique du présent corpus n’en provient |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Senegal, from the Journal officiel and the Conseil constitutionnel; neither publishes a licence for them, their copyright status is not confirmed, and they are reproduced with that attribution. The history, commit messages, tables and tools are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes sont des textes juridiques officiels de la République du Sénégal, issus du Journal officiel et du Conseil constitutionnel ; aucun des deux ne publie de licence pour ces textes, leur statut au regard du droit d’auteur n’est pas confirmé, et ils sont reproduits avec cette mention de source. L’historique, les messages de commit, les tableaux et les outils sont sous licence CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L'histoire du droit sénégalais dans git : un fichier par article, un commit par version au jour de son entrée en vigueur, et pour auteur de chaque commit la loi à l'origine du texte. Le dépôt contient deux textes, chacun dans sa version d'origine : la loi n° 2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel (en vigueur le 7 mai 2008) et la loi organique n° 2016-23 du 14 juillet 2016 relative au Conseil constitutionnel (en vigueur le 19 juillet 2016). Aucune loi modificative n'a été trouvée. La Constitution et les codes n'y figurent pas encore. Texte en vigueur à une date : `python tools/en_vigueur_au.py 2020-01-01 donnees-personnelles 33` ; `git blame donnees-personnelles/art-033.md` nomme la loi à l'origine de chaque alinéa.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
