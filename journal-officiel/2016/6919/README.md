@@ -1,0 +1,31 @@
+# Journal officiel n° 6919 du 2016-03-19
+
+Textes de ce numéro conservés dans ce dépôt (archive du site jo.gouv.sn).
+
+| Texte | Intitulé |
+| --- | --- |
+| [Arrêté ministériel n° 22002](../../../arretes/2015/arrete-ministeriel-22002-2015-11-30/) | Arrêté ministériel n° 22002 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « OUEST AFRICA TRANS LOGISTICS INTERNATIONAL », en qualité de Co |
+| [Arrêté ministériel n° 22003](../../../arretes/2015/arrete-ministeriel-22003-2015-11-30/) | Arrêté ministériel n° 22003 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « MILLENIUM TRANSIT ET TRANSPORT DU SENEGAL (MTTS) », en qualité |
+| [Arrêté ministériel n° 22004](../../../arretes/2015/arrete-ministeriel-22004-2015-11-30/) | Arrêté ministériel n° 22004 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « ITALSEN TRANSIT ET TRANSPORT SARL », en qualité de Commissionn |
+| [Arrêté ministériel n° 22005](../../../arretes/2015/arrete-ministeriel-22005-2015-11-30/) | Arrêté ministériel n° 22005 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « LOGISTIQUE ET TRANSIT POUR L'AFRIQUE (LOTRAF) SUARL », en qual |
+| [Arrêté ministériel n° 22006](../../../arretes/2015/arrete-ministeriel-22006-2015-11-30/) | Arrêté ministériel n° 22006 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « A.M.A. FREIGHT LOGISTICS », en qualité de Commissionnaire en d |
+| [Arrêté ministériel n° 22007](../../../arretes/2015/arrete-ministeriel-22007-2015-11-30/) | Arrêté ministériel n° 22007 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « DAARA- J TRANSIT SARL », en qualité de Commissionnaire en doua |
+| [Arrêté ministériel n° 22008](../../../arretes/2015/arrete-ministeriel-22008-2015-11-30/) | Arrêté ministériel n° 22008 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « ADAMA KEITA ET FILS TRANSIT TRANSPORT DJIGNISSEMBE », en quali |
+| [Arrêté ministériel n° 22009](../../../arretes/2015/arrete-ministeriel-22009-2015-11-30/) | Arrêté ministériel n° 22009 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « MANSA TRANSIT SERVICES SARL », en qualité de Commissionnaire e |
+| [Arrêté ministériel n° 22010](../../../arretes/2015/arrete-ministeriel-22010-2015-11-30/) | Arrêté ministériel n° 22010 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « AFRICARGO SARL », en qualité de Commissionnaire en douane. |
+| [Arrêté ministériel n° 22011](../../../arretes/2015/arrete-ministeriel-22011-2015-11-30/) | Arrêté ministériel n° 22011 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société de Transit Ouest Africaine « STOA SARL », en qualité de Commissi |
+| [Arrêté ministériel n° 22013](../../../arretes/2015/arrete-ministeriel-22013-2015-11-30/) | Arrêté ministériel n° 22013 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « ESPACE TRANSIT SARL », en qualité de Commissionnaire en douane |
+| [Arrêté ministériel n° 22014](../../../arretes/2015/arrete-ministeriel-22014-2015-11-30/) | Arrêté ministériel n° 22014 MEFP/DGD en date 30 novembre 2015 portant agrément de la Société « DIOBASS TRANSIT », en qualité de Commissionnaire en douane. |
+| [Arrêté ministériel n° 22016](../../../arretes/2015/arrete-ministeriel-22016-2015-11-30/) | Arrêté ministériel n° 22016 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « BABEL TRANSIT INTERNATIONAL SUARL », en qualité de Commissionn |
+| [Arrêté ministériel n° 22017](../../../arretes/2015/arrete-ministeriel-22017-2015-11-30/) | Arrêté ministériel n° 22017 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société dénommée « OUEST AFRICAINE DE TRANSIT ET DE TRANSPORT (OATT) »,  |
+| [Arrêté ministériel n° 22019](../../../arretes/2015/arrete-ministeriel-22019-2015-11-30/) | Arrêté ministériel n° 22019 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « FIRST LOGISTICS INTERNATIONAL SARL », en qualité de Commission |
+| [Arrêté ministériel n° 22020](../../../arretes/2015/arrete-ministeriel-22020-2015-11-30/) | Arrêté ministériel n° 22020 MEFP/DGD en date du 30 novembre 2015 portant agrément de la Société « EXPRESS TRANSIT MONDE (SETM) », en qualité de Commissionnaire  |
+| [Arrêté ministériel n° 22544](../../../arretes/2015/arrete-ministeriel-22544-2015-12-08/) | Arrêté ministériel n° 22544 en date du 08 décembre 2015 portant autorisation de lotir une partie du titre foncier n° 1328/R sis à Niacoulrab dans le département |
+| [Arrêté ministériel n° 22012](../../../arretes/2016/arrete-ministeriel-22012-2016-11-30/) | Arrêté ministériel n° 22012 MEFP/DGD en date du 30 novembre 2016 portant agrément de la Société dénommée Elite Managériale de l'immobilier du transit et du tran |
+| [Arrêté ministériel n° 22015](../../../arretes/2016/arrete-ministeriel-22015-2016-11-30/) | Arrêté ministériel n° 22015 MEFP/DGD en date du 30 novembre 2016 portant agrément de la Société « Compagnie Africaine de transit et Logistique (CAT LOGISTIQUE S |
+| [Décret n° 2015-1869](../../../decrets/2015/decret-2015-1869/) | Décret n° 2015-1869 du 14 décembre 2015 portant nomination dans l'Ordre national du Lion à titre étranger |
+| [Décret n° 2015-1873](../../../decrets/2015/decret-2015-1873/) | Décret n° 2015-1873 du 15 décembre 2015 relatif à la dénomination de l'Ecole Emile SARR, (commune de Saint-Louis, département de Saint-Louis, région de Saint-Lo |
+| [Décret n° 2015-1878](../../../decrets/2015/decret-2015-1878/) | Décret n° 2015-1878 du 16 décembre 2015 relatif à la dénomination de l'Ecole élémentaire n° 3 de la Commune de Ngaparou, département de Mbour |
+| [Décret n° 2015-1879](../../../decrets/2015/decret-2015-1879/) | Décret n° 2015-1879 du 16 décembre 2015 modifiant le décret n° 2009-1334 du 30 novembre 2009 portant création et fixant le taux et les modalités de répartition  |
+| [Décret n° 2015-1885](../../../decrets/2015/decret-2015-1885/) | Décret n° 2015-1885 du 16 décembre 2015 autorisant l'extradition de Ahmed TAHIRI |
+| [Loi n° 2014-24](../../../lois/2014/loi-2014-24/) | Loi n° 2014-24 du 1er juillet 2014 abrogeant et remplaçant certaines dispositions de la loi n° 83-03 du 28 janvier 1983 portant statut spécial du personnel du C |

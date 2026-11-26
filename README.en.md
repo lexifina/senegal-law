@@ -11,7 +11,7 @@ The law of Senegal as a git history: one file per article, each version committe
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Senegal's national law, which global-law reads at `senegal/national/acts/`.
 
-**What is in it now:** two acts, each in one version, as enacted: Loi n° 2008-12 du 25 janvier 2008 on the protection of personal data (78 articles, in force from 7 May 2008) and Loi organique n° 2016-23 du 14 juillet 2016 on the Conseil constitutionnel (27 articles, in force from 19 July 2016). No law amending either was found, so one version is each act's whole history. The Constitution and the codes are not here yet.
+**What is in it now:** 10027 texts as published, in 64915 article files, in force from 1981 to 2018: the Constitution of 22 January 2001 as enacted (`constitution/`), 9 codes as enacted (`codes/`), 467 laws (including the constitutional laws of 2003 to 2016), 4946 decrees, 4198 arrêtés and 404 other texts (community acts, treaties, ministerial decisions), mostly from the Journal officiel's web edition (2001-2018, the archived jo.gouv.sn site), plus the two laws of the first build (`donnees-personnelles/`, `conseil-constitutionnel/`). The Constitution's revisions are in `lois/` but not yet applied to its articles; texts published only as page images are not here. Details and what was left out: [REPRODUCE.md](REPRODUCE.md); the folder layout: [STRUCTURE.md](STRUCTURE.md).
 
 Each act is a folder named for its subject, one file per article: `donnees-personnelles/` is Loi n° 2008-12 (`art-033.md` is Article 33, when processing personal data is lawful) and `conseil-constitutionnel/` is Loi organique n° 2016-23. Each folder's `README.md` lists every article.
 
