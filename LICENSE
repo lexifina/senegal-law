@@ -1,25 +1,22 @@
-The legal texts come from official publications of the Republic of Senegal:
-
-  Journal officiel de la République du Sénégal, n° 6406 du 3 mai 2008, Loi n° 2008-12 du 25 janvier 2008 portant
-  sur la Protection des données à caractère personnel, web edition http://www.jo.gouv.sn/spip.php?article6663,
-  read from the Internet Archive capture of 9 June 2015
-  (https://web.archive.org/web/20150609214903/http://www.jo.gouv.sn/spip.php?article6663), retrieved 28 October 2026;
-  Conseil constitutionnel du Sénégal, Loi organique n° 2016-23 du 14 juillet 2016 relative au Conseil
-  constitutionnel (JORS NS 6946 du 15 juillet 2016, pp. 927-930), https://conseilconstitutionnel.sn/la-loi-organique/,
-  retrieved 28 October 2026.
-
-The Journal officiel site read "© Copyrights Gouvernement du Sénégal" and the Conseil constitutionnel's site reads
-"© Copyright 2026. tous droits réservés"; neither publishes a licence for the legal texts. They are official legal
-texts; their copyright status is not confirmed here, and they are reproduced with the attribution above. Two words
-of Loi n° 2008-12 were corrected from the copy published by the Commission de Protection des Données Personnelles
-(https://www.cdp.sn/sites/default/files/protection.pdf, Internet Archive capture of 1 March 2017), as listed in
-REPRODUCE.md.
-
-Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
-spacing, apostrophes, quotes and dashes were normalised; headings, the exposé des motifs, the enacting and executory
-formulas and the signatures were removed; and the text was arranged as git commits credited to the laws concerned.
-The wording of the law was not otherwise changed. None of the publishers endorses this repository.
-
-Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
-dedicated to the public domain under CC0 1.0 Universal:
+Lexifina's own contributions to this repository (the arrangement of the history, the commit messages, the tables,
+the documentation and the tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The legal texts are official texts of the Republic of Senegal (and, in actes-communautaires/ and traites/,
+instruments of UEMOA, CEDEAO, OHADA and other organisations as printed in the Journal officiel). They come from:
+
+- Journal officiel de la République du Sénégal, web edition (www.jo.gouv.sn, 2001-2018), read from Internet
+  Archive captures (https://web.archive.org/web/*/www.jo.gouv.sn/*); the site read "© Copyrights Gouvernement du
+  Sénégal" and stated no licence.
+- Conseil constitutionnel du Sénégal (https://conseilconstitutionnel.sn/la-loi-organique/), "© Copyright 2026. tous
+  droits réservés"; no licence stated for the legal texts.
+- Vie Publique Sénégal (https://www.vie-publique.sn), civic publisher; its robots.txt carries
+  "Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference". The texts taken are the official PDFs it
+  hosts (laws, ordinances, decrees; the Code des douanes as published by the Direction générale des douanes).
+- Commission de Protection des Données Personnelles (cdp.sn, Internet Archive copy), for two words of Loi n° 2008-12.
+
+None of these publishers states a licence for the legal texts; their copyright status is not confirmed here, and
+they are reproduced as official texts with the attribution above. Changes made by Lexifina: one Markdown file per
+provision, one paragraph per line; spacing, apostrophes and broken encodings normalised; headings, exposés des
+motifs, visas, signatures and executory formulas removed. The wording of the law was not otherwise changed. None of
+the publishers endorses this repository.
