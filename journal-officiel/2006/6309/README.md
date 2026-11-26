@@ -1,0 +1,39 @@
+# Journal officiel n° 6309 du 2006-11-25
+
+Textes de ce numéro conservés dans ce dépôt (archive du site jo.gouv.sn).
+
+| Texte | Intitulé |
+| --- | --- |
+| [Arrêté ministériel n° 4150](../../../arretes/2006/arrete-ministeriel-4150-2006-06-27/) | Arrêté ministériel n° 4150 MSPM-DPL en date du 27 juin 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 4151](../../../arretes/2006/arrete-ministeriel-4151-2006-06-27/) | Arrêté ministériel n° 4151 MSPM-DPL en date du 27 juin 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 4152](../../../arretes/2006/arrete-ministeriel-4152-2006-06-27/) | Arrêté ministériel n° 4152 MSPM-DPL en date du 27 juin 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 4154](../../../arretes/2006/arrete-ministeriel-4154-2006-06-27/) | Arrêté ministériel n° 4154 MSPM-DPL en date du 27 juin 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 4155](../../../arretes/2006/arrete-ministeriel-4155-2006-06-27/) | Arrêté ministériel n° 4155 MSPM-DPL en date du 27 juin 2006 portant abrogation de l'arrêté n° 767 MSAP-DPH du 11 février 1997 portant autorisation d'ouverture d |
+| [Arrêté ministériel n° 4156](../../../arretes/2006/arrete-ministeriel-4156-2006-06-27/) | Arrêté ministériel n° 4156 MSPM-DPL en date du 27 juin 2006 portant abrogation de l'arrêté n° 6812 MSAP-DPH du 31 août 1998 portant autorisation d'ouverture d'u |
+| [Arrêté ministériel n° 4157](../../../arretes/2006/arrete-ministeriel-4157-2006-06-27/) | Arrêté ministériel n° 4157 MSPM-DPL en date du 27 juin 2006 portant autorisation d'exercer la pharmacie en qualité de titulaire. |
+| [Arrêté ministériel n° 4158](../../../arretes/2006/arrete-ministeriel-4158-2006-06-27/) | Arrêté ministériel n° 4158 MSPM-DPL en date du 27 juin 2006 portant autorisation de transfert d'une officine de pharmacie. |
+| [Arrêté ministériel n° 4159](../../../arretes/2006/arrete-ministeriel-4159-2006-06-27/) | Arrêté ministériel n° 4159 MSPM-DPL en date du 27 juin 2006 portant rectification de l'arrêté n° 283 du 19 janvier 2006 portant autorisation d'ouverture d'une o |
+| [Arrêté ministériel n° 4160](../../../arretes/2006/arrete-ministeriel-4160-2006-06-27/) | Arrêté ministériel n° 4160 MSPM-DS-DMPMTMT en date du 27 juin 2006 portant autorisation de transfert d'adresse de cabinet médical. |
+| [Arrêté ministériel n° 4161](../../../arretes/2006/arrete-ministeriel-4161-2006-06-27/) | Arrêté ministEriel n° 4161 MSPM-DS-DMPMTMT en date du 27 juin 2006 portant autorisation d'ouverture d'un cabinet médical privé. |
+| [Arrêté ministériel n° 4162](../../../arretes/2006/arrete-ministeriel-4162-2006-06-27/) | Arrêté ministériel n° 4162 MSPM-DS-DMPMTMT en date du 27 juin 2006 portant autorisation d'ouverture d'un cabinet médical |
+| [Arrêté ministériel n° 4168](../../../arretes/2006/arrete-ministeriel-4168-2006-07-18/) | Arrêté ministériel n° 4168 en date du 18 juillet 2006 MEF-DGID-DEDT abrogeant partiellement l'arrêté n° 13631 MEF-DGID-DEDT en date du 16 novembre 1985 en ce qu |
+| [Arrêté ministériel n° 4169](../../../arretes/2006/arrete-ministeriel-4169-2006-06-29/) | Arrêté ministériel n° 4169 MEF-DGID-DEDT en date du 29 juin 2006 autorisant M.Valéry Jean Noël Hayette à occuper, à titre précaire et révocable un terrain du do |
+| [Arrêté ministériel n° 4256](../../../arretes/2006/arrete-ministeriel-4256-2006-07-04/) | Arrêté ministériel n° 4256 MINT-CL-DAGAT-DEL-AS en date du 4 juillet 2006 portant autorisation d'une association étrangère dénommée Rikhlatoul Ibada. |
+| [Arrêté ministériel n° 4257](../../../arretes/2006/arrete-ministeriel-4257-2006-07-04/) | Arrêté ministériel n° 4257 MINT-CL-DAGAT-DEL-AS en date du 4 juillet 2006 portant autorisation d'une association étrangère dénommée World Missionary Evangelisti |
+| [Arrêté ministériel n° 4258](../../../arretes/2006/arrete-ministeriel-4258-2006-07-04/) | Arrêté ministériel n° 4258 MINT-CL-DAGAT-DEL-AS en date du 4 juillet 2006 portant autorisation d'une association étrangère dénommée « Croix Rouge Française ». |
+| [Arrêté ministériel n° 4259](../../../arretes/2006/arrete-ministeriel-4259-2006-07-04/) | Arrêté ministériel n° 4259 MINT-CL-DAGAT-DEL-AS en date du 4 juillet 2006 portant autorisation d'une association étrangère dénommée « Save The Children UK ». |
+| [Arrêté ministériel n° 4305](../../../arretes/2006/arrete-ministeriel-4305-2006-07-07/) | Arrêté ministériel n° 4305 MEF-DGID-DEDT en date du 7 juillet 2006 portant résiliation du bail consenti par l'Etat du Sénégal à M. El Hadji Falou dit Asse Cissé |
+| [Arrêté ministériel n° 4307](../../../arretes/2006/arrete-ministeriel-4307-2006-07-10/) | Arrêté ministériel n° 4307 METFP-DC-DFP en date du 10 juillet 2006 portant autorisation d'ouverture et de fonctionnement de l'Ecole privée supérieure de Logisti |
+| [Arrêté ministériel n° 4308](../../../arretes/2006/arrete-ministeriel-4308-2006-07-10/) | Arrêté ministériel n° 4308 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une garderie d'enfants privée « Kër Soua » |
+| [Arrêté ministériel n° 4309](../../../arretes/2006/arrete-ministeriel-4309-2006-07-10/) | Arrêté ministériel n° 4309 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une école privée « Serigne Momar Seck Thiénaba » |
+| [Arrêté ministériel n° 4310](../../../arretes/2006/arrete-ministeriel-4310-2006-07-10/) | Arrêté ministériel n° 4310 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une école privée « Cours privés Jupiter » |
+| [Arrêté ministériel n° 4311](../../../arretes/2006/arrete-ministeriel-4311-2006-07-10/) | Arrêté ministériel n° 4311 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une école privée « Cheikh At Khana Aïdara » |
+| [Arrêté ministériel n° 4312](../../../arretes/2006/arrete-ministeriel-4312-2006-07-10/) | Arrêté ministériel n° 4312 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une école privée « Keur Aïcha ». |
+| [Arrêté ministériel n° 4313](../../../arretes/2006/arrete-ministeriel-4313-2006-07-10/) | Arrêté ministériel n° 4313 ME-SG-DEP en date du 10 juillet 2006 portant ouverture d'une école privée « La Corniche » |
+| [Arrêté ministériel n° 4314](../../../arretes/2006/arrete-ministeriel-4314-2006-07-10/) | Arrêté ministériel n° 4314 ME-SG-DEP en date du 10 juillet 2006 portant extention d'une école privée « Saint Coeur de Marie » |
+| [Décret n° 2006-638](../../../decrets/2006/decret-2006-638/) | Décret n° 2006-638 en date du 18 juillet 2006 prescrivant l'immatriculation au nom de l'Etat, d'une parcelle de terrain du domaine national sise dans la zone d' |
+| [Décret n° 2006-639](../../../decrets/2006/decret-2006-639/) | Décret n° 2006-639 en date du 18 juillet 2006 prononçant le déclassement d'une dépendance du domaine public maritime sise à Niangal (Communauté rurale de Yenne) |
+| [Décret n° 2006-640](../../../decrets/2006/decret-2006-640/) | Décret n° 2006-640 en date du 18 juillet 2006 prescrivant l'immatriculation au nom de l'Etat, d'un terrain du domaine national situé à Dakar, en zone Ouest Foir |
+| [Décret n° 2006-641](../../../decrets/2006/decret-2006-641/) | Décret n° 2006-641 en date du 18 juillet 2006 prescrivant l'immatriculation au nom de l'Etat, d'un terrain du domaine national situé à Dakar, en zone de Ngor, d |
+| [Décret n° 2006-642](../../../decrets/2006/decret-2006-642/) | Décret n° 2006-642 en date du 18 juillet 2006 prescrivant l'immatriculation au nom de l'Etat, d'une parcelle de terrain du domaine national sise à Niaga Ouoloff |
+| [Décret n° 2006-670](../../../decrets/2006/decret-2006-670/) | Decret n° 2006-670 du 18 juillet 2006 portant élévation dans les dignités de l'Ordre national du Lion au titre de l'année 2006. |

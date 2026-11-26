@@ -1,0 +1,39 @@
+# Journal officiel n° 6297 du 2006-09-16
+
+Textes de ce numéro conservés dans ce dépôt (archive du site jo.gouv.sn).
+
+| Texte | Intitulé |
+| --- | --- |
+| [Arrêté ministériel n° 1967](../../../arretes/2006/arrete-ministeriel-1967-2006-03-27/) | ARRETE MINISTERIEL n° 1967 TTA-DRC en date du 27 mars 2006 modifiant l'article premier de l'arrêté n°3795/MT/DPAT/BPT du 8 avril 2004, accordant à l'Agence « JA |
+| [Arrêté ministériel n° 1967](../../../arretes/2006/arrete-ministeriel-1967-2006-03-27-jo4959/) | ARRETE MINISTERIEL n° 1967 TTA-DRC en date du 27 mars 2006 modifiant l'article premier de l'arrêté n°3795/MT/DPAT/BPT du 8 avril 2004, accordant à l'Agence « JA |
+| [Arrêté ministériel n° 1991](../../../arretes/2006/arrete-ministeriel-1991-2006-03-28/) | ARRETE MINISTERIEL n° 1991 MEF-DGID-DEDT en date du 28 mars 2006 abrogeant partiellement l'arrêté n°11717 MEF-DGID-DEDT en date du 25 septembre 1989 en ce qu'il |
+| [Arrêté ministériel n° 1991](../../../arretes/2006/arrete-ministeriel-1991-2006-03-28-jo4943/) | ARRETE MINISTERIEL n° 1991 MEF-DGID-DEDT en date du 28 mars 2006 abrogeant partiellement l'arrêté n°11717 MEF-DGID-DEDT en date du 25 septembre 1989 en ce qu'il |
+| [Arrêté ministériel n° 1992](../../../arretes/2006/arrete-ministeriel-1992-2006-03-28/) | ARRETE MINISTERIEL n° 1992 MEF-DGID-DEDT en date du 28 mars 2006 autorisant M. Baba Dioum à occuper, à titre précaire et révocable, une parcelle du domaine publ |
+| [Arrêté ministériel n° 1992](../../../arretes/2006/arrete-ministeriel-1992-2006-03-28-jo4945/) | ARRETE MINISTERIEL n° 1992 MEF-DGID-DEDT en date du 28 mars 2006 autorisant M. Baba Dioum à occuper, à titre précaire et révocable, une parcelle du domaine publ |
+| [Arrêté ministériel n° 1993](../../../arretes/2006/arrete-ministeriel-1993-2006-03-28/) | ARRETE MINISTERIEL n° 1993 MEF-DGID-DEDT en date du 28 mars 2006 abrogeant l'arrêté n° 13631 MEF-DGID-DEDT du 16 novembre 1985, en ses dispositions autorisant M |
+| [Arrêté ministériel n° 1993](../../../arretes/2006/arrete-ministeriel-1993-2006-03-28-jo4946/) | ARRETE MINISTERIEL n° 1993 MEF-DGID-DEDT en date du 28 mars 2006 abrogeant l'arrêté |
+| [Arrêté ministériel n° 2280](../../../arretes/2006/arrete-ministeriel-2280-2006-04-07/) | ARRETE MINISTERIEL n° 2280 ME-SG-DEP en date du 7 avril 2006 portant ouverture d'une école privée « GASTON BERGER » |
+| [Arrêté ministériel n° 2280](../../../arretes/2006/arrete-ministeriel-2280-2006-04-07-jo4955/) | ARRETE MINISTERIEL n° 2280 ME-SG-DEP en date du 7 avril 2006 portant ouverture d'une école privée « GASTON BERGER » |
+| [Arrêté ministériel n° 2344](../../../arretes/2006/arrete-ministeriel-2344-2006-04-13/) | ARRETE MINISTERIEL n° 2344 MEPN-DEFCCS en date du 13 avril 2006 fixant les modalités d'organisation de la campagne d'exploitation forestière 2006. |
+| [Arrêté ministériel n° 2344](../../../arretes/2006/arrete-ministeriel-2344-2006-04-13-jo4992/) | ARRETE MINISTERIEL n° 2344 MEPN-DEFCCS en date du 13 avril 2006 fixant les modalités d'organisation de la campagne d'exploitation forestière 2006. |
+| [Arrêté ministériel n° 2362](../../../arretes/2006/arrete-ministeriel-2362-2006-04-13/) | ARRETE MINISTERIEL n° 2362 MEPN-DEEC en date du 13 avril 2006 portant ouverture des divisions régionales de l'Environnement et des Etablissements classés de Dio |
+| [Arrêté ministériel n° 2362](../../../arretes/2006/arrete-ministeriel-2362-2006-04-13-jo4993/) | ARRETE MINISTERIEL n° 2362 MEPN-DEEC en date du 13 avril 2006 portant ouverture des divisions régionales de l'Environnement et des Etablissements classés de Dio |
+| [Arrêté ministériel n° 2381](../../../arretes/2006/arrete-ministeriel-2381-2006-04-13/) | ARRETE MINISTERIEL n° 2381 en date du 13 avril 2006 portant extension d'une école privée « GROUPE SCOLAIRE SEYDOU NOUROU TALL » |
+| [Arrêté ministériel n° 2381](../../../arretes/2006/arrete-ministeriel-2381-2006-04-13-jo4956/) | ARRETE MINISTERIEL n° 2381 en date du 13 avril 2006 portant extension d'une école privée « GROUPE SCOLAIRE SEYDOU NOUROU TALL » |
+| [Décision ministérielle n° 1970](../../../decisions-ministerielles/2006/decision-ministerielle-1970-2006-03-27/) | DECISION MINISTERIELLE n° 1970 MEF-DMC en date du 27 mars 2006 portant autorisation d'exercer le commerce de l'or. |
+| [Décision ministérielle n° 1970](../../../decisions-ministerielles/2006/decision-ministerielle-1970-2006-03-27-jo4947/) | DECISION MINISTERIELLE n° 1970 MEF-DMC en date du 27 mars 2006 portant autorisation d'exercer le commerce de l'or. |
+| [Décision ministérielle n° 1988](../../../decisions-ministerielles/2006/decision-ministerielle-1988-2006-03-28/) | DECISION MINISTERIELLE n° 1988 MEF-AT-CPEC en date du 28 mars 2006 portant agrément de la mutuelle d'épargne et de crédit du collectif d'appui et de développeme |
+| [Décision ministérielle n° 1988](../../../decisions-ministerielles/2006/decision-ministerielle-1988-2006-03-28-jo4948/) | DECISION MINISTERIELLE n° 1988 MEF-AT-CPEC en date du 28 mars 2006 portant agrément de la mutuelle d'épargne et de crédit du collectif d'appui et de développeme |
+| [Décision ministérielle n° 2000](../../../decisions-ministerielles/2006/decision-ministerielle-2000-2006-03-28/) | DECISION MINISTERIELLE n° 2000 MEF-DGD-DEL en date du 28 mars 2006 portant agrément de la Société BLEU MARINE TRANSIT TRANSPORT (BMTT) en qualité de Commissionn |
+| [Décision ministérielle n° 2000](../../../decisions-ministerielles/2006/decision-ministerielle-2000-2006-03-28-jo4949/) | DECISION MINISTERIELLE n° 2000 MEF-DGD-DEL en date du 28 mars 2006 portant agrément de la Société BLEU MARINE TRANSIT TRANSPORT (BMTT) en qualité de Commissionn |
+| [Décret n° 2006-326](../../../decrets/2006/decret-2006-326/) | DECRET n° 2006-326 du 7 avril 2006 portant autorisation de perte de la nationalité sénégalaise. |
+| [Décret n° 2006-326](../../../decrets/2006/decret-2006-326-jo4950/) | DECRET n° 2006-326 du 7 avril 2006 portant autorisation de perte de la nationalité sénégalaise. |
+| [Décret n° 2006-350](../../../decrets/2006/decret-2006-350/) | DECRET n° 2006-350 du 13 avril 2006 portant dénomination de l'Ecole élémentaire de Barga. |
+| [Décret n° 2006-350](../../../decrets/2006/decret-2006-350-jo4952/) | DECRET n° 2006-350 du 13 avril 2006 portant dénomination de l'Ecole élémentaire de Barga. |
+| [Décret n° 2006-351](../../../decrets/2006/decret-2006-351-jo4944/) | DECRET n° 2006-351 du 18 avril 2006 modifiant le décret n°2006-267 du 23 mars 2006 portant répartition des services de l'Etat et du contrôle des établissements  |
+| [Décret n° 2006-359](../../../decrets/2006/decret-2006-359/) | DECRET n° 2006-359 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Bargny (Département de Rufisque) à la société Sococim-Ind |
+| [Décret n° 2006-359](../../../decrets/2006/decret-2006-359-jo4964/) | DECRET n° 2006-359 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Bargny (Département de Rufisque) à la société Sococim-Ind |
+| [Décret n° 2006-360](../../../decrets/2006/decret-2006-360/) | DECRET n° 2006-360 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Bandia (Département de Mbour) à la société Sococim-Indust |
+| [Décret n° 2006-360](../../../decrets/2006/decret-2006-360-jo4990/) | DECRET n° 2006-360 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Bandia (Département de Mbour) à la société Sococim-Indust |
+| [Décret n° 2006-361](../../../decrets/2006/decret-2006-361/) | DECRET n° 2006-361 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Pout (Département de Thiès) à la société Sococim-Industri |
+| [Décret n° 2006-361](../../../decrets/2006/decret-2006-361-jo4991/) | DECRET n° 2006-361 du 19 avril 2006 accordant une concession minière pour l'exploitation du calcaire à Pout (Département de Thiès) à la société Sococim-Industri |

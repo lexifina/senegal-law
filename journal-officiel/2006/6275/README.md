@@ -1,0 +1,47 @@
+# Journal officiel n° 6275 du 2006-04-22
+
+Textes de ce numéro conservés dans ce dépôt (archive du site jo.gouv.sn).
+
+| Texte | Intitulé |
+| --- | --- |
+| [Arrêté ministériel n° 276](../../../arretes/2006/arrete-ministeriel-276-2006-01-19/) | ARRETE MINISTERIEL n° 276 en date du 19 janvier 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 278](../../../arretes/2006/arrete-ministeriel-278-2006-01-19/) | ARRETE MINISTERIEL n° 278 MSPM-DS-DSBD en date du 19 janvier 2006 portant autorisation d'exercer à titre privé, la profession de chirurgie dentaire à Ouakam car |
+| [Arrêté ministériel n° 279](../../../arretes/2006/arrete-ministeriel-279-2006-01-19/) | ARRETE MINISTERIEL n° 279 MSPM-DS-DSBD en date du 19 janvier 2006 portant autorisation d'exercer à titre privé, la profession de chirurgie dentaire à Ouakam qua |
+| [Arrêté ministériel n° 280](../../../arretes/2006/arrete-ministeriel-280-2006-01-19/) | ARRETE MINISTERIEL n° 280 MSPM-dpl en date du 19 janvier 2006 portant autorisation de transfert d'une officine de pharmacie sise au quartier Escale du lot n° 09 |
+| [Arrêté ministériel n° 281](../../../arretes/2006/arrete-ministeriel-281-2006-01-19/) | ARRETE MINISTERIEL n° 281-mspm-ds-dsbd en date du 19 janvier 2006 portant autorisation d'exercer à titre privé, la profession de chirurgie dentaire à Vélingara  |
+| [Arrêté ministériel n° 283](../../../arretes/2006/arrete-ministeriel-283-2006-01-19/) | ARRETE MINISTERIEL n° 283 mspm-dpl en date du 19 janvier 2006 portant autorisation d'ouverture d'une officine de pharmacie. |
+| [Arrêté ministériel n° 284](../../../arretes/2006/arrete-ministeriel-284-2006-01-19/) | ARRETE MINISTERIEL n° 284 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 285](../../../arretes/2006/arrete-ministeriel-285-2006-01-19/) | ARRETE MINISTERIEL n° 285 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 286](../../../arretes/2006/arrete-ministeriel-286-2006-01-19/) | ARRETE MINISTERIEL n° 286 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 291](../../../arretes/2006/arrete-ministeriel-291-2006-01-19/) | ARRETE MINISTERIEL n° 291 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 292](../../../arretes/2006/arrete-ministeriel-292-2006-01-19/) | ARRETE MINISTERIEL n° 292 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 294](../../../arretes/2006/arrete-ministeriel-294-2006-01-19/) | ARRETE MINISTERIEL n° 294 mspm-dpl en date du 19 janvier 2006 portant autorisation d'ouverture de l'unité de fabrication du vaccin de la Fièvre jaune de l'Insti |
+| [Arrêté ministériel n° 295](../../../arretes/2006/arrete-ministeriel-295-2006-01-19/) | ARRETE MINISTERIEL n° 295 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 296](../../../arretes/2006/arrete-ministeriel-296-2006-01-19/) | ARRETE MINISTERIEL n° 296 mspm-ds-dMPMTMT en date du 19 janvier 2006 portant autorisation d'ouverture d'un cabinet d'Audioprothésiste |
+| [Arrêté ministériel n° 298](../../../arretes/2006/arrete-ministeriel-298-2006-01-19/) | ARRETE MINISTERIEL n° 298 mspm-ds-dMPMTMT en date du 19 janvier 2006 portant autorisation de changement d'adresse. |
+| [Arrêté ministériel n° 299](../../../arretes/2006/arrete-ministeriel-299-2006-01-19/) | ARRETE MINISTERIEL n° 299 mspm-ds-dsbd en date du 19 janvier 2006 portant changement d'adresse professionnelle d'un cabinet dentaire à Liberté VI Extension Vill |
+| [Arrêté ministériel n° 300](../../../arretes/2006/arrete-ministeriel-300-2006-01-19/) | ARRETE MINISTERIEL n° 300 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 301](../../../arretes/2006/arrete-ministeriel-301-2006-01-19/) | ARRETE MINISTERIEL n° 301 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 302](../../../arretes/2006/arrete-ministeriel-302-2006-01-19/) | ARRETE MINISTERIEL n° 302 mspm-dpl en date du 19 janvier 2006 portant autorisation d'ouverture d'une officine de pharmacie. |
+| [Arrêté ministériel n° 303](../../../arretes/2006/arrete-ministeriel-303-2006-01-19/) | ARRETE MINISTERIEL n° 303 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 304](../../../arretes/2006/arrete-ministeriel-304-2006-01-19/) | ARRETE MINISTERIEL n° 304 mspm-dpl en date du 19 janvier 2006 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 305](../../../arretes/2006/arrete-ministeriel-305-2006-01-19/) | ARRETE MINISTERIEL n° 305 mspm-ds-dsbd en date du 19 janvier 2006 portant changement d'adresse professionnelle d'un cabinet dentaire à titre privé au 4329, rue  |
+| [Arrêté ministériel n° 306](../../../arretes/2006/arrete-ministeriel-306-2006-01-19/) | ARRETE MINISTERIEL n° 306 mspm-dpl en date du 19 janvier 2006 portant autorisation de transfert d'une officine de pharmacie sise à Sotrac Mermoz, titre foncier  |
+| [Arrêté ministériel n° 307](../../../arretes/2006/arrete-ministeriel-307-2006-01-19/) | ARRETE MINISTERIEL n° 307 mspm-dpl en date du 19 janvier 2006 portant autorisation d'ouverture d'une officine de pharmacie. |
+| [Arrêté ministériel n° 308](../../../arretes/2006/arrete-ministeriel-308-2006-01-19/) | ARRETE MINISTERIEL n° 308 mspm-dpl en date du 19 janvier 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 309](../../../arretes/2006/arrete-ministeriel-309-2006-01-19/) | ARRETE MINISTERIEL n° 309 mspm-dpl en date du 19 janvier 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Arrêté ministériel n° 310](../../../arretes/2006/arrete-ministeriel-310-2006-01-19/) | ARRETE MINISTERIEL n° 310 mspm-dpl en date du 19 janvier 2006 portant octroi du visa et de l'autorisation de débit à une spécialité pharmaceutique. |
+| [Décret n° 2005-1270](../../../decrets/2005/decret-2005-1270/) | DECRET n° 2005-1270 du 29 décembre 2005 portant organisation du Conseil national de l'Assistance médicale d'Urgence et des Transports sanitaires. |
+| [Décret n° 2005-1271](../../../decrets/2005/decret-2005-1271/) | DECRET n° 2005-1271 du 29 décembre 2005 portant organisation administrative et financière du Service d'Assistance médicale d'Urgence (SAMU). |
+| [Décret n° 2005-1275](../../../decrets/2005/decret-2005-1275/) | DECRET n° 2005-1275 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Berthe Abiba de nationalité ivoirienne. |
+| [Décret n° 2005-1276](../../../decrets/2005/decret-2005-1276/) | DECRET n° 2005-1276 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Felma Bintou Jalloh de nationalité libérienne. |
+| [Décret n° 2005-1277](../../../decrets/2005/decret-2005-1277/) | DECRET n° 2005-1277 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Seynabou Touré de nationalité ivoirienne. |
+| [Décret n° 2005-1278](../../../decrets/2005/decret-2005-1278/) | DECRET n° 2005-1278 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Garnett Rachaël Ernestine de nationalité libérienne. |
+| [Décret n° 2005-1279](../../../decrets/2005/decret-2005-1279/) | DECRET n° 2005-1279 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Sarah Coulibaly de nationalité ivoirienne. |
+| [Décret n° 2005-1280](../../../decrets/2005/decret-2005-1280/) | DECRET n° 2005-1280 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Dro Angèle de nationalité ivoirienne. |
+| [Décret n° 2005-1281](../../../decrets/2005/decret-2005-1281/) | DECRET n° 2005-1281 en date du 29 décembre 2005 portant octroi du statut de réfugié à M. Joshua Cooper de nationalité libérienne. |
+| [Décret n° 2005-1282](../../../decrets/2005/decret-2005-1282/) | DECRET n° 2005-1282 en date du 29 décembre 2005 portant octroi du statut de réfugié à Mme Allate Monique de nationalité ivoirienne. |
+| [Décret n° 2005-1283](../../../decrets/2005/decret-2005-1283/) | DECRET n° 2005-1283 du 29 décembre 2005 portant autorisation de perte de la nationalité sénégalaise. |
+| [Décret n° 2005-1284](../../../decrets/2005/decret-2005-1284/) | DECRET n° 2005-1284 du 29 décembre 2005 accordant la dispense prévue à l'article 226 du Code la Famille. |
+| [Loi n° 2006-07](../../../lois/2006/loi-2006-07/) | LOI n° 2006-07 du 6 janvier 2006 autorisant le Président de la République à ratifier le Protocole sur les Amendements à l'Acte constitutif de l'Union africaine, |
+| [Loi n° 2006-08](../../../lois/2006/loi-2006-08/) | LOI n° 2006-08 du 6 janvier 2006 autorisant le Président de la République à ratifier l'Accord entre le Gouvernement de la République du sénégal et la Commission |

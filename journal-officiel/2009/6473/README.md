@@ -1,0 +1,41 @@
+# Journal officiel n° 6473 du 2009-06-06
+
+Textes de ce numéro conservés dans ce dépôt (archive du site jo.gouv.sn).
+
+| Texte | Intitulé |
+| --- | --- |
+| [Arrêté interministériel n° 10214](../../../arretes/2008/arrete-interministeriel-10214-2008-11-24/) | Arrêté interministériel n° 10214 en date du 24 novembre 2008 portant agrément de coopératives d'habitat. |
+| [Arrêté interministériel n° 10215](../../../arretes/2008/arrete-interministeriel-10215-2008-11-24/) | Arrêté interministériel n° 10215 en date du 24 novembre 2008 portant agrément de coopératives d'habitat. |
+| [Arrêté interministériel n° 10216](../../../arretes/2008/arrete-interministeriel-10216-2008-11-24/) | Arrêté interministériel n° 10216 en date du 24 novembre 2008 portant agrément de coopératives d'habitat. |
+| [Arrêté ministériel n° 10453](../../../arretes/2008/arrete-ministeriel-10453-2008-12-03/) | Arrêté ministériel n° 10453 MSPDPL en date du 3 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10454](../../../arretes/2008/arrete-ministeriel-10454-2008-12-03/) | Arrêté ministériel n° 10454 MSPDPL en date du 3 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10455](../../../arretes/2008/arrete-ministeriel-10455-2008-12-03/) | Arrêté ministériel n° 10455 MSPDPL en date du 3 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10456](../../../arretes/2008/arrete-ministeriel-10456-2008-12-03/) | Arrêté ministériel n° 10456 MSPDPL en date du 3 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10500](../../../arretes/2008/arrete-ministeriel-10500-2008-12-08/) | Arrêté ministériel n° 10500 en date du 8 décembre 2008 MEFP-DMC portant retrait d'agrément de Attijari Bank Sénégal (ABS). |
+| [Arrêté ministériel n° 10607](../../../arretes/2008/arrete-ministeriel-10607-2008-12-10/) | Arrêté ministériel n° 10607 MSPDPL en date du 10 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10608](../../../arretes/2008/arrete-ministeriel-10608-2008-12-10/) | Arrêté ministériel n° 10608 MSPDPL en date du 10 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10609](../../../arretes/2008/arrete-ministeriel-10609-2008-12-10/) | Arrêté ministériel n° 10609 MSPDPL en date du 10 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 10837](../../../arretes/2008/arrete-ministeriel-10837-2008-12-18/) | Arrêté ministériel n° 10837 MSP-DPL en date du 18 décembre 2008 portant octroi du visa et de l'autorisation de débit à la spécialité : Entamizole 250mg/200mg B/ |
+| [Arrêté ministériel n° 10841](../../../arretes/2008/arrete-ministeriel-10841-2008-12-18/) | Arrêté ministériel n° 10841 MSP-DS-DMPMTMT en date du 18 décembre 2008 portant autorisation d'ouverture d'un cabinet médical privé. |
+| [Arrêté ministériel n° 10844](../../../arretes/2008/arrete-ministeriel-10844-2008-12-18/) | Arrêté ministériel n° 10844 MSP-DS-DSBD en date du 18 décembre 2008 portant autorisation d'exercer à titre privé, la profession de chirurgien dentiste aux Parce |
+| [Arrêté ministériel n° 10845](../../../arretes/2008/arrete-ministeriel-10845-2008-12-18/) | Arrêté ministériel n° 10845 MSP-DS-DSBD en date du 18 décembre 2008 portant autorisation d'exercer à titre privé, la profession de chirurgien dentiste à la rue  |
+| [Arrêté ministériel n° 11136](../../../arretes/2008/arrete-ministeriel-11136-2008-12-31/) | Arrêté ministériel n° 11136 en date du 31 décembre 2008 portant autorisation de lotir le terrain objet du titre foncier n° 26.693-DG devenu 6.867-GRD, sis sur l |
+| [Arrêté ministériel n° 11137](../../../arretes/2008/arrete-ministeriel-11137-2008-12-31/) | Arrêté ministériel n° 11137 en date du 31 décembre 2008 portant autorisation de lotir le terrain objet du titre foncier n° 12.172-DG, sis à Nord Foire Route du  |
+| [Arrêté ministériel n° 11234](../../../arretes/2008/arrete-ministeriel-11234-2008-12-31/) | Arrêté ministériel n° 11234 MSP-DPL en date du 31 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 11235](../../../arretes/2008/arrete-ministeriel-11235-2008-12-31/) | Arrêté ministériel n° 11235 MSP-DPL en date du 31 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Arrêté ministériel n° 11236](../../../arretes/2008/arrete-ministeriel-11236-2008-12-31/) | Arrêté ministériel n° 11236 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation de transfert d'un cabinet paramédical privé. |
+| [Arrêté ministériel n° 11237](../../../arretes/2008/arrete-ministeriel-11237-2008-12-31/) | Arrêté ministériel n° 11237 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation de transfert d'un dispensaire privé. |
+| [Arrêté ministériel n° 11238](../../../arretes/2008/arrete-ministeriel-11238-2008-12-21/) | Arrêté ministériel n° 11238 MSP-DS-DMPMTMT en date du 21 décembre 2008 portant autorisation de transfert d'un dispensaire privé. |
+| [Arrêté ministériel n° 11239](../../../arretes/2008/arrete-ministeriel-11239-2008-12-31/) | Arrêté ministériel n° 11239 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation de transfert d'un cabinet médical privé. |
+| [Arrêté ministériel n° 11240](../../../arretes/2008/arrete-ministeriel-11240-2008-12-31/) | Arrêté ministériel n° 11240 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation d'ouverture d'un cabinet médical privé. |
+| [Arrêté ministériel n° 11241](../../../arretes/2008/arrete-ministeriel-11241-2008-12-31/) | Arrêté ministériel n° 11241 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation d'exercer à titre privé la chirurgie générale. |
+| [Arrêté ministériel n° 11242](../../../arretes/2008/arrete-ministeriel-11242-2008-12-31/) | Arrêté ministériel n° 11242 MSP-DS-DMPMTMT en date du 31 décembre 2008 portant autorisation d'exercer à titre privé la Neurologie au sein du cabinet de Radiolog |
+| [Arrêté ministériel n° 11245](../../../arretes/2008/arrete-ministeriel-11245-2008-12-31/) | Arrêté ministériel n° 11245 MSP-DPL en date du 31 décembre 2008 portant autorisation d'exercer la pharmacie en qualité de Pharmacien Directeur général. |
+| [Arrêté ministériel n° 9762](../../../arretes/2008/arrete-ministeriel-9762-2008-11-13/) | Arrêté ministériel n° 9762 en date du 13 novembre 2008 fixant le taux de redevance de régulation des marché publics au titre des années 2008-2009. |
+| [Arrêté ministériel n° 11243](../../../arretes/2009/arrete-ministeriel-11243-2009-06-06/) | Arrêté ministériel n° 11243 MSP-DPL en date du 31 décembre 2008 portant abrogation de l'arrêté 3550 MSPM-DPL du 22 juillet 2005 portant autorisation d'ouverture |
+| [Arrêté ministériel n° 11244](../../../arretes/2009/arrete-ministeriel-11244-2009-06-06/) | Arrêté ministériel n° 11244 MSP-DPL en date du 31 décembre 2008 portant enregistrement de la déclaration d'exploitation d'une officine de pharmacie. |
+| [Décret n° 2009-26](../../../decrets/2009/decret-2009-26/) | Décret n° 2009-26 du 22 janvier 2009 portant concession de la Médaille d'Honneur de Sapeur-pompier à titre posthume. |
+| [Décret n° 2009-27](../../../decrets/2009/decret-2009-27/) | Décret n° 2009-27 du 22 janvier 2009 portant concession de la Médaille d'Honneur de la Marine nationale. |
+| [Décret n° 2009-28](../../../decrets/2009/decret-2009-28/) | Décret n° 2009-28 du 22 janvier 2009 portant concession de la Médaille d'Honneur de l'Aéronautique militaire. |
+| [Loi n° 2009-04](../../../lois/2009/loi-2009-04/) | LOI n° 2009-04 du 9 janvier 2009 autorisant le Président de la République à ratifier l'Accord sur l'Encouragement et la Protection des investissements entre le  |
+| [Loi n° 2009-05](../../../lois/2009/loi-2009-05/) | LOI n° 2009-05 du 9 janvier 2009 autorisant la prise de participation majoritaire de l'Etat dans la Société anonyme dénommée Aéroport International Blaise Diagn |
