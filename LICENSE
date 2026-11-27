@@ -14,6 +14,7 @@ instruments of UEMOA, CEDEAO, OHADA and other organisations as printed in the Jo
   "Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference". The texts taken are the official PDFs it
   hosts (laws, ordinances, decrees; the Code des douanes as published by the Direction générale des douanes).
 - Commission de Protection des Données Personnelles (cdp.sn, Internet Archive copy), for two words of Loi n° 2008-12.
+- WIPO Lex (https://www.wipo.int/wipolex/en/details.jsp?id=6336), for the Code pénal: a secondary copy of the Droit-afrique consolidation; no licence stated for the text. The consolidated codes taken from vie-publique.sn (Code de la famille, de procédure civile, des obligations civiles et commerciales, du travail, de la sécurité sociale) are likewise Droit-afrique / Juriconsult consolidations; no licence stated. For these copies line-end hyphenation was repaired and the lines were reflowed into paragraphs.
 
 None of these publishers states a licence for the legal texts; their copyright status is not confirmed here, and
 they are reproduced as official texts with the attribution above. Changes made by Lexifina: one Markdown file per
